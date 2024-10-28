@@ -1,0 +1,368 @@
+{
+  "displayName": "The Meeples",
+  "puzzles": {
+    "intro": {
+      "puzName": "intro",
+      "slug": "a_night_under_the_stars",
+      "displayName": "A Night Under The Stars",
+      "isNew": true,
+      "unlockTime": 1726826852490,
+      "solveTime": 1727021759495,
+      "isStory": true,
+      "mapPos": {
+        "x": 86.65771484375,
+        "y": 23.6358642578125
+      },
+      "cutsceneImages": [
+        "intro.svg",
+        "intro-ok.svg",
+        "blank",
+        "starry-sky",
+        "blank-sky",
+        "falling-star",
+        "falling-stelle",
+        "stelle-collapsed",
+        "stelle",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "puz89": {
+      "puzName": "puz89",
+      "slug": "a_b_c",
+      "displayName": "A+B=C",
+      "hasAnswer": true,
+      "answer": "BACK",
+      "isNew": true,
+      "unlockTime": 1727021780418,
+      "solveTime": 1727022243547,
+      "mapPos": {
+        "x": 44.79522705078125,
+        "y": 37.0269775390625
+      }
+    },
+    "first-wish": {
+      "puzName": "first-wish",
+      "slug": "a_fallen_star",
+      "displayName": "A Fallen Star",
+      "isNew": true,
+      "unlockTime": 1727021780420,
+      "solveTime": 1727021877955,
+      "isStory": true,
+      "mapPos": {
+        "x": 76.165771484375,
+        "y": 36.048126220703125
+      },
+      "cutsceneImages": [
+        "stelle-thinking",
+        "stelle",
+        "stelle-happy"
+      ],
+      "noCannedHints": true
+    },
+    "first-solve": {
+      "puzName": "first-solve",
+      "slug": "a_glimmer_of_hope",
+      "displayName": "A Glimmer of Hope",
+      "isNew": true,
+      "unlockTime": 1727022243548,
+      "solveTime": 1727022345793,
+      "isStory": true,
+      "mapPos": {
+        "x": 1.129150390625,
+        "y": 9.30328369140625
+      },
+      "cutsceneImages": [
+        "stelle",
+        "stelle-happy",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "puz166": {
+      "puzName": "puz166",
+      "slug": "repeat_after_me",
+      "displayName": "Repeat After Me",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727022348696,
+      "mapPos": {
+        "x": 59.393310546875,
+        "y": 44.431304931640625
+      }
+    },
+    "puz120": {
+      "puzName": "puz120",
+      "slug": "bubble_wrap_puzzle",
+      "displayName": "Bubble Wrap Puzzle",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727023233103,
+      "mapPos": {
+        "x": 93.59588623046875,
+        "y": 11.731719970703125
+      }
+    },
+    "puz199": {
+      "puzName": "puz199",
+      "slug": "fdc12c7a",
+      "displayName": "ᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇ",
+      "hasAnswer": true,
+      "answer": "BATMAN",
+      "isNew": true,
+      "unlockTime": 1727023605522,
+      "solveTime": 1727111295436,
+      "sequenceId": "na",
+      "constellationEdges": [
+        "puz204"
+      ],
+      "mapPos": {
+        "x": 82,
+        "y": 22
+      }
+    },
+    "puz232": {
+      "puzName": "puz232",
+      "slug": "mobel",
+      "displayName": "Möbel",
+      "hasAnswer": true,
+      "answer": "BANK",
+      "isNew": true,
+      "unlockTime": 1727023682276,
+      "solveTime": 1727026814799,
+      "sequenceId": "sweden",
+      "constellationEdges": [
+        "puz235"
+      ],
+      "mapPos": {
+        "x": 92,
+        "y": 41
+      }
+    },
+    "puz170": {
+      "puzName": "puz170",
+      "slug": "and_if_you_look_to_the_left",
+      "displayName": "And if you look to the left...",
+      "hasAnswer": true,
+      "answer": "HIMEJI CASTLE",
+      "isNew": true,
+      "unlockTime": 1727026884210,
+      "solveTime": 1727027080422,
+      "sequenceId": "look",
+      "mapPos": {
+        "x": 82,
+        "y": 4
+      }
+    },
+    "puz53": {
+      "puzName": "puz53",
+      "slug": "obligatory_connections_puzzle",
+      "displayName": "Obligatory Connections Puzzle",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727027096403,
+      "mapPos": {
+        "x": 33.02459716796875,
+        "y": 32.315826416015625
+      },
+      "hasMultipleAnswers": true
+    },
+    "puz200": {
+      "puzName": "puz200",
+      "slug": "color",
+      "displayName": "Color",
+      "hasAnswer": true,
+      "answer": "FACADE",
+      "isNew": true,
+      "unlockTime": 1727081536489,
+      "solveTime": 1727089750356,
+      "sequenceId": "color",
+      "constellationEdges": [
+        "puz165"
+      ],
+      "mapPos": {
+        "x": 19,
+        "y": 2
+      }
+    },
+    "puz236": {
+      "puzName": "puz236",
+      "slug": "weight",
+      "displayName": "Weight",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727081539794,
+      "mapPos": {
+        "x": 58.73565673828125,
+        "y": 39.740753173828125
+      }
+    },
+    "puz108": {
+      "puzName": "puz108",
+      "slug": "cro_ssw_ord",
+      "displayName": "CRO/SSW/ORD",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727081542213,
+      "sequenceId": "crossword",
+      "constellationEdges": [
+        "puz298"
+      ],
+      "mapPos": {
+        "x": 33,
+        "y": 16
+      }
+    },
+    "puz268": {
+      "puzName": "puz268",
+      "slug": "necklace",
+      "displayName": "Necklace",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727081549572,
+      "sequenceId": "necklace",
+      "constellationEdges": [
+        "puz272"
+      ],
+      "mapPos": {
+        "x": 86,
+        "y": 46
+      }
+    },
+    "puz72": {
+      "puzName": "puz72",
+      "slug": "painting_e633d04d",
+      "displayName": "Painting",
+      "hasAnswer": true,
+      "answer": "GALLERIES",
+      "isNew": true,
+      "unlockTime": 1727089761470,
+      "solveTime": 1727113469941,
+      "sequenceId": "painting",
+      "constellationEdges": [
+        "puz84"
+      ],
+      "mapPos": {
+        "x": 86,
+        "y": 1
+      }
+    },
+    "brighter-skies": {
+      "puzName": "brighter-skies",
+      "slug": "brighter_skies",
+      "displayName": "Brighter Skies",
+      "isNew": true,
+      "unlockTime": 1727111295437,
+      "solveTime": 1727204018999,
+      "isStory": true,
+      "mapPos": {
+        "x": 12.48016357421875,
+        "y": 25.244903564453125
+      },
+      "cutsceneImages": [
+        "stelle",
+        "stelle-happy",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "puz22": {
+      "puzName": "puz22",
+      "slug": "6fa87a4b",
+      "displayName": "",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727113498293,
+      "rarity": "rare",
+      "mapPos": {
+        "x": 12.80670166015625,
+        "y": 29.6112060546875
+      },
+      "untitledPuzzleIndex": 0
+    },
+    "puz84": {
+      "puzName": "puz84",
+      "slug": "painting_5db4453d",
+      "displayName": "Painting",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727113730847,
+      "sequenceId": "painting",
+      "constellationEdges": [
+        "puz92",
+        "puz95"
+      ],
+      "mapPos": {
+        "x": 87,
+        "y": 5
+      }
+    },
+    "puz38": {
+      "puzName": "puz38",
+      "slug": "lele",
+      "displayName": "LELE!",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727203615700,
+      "mapPos": {
+        "x": 83.27789306640625,
+        "y": 48.55804443359375
+      }
+    },
+    "puz141": {
+      "puzName": "puz141",
+      "slug": "domino_effect",
+      "displayName": "Domino Effect",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727263966337,
+      "sequenceId": "domino",
+      "constellationEdges": [
+        "puz132"
+      ],
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 73,
+        "y": 8
+      }
+    },
+    "puz49": {
+      "puzName": "puz49",
+      "slug": "towers_i",
+      "displayName": "Towers I",
+      "hasAnswer": true,
+      "answer": "AMALGAMATE",
+      "isNew": true,
+      "unlockTime": 1727335470187,
+      "solveTime": 1727335653086,
+      "sequenceId": "towers",
+      "constellationEdges": [
+        "puz28"
+      ],
+      "mapPos": {
+        "x": 17,
+        "y": 15
+      }
+    },
+    "puz180": {
+      "puzName": "puz180",
+      "slug": "a_puzzle_containing_enumerations",
+      "displayName": "A Puzzle Containing Enumerations of Titles of Various Works, Which Itself Has a Title Appropriate to the Theme of the Puzzle (2024)",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727336955799,
+      "mapPos": {
+        "x": 12.60528564453125,
+        "y": 40.564727783203125
+      }
+    }
+  },
+  "huntStartTime": 1726871280000,
+  "huntEndTime": 1727735280000,
+  "hopeSnapshot": {
+    "hope": 138.0992777777777,
+    "timestamp": 1727336955800
+  },
+  "cutsceneChoices": {},
+  "lockedSolutions": {}
+}

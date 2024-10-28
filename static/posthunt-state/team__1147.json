@@ -1,0 +1,154 @@
+{
+  "displayName": "mpstable",
+  "puzzles": {
+    "intro": {
+      "puzName": "intro",
+      "slug": "a_night_under_the_stars",
+      "displayName": "A Night Under The Stars",
+      "isNew": true,
+      "unlockTime": 1727121649783,
+      "solveTime": 1727121796129,
+      "isStory": true,
+      "mapPos": {
+        "x": 86.65771484375,
+        "y": 23.6358642578125
+      },
+      "cutsceneImages": [
+        "intro.svg",
+        "intro-ok.svg",
+        "blank",
+        "starry-sky",
+        "blank-sky",
+        "falling-star",
+        "falling-stelle",
+        "stelle-collapsed",
+        "stelle",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "puz199": {
+      "puzName": "puz199",
+      "slug": "fdc12c7a",
+      "displayName": "ᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇ",
+      "hasAnswer": true,
+      "answer": "BATMAN",
+      "isNew": true,
+      "unlockTime": 1727121804767,
+      "solveTime": 1727123316445,
+      "sequenceId": "na",
+      "constellationEdges": [
+        "puz204"
+      ],
+      "mapPos": {
+        "x": 82,
+        "y": 22
+      }
+    },
+    "first-wish": {
+      "puzName": "first-wish",
+      "slug": "a_fallen_star",
+      "displayName": "A Fallen Star",
+      "isNew": true,
+      "unlockTime": 1727121804769,
+      "solveTime": 1727121914561,
+      "isStory": true,
+      "mapPos": {
+        "x": 76.165771484375,
+        "y": 36.048126220703125
+      },
+      "cutsceneImages": [
+        "stelle-thinking",
+        "stelle",
+        "stelle-happy"
+      ],
+      "noCannedHints": true
+    },
+    "puz268": {
+      "puzName": "puz268",
+      "slug": "necklace",
+      "displayName": "Necklace",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727121954610,
+      "sequenceId": "necklace",
+      "constellationEdges": [
+        "puz272"
+      ],
+      "mapPos": {
+        "x": 86,
+        "y": 46
+      }
+    },
+    "puz72": {
+      "puzName": "puz72",
+      "slug": "painting_e633d04d",
+      "displayName": "Painting",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727122357534,
+      "sequenceId": "painting",
+      "constellationEdges": [
+        "puz84"
+      ],
+      "mapPos": {
+        "x": 86,
+        "y": 1
+      }
+    },
+    "first-solve": {
+      "puzName": "first-solve",
+      "slug": "a_glimmer_of_hope",
+      "displayName": "A Glimmer of Hope",
+      "isNew": true,
+      "unlockTime": 1727123316446,
+      "isStory": true,
+      "mapPos": {
+        "x": 1.129150390625,
+        "y": 9.30328369140625
+      },
+      "cutsceneImages": [
+        "stelle",
+        "stelle-happy",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "puz250": {
+      "puzName": "puz250",
+      "slug": "path",
+      "displayName": "Path",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727186391901,
+      "sequenceId": "wikipedia",
+      "constellationEdges": [
+        "puz117"
+      ],
+      "mapPos": {
+        "x": 32,
+        "y": 24
+      }
+    },
+    "puz135": {
+      "puzName": "puz135",
+      "slug": "a_sudoku_with_only_8_hidden",
+      "displayName": "A Sudoku With Only 8 Hidden Digits!?",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727288430353,
+      "mapPos": {
+        "x": 67.4835205078125,
+        "y": 37.290191650390625
+      }
+    }
+  },
+  "huntStartTime": 1726871280000,
+  "huntEndTime": 1727735280000,
+  "hopeSnapshot": {
+    "hope": 900,
+    "timestamp": 1727288430354
+  },
+  "cutsceneChoices": {},
+  "lockedSolutions": {}
+}

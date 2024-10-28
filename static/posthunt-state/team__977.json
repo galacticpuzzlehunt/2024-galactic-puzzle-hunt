@@ -1,0 +1,130 @@
+{
+  "displayName": "It's a secret",
+  "puzzles": {
+    "intro": {
+      "puzName": "intro",
+      "slug": "a_night_under_the_stars",
+      "displayName": "A Night Under The Stars",
+      "isNew": true,
+      "unlockTime": 1726932481041,
+      "solveTime": 1726970850684,
+      "isStory": true,
+      "mapPos": {
+        "x": 86.65771484375,
+        "y": 23.6358642578125
+      },
+      "cutsceneImages": [
+        "intro.svg",
+        "intro-ok.svg",
+        "blank",
+        "starry-sky",
+        "blank-sky",
+        "falling-star",
+        "falling-stelle",
+        "stelle-collapsed",
+        "stelle",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "puz170": {
+      "puzName": "puz170",
+      "slug": "and_if_you_look_to_the_left",
+      "displayName": "And if you look to the left...",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726970855800,
+      "sequenceId": "look",
+      "mapPos": {
+        "x": 82,
+        "y": 4
+      }
+    },
+    "first-wish": {
+      "puzName": "first-wish",
+      "slug": "a_fallen_star",
+      "displayName": "A Fallen Star",
+      "isNew": true,
+      "unlockTime": 1726970855802,
+      "isStory": true,
+      "mapPos": {
+        "x": 76.165771484375,
+        "y": 36.048126220703125
+      },
+      "cutsceneImages": [
+        "stelle-thinking",
+        "stelle",
+        "stelle-happy"
+      ],
+      "noCannedHints": true
+    },
+    "puz8": {
+      "puzName": "puz8",
+      "slug": "xxcxxxxxx",
+      "displayName": "XXCXXXXXX",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726970881967,
+      "mapPos": {
+        "x": 59.87548828125,
+        "y": 4.39605712890625
+      }
+    },
+    "puz72": {
+      "puzName": "puz72",
+      "slug": "painting_e633d04d",
+      "displayName": "Painting",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726970890167,
+      "sequenceId": "painting",
+      "constellationEdges": [
+        "puz84"
+      ],
+      "mapPos": {
+        "x": 86,
+        "y": 1
+      }
+    },
+    "puz67": {
+      "puzName": "puz67",
+      "slug": "extremely_easy_puzzle",
+      "displayName": "Extremely Easy Puzzle",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726970898204,
+      "sequenceId": "difficulty",
+      "constellationEdges": [
+        "puz68"
+      ],
+      "mapPos": {
+        "x": 40.3,
+        "y": 14
+      }
+    },
+    "puz108": {
+      "puzName": "puz108",
+      "slug": "cro_ssw_ord",
+      "displayName": "CRO/SSW/ORD",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726970938019,
+      "sequenceId": "crossword",
+      "constellationEdges": [
+        "puz298"
+      ],
+      "mapPos": {
+        "x": 33,
+        "y": 16
+      }
+    }
+  },
+  "huntStartTime": 1726871280000,
+  "huntEndTime": 1727735280000,
+  "hopeSnapshot": {
+    "hope": 2.426000000000016,
+    "timestamp": 1726970938020
+  },
+  "cutsceneChoices": {},
+  "lockedSolutions": {}
+}

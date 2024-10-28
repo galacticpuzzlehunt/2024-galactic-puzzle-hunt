@@ -1,0 +1,434 @@
+{
+  "displayName": "PurplePuzzlers",
+  "puzzles": {
+    "intro": {
+      "puzName": "intro",
+      "slug": "a_night_under_the_stars",
+      "displayName": "A Night Under The Stars",
+      "isNew": true,
+      "unlockTime": 1726826852438,
+      "solveTime": 1726871843261,
+      "isStory": true,
+      "mapPos": {
+        "x": 86.65771484375,
+        "y": 23.6358642578125
+      },
+      "cutsceneImages": [
+        "intro.svg",
+        "intro-ok.svg",
+        "blank",
+        "starry-sky",
+        "blank-sky",
+        "falling-star",
+        "falling-stelle",
+        "stelle-collapsed",
+        "stelle",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "puz250": {
+      "puzName": "puz250",
+      "slug": "path",
+      "displayName": "Path",
+      "hasAnswer": true,
+      "answer": "AMOGUS",
+      "isNew": true,
+      "unlockTime": 1726871852214,
+      "solveTime": 1727373241808,
+      "sequenceId": "wikipedia",
+      "constellationEdges": [
+        "puz117"
+      ],
+      "mapPos": {
+        "x": 32,
+        "y": 24
+      }
+    },
+    "first-wish": {
+      "puzName": "first-wish",
+      "slug": "a_fallen_star",
+      "displayName": "A Fallen Star",
+      "isNew": true,
+      "unlockTime": 1726871852216,
+      "solveTime": 1726871918161,
+      "isStory": true,
+      "mapPos": {
+        "x": 76.165771484375,
+        "y": 36.048126220703125
+      },
+      "cutsceneImages": [
+        "stelle-thinking",
+        "stelle",
+        "stelle-happy"
+      ],
+      "noCannedHints": true
+    },
+    "puz106": {
+      "puzName": "puz106",
+      "slug": "ignore_the_wugs",
+      "displayName": "Ignore the wugs",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726871872646,
+      "mapPos": {
+        "x": 87.83721923828125,
+        "y": 25.048065185546875
+      }
+    },
+    "puz49": {
+      "puzName": "puz49",
+      "slug": "towers_i",
+      "displayName": "Towers I",
+      "hasAnswer": true,
+      "answer": "AMALGAMATE",
+      "isNew": true,
+      "unlockTime": 1726871888620,
+      "solveTime": 1726873862542,
+      "sequenceId": "towers",
+      "constellationEdges": [
+        "puz28"
+      ],
+      "mapPos": {
+        "x": 17,
+        "y": 15
+      }
+    },
+    "puz170": {
+      "puzName": "puz170",
+      "slug": "and_if_you_look_to_the_left",
+      "displayName": "And if you look to the left...",
+      "hasAnswer": true,
+      "answer": "HIMEJI CASTLE",
+      "isNew": true,
+      "unlockTime": 1726871923184,
+      "solveTime": 1726873072925,
+      "sequenceId": "look",
+      "mapPos": {
+        "x": 82,
+        "y": 4
+      }
+    },
+    "puz259": {
+      "puzName": "puz259",
+      "slug": "espresso",
+      "displayName": "Espresso",
+      "hasAnswer": true,
+      "answer": "EMPIRE",
+      "isNew": true,
+      "unlockTime": 1726871942586,
+      "solveTime": 1726945020406,
+      "sequenceId": "espresso",
+      "constellationEdges": [
+        "puz267"
+      ],
+      "mapPos": {
+        "x": 37,
+        "y": 24
+      }
+    },
+    "first-solve": {
+      "puzName": "first-solve",
+      "slug": "a_glimmer_of_hope",
+      "displayName": "A Glimmer of Hope",
+      "isNew": true,
+      "unlockTime": 1726873072926,
+      "solveTime": 1726873108821,
+      "isStory": true,
+      "mapPos": {
+        "x": 1.129150390625,
+        "y": 9.30328369140625
+      },
+      "cutsceneImages": [
+        "stelle",
+        "stelle-happy",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "puz232": {
+      "puzName": "puz232",
+      "slug": "mobel",
+      "displayName": "Möbel",
+      "hasAnswer": true,
+      "answer": "BANK",
+      "isNew": true,
+      "unlockTime": 1726873867693,
+      "solveTime": 1726919724329,
+      "sequenceId": "sweden",
+      "constellationEdges": [
+        "puz235"
+      ],
+      "mapPos": {
+        "x": 92,
+        "y": 41
+      }
+    },
+    "puz66": {
+      "puzName": "puz66",
+      "slug": "rotten_puzzle",
+      "displayName": "Rotten Puzzle",
+      "hasAnswer": true,
+      "answer": "GROSS",
+      "isNew": true,
+      "unlockTime": 1726874239748,
+      "solveTime": 1726875372391,
+      "mapPos": {
+        "x": 61.968994140625,
+        "y": 20.642852783203125
+      }
+    },
+    "puz199": {
+      "puzName": "puz199",
+      "slug": "fdc12c7a",
+      "displayName": "ᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇ",
+      "hasAnswer": true,
+      "answer": "BATMAN",
+      "isNew": true,
+      "unlockTime": 1726875375125,
+      "solveTime": 1726918832698,
+      "sequenceId": "na",
+      "constellationEdges": [
+        "puz204"
+      ],
+      "mapPos": {
+        "x": 82,
+        "y": 22
+      }
+    },
+    "puz155": {
+      "puzName": "puz155",
+      "slug": "boundaries",
+      "displayName": "Boundaries",
+      "hasAnswer": true,
+      "answer": "NEW CASTLE",
+      "isNew": true,
+      "unlockTime": 1726876436566,
+      "solveTime": 1726951687947,
+      "mapPos": {
+        "x": 24.3804931640625,
+        "y": 35.834503173828125
+      }
+    },
+    "puz200": {
+      "puzName": "puz200",
+      "slug": "color",
+      "displayName": "Color",
+      "hasAnswer": true,
+      "answer": "FACADE",
+      "isNew": true,
+      "unlockTime": 1726883622793,
+      "solveTime": 1726883765151,
+      "sequenceId": "color",
+      "constellationEdges": [
+        "puz165"
+      ],
+      "mapPos": {
+        "x": 19,
+        "y": 2
+      }
+    },
+    "puz108": {
+      "puzName": "puz108",
+      "slug": "cro_ssw_ord",
+      "displayName": "CRO/SSW/ORD",
+      "hasAnswer": true,
+      "answer": "PEASANTRY",
+      "isNew": true,
+      "unlockTime": 1726886676490,
+      "solveTime": 1726918750812,
+      "sequenceId": "crossword",
+      "constellationEdges": [
+        "puz298"
+      ],
+      "mapPos": {
+        "x": 33,
+        "y": 16
+      }
+    },
+    "puz72": {
+      "puzName": "puz72",
+      "slug": "painting_e633d04d",
+      "displayName": "Painting",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726890385047,
+      "sequenceId": "painting",
+      "constellationEdges": [
+        "puz84"
+      ],
+      "mapPos": {
+        "x": 86,
+        "y": 1
+      }
+    },
+    "brighter-skies": {
+      "puzName": "brighter-skies",
+      "slug": "brighter_skies",
+      "displayName": "Brighter Skies",
+      "isNew": true,
+      "unlockTime": 1726918750813,
+      "isStory": true,
+      "mapPos": {
+        "x": 12.48016357421875,
+        "y": 25.244903564453125
+      },
+      "cutsceneImages": [
+        "stelle",
+        "stelle-happy",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "puz36": {
+      "puzName": "puz36",
+      "slug": "sums",
+      "displayName": "Sums",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726919768193,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 59.2041015625,
+        "y": 18.183135986328125
+      }
+    },
+    "puz241": {
+      "puzName": "puz241",
+      "slug": "51072d5a",
+      "displayName": "□□□□□□",
+      "hasAnswer": true,
+      "answer": "ACCENT",
+      "isNew": true,
+      "unlockTime": 1726921074132,
+      "solveTime": 1726921113985,
+      "mapPos": {
+        "x": 73.85101318359375,
+        "y": 26.4068603515625
+      }
+    },
+    "puz235": {
+      "puzName": "puz235",
+      "slug": "the_system",
+      "displayName": "The System",
+      "hasAnswer": true,
+      "answer": "NOVA",
+      "isNew": true,
+      "unlockTime": 1726921118534,
+      "solveTime": 1726942645066,
+      "sequenceId": "sweden",
+      "mapPos": {
+        "x": 93,
+        "y": 38
+      }
+    },
+    "puz298": {
+      "puzName": "puz298",
+      "slug": "c_r_o_s_s_w_o_r_d",
+      "displayName": "C/R/O/S/S/W/O/R/D",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726945023547,
+      "sequenceId": "crossword",
+      "constellationEdges": [
+        "puz302"
+      ],
+      "mapPos": {
+        "x": 34,
+        "y": 13
+      }
+    },
+    "puz91": {
+      "puzName": "puz91",
+      "slug": "81e1ed46",
+      "displayName": "",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726951355549,
+      "rarity": "rare",
+      "mapPos": {
+        "x": 45.428466796875,
+        "y": 30.646514892578125
+      },
+      "untitledPuzzleIndex": 0
+    },
+    "puz110": {
+      "puzName": "puz110",
+      "slug": "name_the_instrument",
+      "displayName": "Name the instrument",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726970093303,
+      "sequenceId": "name",
+      "constellationEdges": [
+        "puz280"
+      ],
+      "mapPos": {
+        "x": 51.8,
+        "y": 31
+      }
+    },
+    "puz77": {
+      "puzName": "puz77",
+      "slug": "i_know_how_to_see_them",
+      "displayName": "I know how to see them backwards",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726970099583,
+      "mapPos": {
+        "x": 59.47265625,
+        "y": 47.595977783203125
+      }
+    },
+    "puz48": {
+      "puzName": "puz48",
+      "slug": "0ea74c14",
+      "displayName": "",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726970106842,
+      "mapPos": {
+        "x": 97.18017578125,
+        "y": 40.13824462890625
+      },
+      "untitledPuzzleIndex": 1
+    },
+    "puz70": {
+      "puzName": "puz70",
+      "slug": "blnks_alterative",
+      "displayName": "BL?NKS ALTER?ATIVE ?PACE SHO?N G?TTING ?EASONING",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727270139567,
+      "mapPos": {
+        "x": 39.007568359375,
+        "y": 19.9188232421875
+      }
+    },
+    "puz175": {
+      "puzName": "puz175",
+      "slug": "clues_with_answers",
+      "displayName": "Clues with Answers",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727270149566,
+      "sequenceId": "clues",
+      "constellationEdges": [
+        "puz215"
+      ],
+      "rarity": "rare",
+      "mapPos": {
+        "x": 17.5,
+        "y": 27
+      }
+    }
+  },
+  "huntStartTime": 1726871280000,
+  "huntEndTime": 1727735280000,
+  "hopeSnapshot": {
+    "hope": 207.31138888888893,
+    "timestamp": 1727373562871
+  },
+  "cutsceneChoices": {},
+  "lockedSolutions": {}
+}

@@ -1,0 +1,121 @@
+{
+  "displayName": "Me Myself and I",
+  "puzzles": {
+    "intro": {
+      "puzName": "intro",
+      "slug": "a_night_under_the_stars",
+      "displayName": "A Night Under The Stars",
+      "isNew": true,
+      "unlockTime": 1726826853400,
+      "solveTime": 1726874415486,
+      "isStory": true,
+      "mapPos": {
+        "x": 86.65771484375,
+        "y": 23.6358642578125
+      },
+      "cutsceneImages": [
+        "intro.svg",
+        "intro-ok.svg",
+        "blank",
+        "starry-sky",
+        "blank-sky",
+        "falling-star",
+        "falling-stelle",
+        "stelle-collapsed",
+        "stelle",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "puz128": {
+      "puzName": "puz128",
+      "slug": "funny_number_conundrum",
+      "displayName": "Funny Number Conundrum",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726874422740,
+      "mapPos": {
+        "x": 4.4952392578125,
+        "y": 30.393218994140625
+      }
+    },
+    "first-wish": {
+      "puzName": "first-wish",
+      "slug": "a_fallen_star",
+      "displayName": "A Fallen Star",
+      "isNew": true,
+      "unlockTime": 1726874422742,
+      "isStory": true,
+      "mapPos": {
+        "x": 76.165771484375,
+        "y": 36.048126220703125
+      },
+      "cutsceneImages": [
+        "stelle-thinking",
+        "stelle",
+        "stelle-happy"
+      ],
+      "noCannedHints": true
+    },
+    "puz4": {
+      "puzName": "puz4",
+      "slug": "speech_of_the_officials",
+      "displayName": "Speech of the Officials",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726882610915,
+      "mapPos": {
+        "x": 33.7005615234375,
+        "y": 32.66754150390625
+      }
+    },
+    "puz67": {
+      "puzName": "puz67",
+      "slug": "extremely_easy_puzzle",
+      "displayName": "Extremely Easy Puzzle",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726882772875,
+      "sequenceId": "difficulty",
+      "constellationEdges": [
+        "puz68"
+      ],
+      "mapPos": {
+        "x": 40.3,
+        "y": 14
+      }
+    },
+    "puz60": {
+      "puzName": "puz60",
+      "slug": "grid",
+      "displayName": "Grid",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726882884058,
+      "mapPos": {
+        "x": 76.7913818359375,
+        "y": 36.0870361328125
+      }
+    },
+    "puz166": {
+      "puzName": "puz166",
+      "slug": "repeat_after_me",
+      "displayName": "Repeat After Me",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726882908953,
+      "mapPos": {
+        "x": 59.393310546875,
+        "y": 44.431304931640625
+      }
+    }
+  },
+  "huntStartTime": 1726871280000,
+  "huntEndTime": 1727735280000,
+  "hopeSnapshot": {
+    "hope": 138.29450000000006,
+    "timestamp": 1726882994088
+  },
+  "cutsceneChoices": {},
+  "lockedSolutions": {}
+}

@@ -1,0 +1,154 @@
+{
+  "displayName": "Puzzletimestart",
+  "puzzles": {
+    "intro": {
+      "puzName": "intro",
+      "slug": "a_night_under_the_stars",
+      "displayName": "A Night Under The Stars",
+      "isNew": true,
+      "unlockTime": 1726826852334,
+      "solveTime": 1726883328765,
+      "isStory": true,
+      "mapPos": {
+        "x": 86.65771484375,
+        "y": 23.6358642578125
+      },
+      "cutsceneImages": [
+        "intro.svg",
+        "intro-ok.svg",
+        "blank",
+        "starry-sky",
+        "blank-sky",
+        "falling-star",
+        "falling-stelle",
+        "stelle-collapsed",
+        "stelle",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "puz208": {
+      "puzName": "puz208",
+      "slug": "placeholder",
+      "displayName": "Placeholder",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726896498719,
+      "mapPos": {
+        "x": 30.33294677734375,
+        "y": 2.957916259765625
+      }
+    },
+    "first-wish": {
+      "puzName": "first-wish",
+      "slug": "a_fallen_star",
+      "displayName": "A Fallen Star",
+      "isNew": true,
+      "unlockTime": 1726896498721,
+      "solveTime": 1726896575914,
+      "isStory": true,
+      "mapPos": {
+        "x": 76.165771484375,
+        "y": 36.048126220703125
+      },
+      "cutsceneImages": [
+        "stelle-thinking",
+        "stelle",
+        "stelle-happy"
+      ],
+      "noCannedHints": true
+    },
+    "puz23": {
+      "puzName": "puz23",
+      "slug": "nyc_subway",
+      "displayName": "NYC Subway",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726897821867,
+      "mapPos": {
+        "x": 30.1910400390625,
+        "y": 15.5609130859375
+      }
+    },
+    "puz259": {
+      "puzName": "puz259",
+      "slug": "espresso",
+      "displayName": "Espresso",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726897844456,
+      "sequenceId": "espresso",
+      "constellationEdges": [
+        "puz267"
+      ],
+      "mapPos": {
+        "x": 37,
+        "y": 24
+      }
+    },
+    "puz232": {
+      "puzName": "puz232",
+      "slug": "mobel",
+      "displayName": "Möbel",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726897896225,
+      "sequenceId": "sweden",
+      "constellationEdges": [
+        "puz235"
+      ],
+      "mapPos": {
+        "x": 92,
+        "y": 41
+      }
+    },
+    "puz121": {
+      "puzName": "puz121",
+      "slug": "yummy_puzzle",
+      "displayName": "Yummy Puzzle",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726897909493,
+      "mapPos": {
+        "x": 60.0921630859375,
+        "y": 45.996856689453125
+      }
+    },
+    "puz268": {
+      "puzName": "puz268",
+      "slug": "necklace",
+      "displayName": "Necklace",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726897956148,
+      "sequenceId": "necklace",
+      "constellationEdges": [
+        "puz272"
+      ],
+      "mapPos": {
+        "x": 86,
+        "y": 46
+      }
+    },
+    "puz101": {
+      "puzName": "puz101",
+      "slug": "genre",
+      "displayName": "Genre (4,3,4)",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726897968307,
+      "mapPos": {
+        "x": 76.54571533203125,
+        "y": 0.540924072265625
+      }
+    }
+  },
+  "huntStartTime": 1726871280000,
+  "huntEndTime": 1727735280000,
+  "hopeSnapshot": {
+    "hope": 6.930305555555435,
+    "timestamp": 1726897978256
+  },
+  "cutsceneChoices": {},
+  "lockedSolutions": {}
+}

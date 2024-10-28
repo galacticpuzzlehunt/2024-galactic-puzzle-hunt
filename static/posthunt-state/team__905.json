@@ -1,0 +1,202 @@
+{
+  "displayName": "biubiubiu",
+  "puzzles": {
+    "intro": {
+      "puzName": "intro",
+      "slug": "a_night_under_the_stars",
+      "displayName": "A Night Under The Stars",
+      "isNew": true,
+      "unlockTime": 1726895928451,
+      "solveTime": 1726896461016,
+      "isStory": true,
+      "mapPos": {
+        "x": 86.65771484375,
+        "y": 23.6358642578125
+      },
+      "cutsceneImages": [
+        "intro.svg",
+        "intro-ok.svg",
+        "blank",
+        "starry-sky",
+        "blank-sky",
+        "falling-star",
+        "falling-stelle",
+        "stelle-collapsed",
+        "stelle",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "puz135": {
+      "puzName": "puz135",
+      "slug": "a_sudoku_with_only_8_hidden",
+      "displayName": "A Sudoku With Only 8 Hidden Digits!?",
+      "hasAnswer": true,
+      "answer": "ZODIAC",
+      "isNew": true,
+      "unlockTime": 1726896482967,
+      "solveTime": 1726910050775,
+      "mapPos": {
+        "x": 67.4835205078125,
+        "y": 37.290191650390625
+      }
+    },
+    "first-wish": {
+      "puzName": "first-wish",
+      "slug": "a_fallen_star",
+      "displayName": "A Fallen Star",
+      "isNew": true,
+      "unlockTime": 1726896482969,
+      "isStory": true,
+      "mapPos": {
+        "x": 76.165771484375,
+        "y": 36.048126220703125
+      },
+      "cutsceneImages": [
+        "stelle-thinking",
+        "stelle",
+        "stelle-happy"
+      ],
+      "noCannedHints": true
+    },
+    "puz67": {
+      "puzName": "puz67",
+      "slug": "extremely_easy_puzzle",
+      "displayName": "Extremely Easy Puzzle",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726896546501,
+      "sequenceId": "difficulty",
+      "constellationEdges": [
+        "puz68"
+      ],
+      "mapPos": {
+        "x": 40.3,
+        "y": 14
+      }
+    },
+    "puz120": {
+      "puzName": "puz120",
+      "slug": "bubble_wrap_puzzle",
+      "displayName": "Bubble Wrap Puzzle",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726909093428,
+      "mapPos": {
+        "x": 93.59588623046875,
+        "y": 11.731719970703125
+      }
+    },
+    "first-solve": {
+      "puzName": "first-solve",
+      "slug": "a_glimmer_of_hope",
+      "displayName": "A Glimmer of Hope",
+      "isNew": true,
+      "unlockTime": 1726910050776,
+      "solveTime": 1726910531073,
+      "isStory": true,
+      "mapPos": {
+        "x": 1.129150390625,
+        "y": 9.30328369140625
+      },
+      "cutsceneImages": [
+        "stelle",
+        "stelle-happy",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "puz64": {
+      "puzName": "puz64",
+      "slug": "ancient_greek_numbers",
+      "displayName": "Ancient Greek numbers",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726924239738,
+      "sequenceId": "greek",
+      "constellationEdges": [
+        "puz65"
+      ],
+      "mapPos": {
+        "x": 72,
+        "y": 39
+      }
+    },
+    "puz108": {
+      "puzName": "puz108",
+      "slug": "cro_ssw_ord",
+      "displayName": "CRO/SSW/ORD",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726924506588,
+      "sequenceId": "crossword",
+      "constellationEdges": [
+        "puz298"
+      ],
+      "mapPos": {
+        "x": 33,
+        "y": 16
+      }
+    },
+    "puz283": {
+      "puzName": "puz283",
+      "slug": "maze",
+      "displayName": "Maze",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726924914713,
+      "mapPos": {
+        "x": 49.85809326171875,
+        "y": 44.855499267578125
+      }
+    },
+    "puz49": {
+      "puzName": "puz49",
+      "slug": "towers_i",
+      "displayName": "Towers I",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726925501568,
+      "sequenceId": "towers",
+      "constellationEdges": [
+        "puz28"
+      ],
+      "mapPos": {
+        "x": 17,
+        "y": 15
+      }
+    },
+    "puz230": {
+      "puzName": "puz230",
+      "slug": "friendship_ended",
+      "displayName": "Friendship Ended",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726926452714,
+      "mapPos": {
+        "x": 69.66705322265625,
+        "y": 41.876983642578125
+      }
+    },
+    "puz142": {
+      "puzName": "puz142",
+      "slug": "spuejq",
+      "displayName": "spueȷq",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727342609219,
+      "mapPos": {
+        "x": 48.50006103515625,
+        "y": 14.91546630859375
+      }
+    }
+  },
+  "huntStartTime": 1726871280000,
+  "huntEndTime": 1727735280000,
+  "hopeSnapshot": {
+    "hope": 509.0191111111111,
+    "timestamp": 1727342609220
+  },
+  "cutsceneChoices": {},
+  "lockedSolutions": {}
+}

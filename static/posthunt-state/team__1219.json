@@ -1,0 +1,754 @@
+{
+  "displayName": "knights of knavery",
+  "puzzles": {
+    "intro": {
+      "puzName": "intro",
+      "slug": "a_night_under_the_stars",
+      "displayName": "A Night Under The Stars",
+      "isNew": true,
+      "unlockTime": 1727287283139,
+      "solveTime": 1727287422306,
+      "isStory": true,
+      "mapPos": {
+        "x": 86.65771484375,
+        "y": 23.6358642578125
+      },
+      "cutsceneImages": [
+        "intro.svg",
+        "intro-ok.svg",
+        "blank",
+        "starry-sky",
+        "blank-sky",
+        "falling-star",
+        "falling-stelle",
+        "stelle-collapsed",
+        "stelle",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "puz268": {
+      "puzName": "puz268",
+      "slug": "necklace",
+      "displayName": "Necklace",
+      "hasAnswer": true,
+      "answer": "ORIENTAL PEARL TOWER",
+      "isNew": true,
+      "unlockTime": 1727287433621,
+      "solveTime": 1727377893595,
+      "sequenceId": "necklace",
+      "constellationEdges": [
+        "puz272"
+      ],
+      "mapPos": {
+        "x": 86,
+        "y": 46
+      }
+    },
+    "first-wish": {
+      "puzName": "first-wish",
+      "slug": "a_fallen_star",
+      "displayName": "A Fallen Star",
+      "isNew": true,
+      "unlockTime": 1727287433623,
+      "solveTime": 1727287494823,
+      "isStory": true,
+      "mapPos": {
+        "x": 76.165771484375,
+        "y": 36.048126220703125
+      },
+      "cutsceneImages": [
+        "stelle-thinking",
+        "stelle",
+        "stelle-happy"
+      ],
+      "noCannedHints": true
+    },
+    "puz67": {
+      "puzName": "puz67",
+      "slug": "extremely_easy_puzzle",
+      "displayName": "Extremely Easy Puzzle",
+      "hasAnswer": true,
+      "answer": "ANSWER",
+      "isNew": true,
+      "unlockTime": 1727287846826,
+      "solveTime": 1727364601889,
+      "sequenceId": "difficulty",
+      "constellationEdges": [
+        "puz68"
+      ],
+      "mapPos": {
+        "x": 40.3,
+        "y": 14
+      }
+    },
+    "puz128": {
+      "puzName": "puz128",
+      "slug": "funny_number_conundrum",
+      "displayName": "Funny Number Conundrum",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727290518131,
+      "mapPos": {
+        "x": 4.4952392578125,
+        "y": 30.393218994140625
+      }
+    },
+    "puz259": {
+      "puzName": "puz259",
+      "slug": "espresso",
+      "displayName": "Espresso",
+      "hasAnswer": true,
+      "answer": "EMPIRE",
+      "isNew": true,
+      "unlockTime": 1727291210434,
+      "solveTime": 1727333644967,
+      "sequenceId": "espresso",
+      "constellationEdges": [
+        "puz267"
+      ],
+      "mapPos": {
+        "x": 37,
+        "y": 24
+      }
+    },
+    "puz38": {
+      "puzName": "puz38",
+      "slug": "lele",
+      "displayName": "LELE!",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727291227597,
+      "mapPos": {
+        "x": 83.27789306640625,
+        "y": 48.55804443359375
+      }
+    },
+    "puz250": {
+      "puzName": "puz250",
+      "slug": "path",
+      "displayName": "Path",
+      "hasAnswer": true,
+      "answer": "AMOGUS",
+      "isNew": true,
+      "unlockTime": 1727291239387,
+      "solveTime": 1727292622346,
+      "sequenceId": "wikipedia",
+      "constellationEdges": [
+        "puz117"
+      ],
+      "mapPos": {
+        "x": 32,
+        "y": 24
+      }
+    },
+    "first-solve": {
+      "puzName": "first-solve",
+      "slug": "a_glimmer_of_hope",
+      "displayName": "A Glimmer of Hope",
+      "isNew": true,
+      "unlockTime": 1727292622347,
+      "solveTime": 1727292688212,
+      "isStory": true,
+      "mapPos": {
+        "x": 1.129150390625,
+        "y": 9.30328369140625
+      },
+      "cutsceneImages": [
+        "stelle",
+        "stelle-happy",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "puz220": {
+      "puzName": "puz220",
+      "slug": "what_is_that",
+      "displayName": "What is that?",
+      "hasAnswer": true,
+      "answer": "VASISTAS",
+      "isNew": true,
+      "unlockTime": 1727292695667,
+      "solveTime": 1727292953421,
+      "mapPos": {
+        "x": 2.4444580078125,
+        "y": 36.499786376953125
+      }
+    },
+    "puz232": {
+      "puzName": "puz232",
+      "slug": "mobel",
+      "displayName": "Möbel",
+      "hasAnswer": true,
+      "answer": "BANK",
+      "isNew": true,
+      "unlockTime": 1727293374922,
+      "solveTime": 1727328368952,
+      "sequenceId": "sweden",
+      "constellationEdges": [
+        "puz235"
+      ],
+      "mapPos": {
+        "x": 92,
+        "y": 41
+      }
+    },
+    "puz309": {
+      "puzName": "puz309",
+      "slug": "whats_the_answer",
+      "displayName": "What’s the answer?",
+      "hasAnswer": true,
+      "answer": "ANGLE",
+      "isNew": true,
+      "unlockTime": 1727293440196,
+      "solveTime": 1727374789284,
+      "sequenceId": "whats",
+      "constellationEdges": [
+        "puz310"
+      ],
+      "mapPos": {
+        "x": 25.5,
+        "y": 39
+      }
+    },
+    "puz49": {
+      "puzName": "puz49",
+      "slug": "towers_i",
+      "displayName": "Towers I",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727324985787,
+      "sequenceId": "towers",
+      "constellationEdges": [
+        "puz28"
+      ],
+      "mapPos": {
+        "x": 17,
+        "y": 15
+      }
+    },
+    "puz230": {
+      "puzName": "puz230",
+      "slug": "friendship_ended",
+      "displayName": "Friendship Ended",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727325007364,
+      "mapPos": {
+        "x": 69.66705322265625,
+        "y": 41.876983642578125
+      }
+    },
+    "puz199": {
+      "puzName": "puz199",
+      "slug": "fdc12c7a",
+      "displayName": "ᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇ",
+      "hasAnswer": true,
+      "answer": "BATMAN",
+      "isNew": true,
+      "unlockTime": 1727334190558,
+      "solveTime": 1727363157571,
+      "sequenceId": "na",
+      "constellationEdges": [
+        "puz204"
+      ],
+      "mapPos": {
+        "x": 82,
+        "y": 22
+      }
+    },
+    "brighter-skies": {
+      "puzName": "brighter-skies",
+      "slug": "brighter_skies",
+      "displayName": "Brighter Skies",
+      "isNew": true,
+      "unlockTime": 1727363157572,
+      "solveTime": 1727366278639,
+      "isStory": true,
+      "mapPos": {
+        "x": 12.48016357421875,
+        "y": 25.244903564453125
+      },
+      "cutsceneImages": [
+        "stelle",
+        "stelle-happy",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "puz158": {
+      "puzName": "puz158",
+      "slug": "magical_puzzle",
+      "displayName": "Magical Puzzle",
+      "hasAnswer": true,
+      "answer": "YURTS",
+      "isNew": true,
+      "unlockTime": 1727366017003,
+      "solveTime": 1727436747443,
+      "mapPos": {
+        "x": 36.5081787109375,
+        "y": 45.9808349609375
+      }
+    },
+    "puz54": {
+      "puzName": "puz54",
+      "slug": "strong_greek_numbers",
+      "displayName": "Strong Greek numbers",
+      "hasAnswer": true,
+      "answer": "COMPLEX",
+      "isNew": true,
+      "unlockTime": 1727366046547,
+      "solveTime": 1727470959411,
+      "sequenceId": "greek",
+      "constellationEdges": [
+        "puz64"
+      ],
+      "mapPos": {
+        "x": 71,
+        "y": 44
+      }
+    },
+    "puz235": {
+      "puzName": "puz235",
+      "slug": "the_system",
+      "displayName": "The System",
+      "hasAnswer": true,
+      "answer": "NOVA",
+      "isNew": true,
+      "unlockTime": 1727371168867,
+      "solveTime": 1727469331929,
+      "sequenceId": "sweden",
+      "mapPos": {
+        "x": 93,
+        "y": 38
+      }
+    },
+    "puz285": {
+      "puzName": "puz285",
+      "slug": "five_by_five_dbf69e59",
+      "displayName": "Five-By-Five",
+      "hasAnswer": true,
+      "answer": "LANAI",
+      "isNew": true,
+      "unlockTime": 1727374795290,
+      "solveTime": 1727555438362,
+      "sequenceId": "five",
+      "constellationEdges": [
+        "puz286"
+      ],
+      "mapPos": {
+        "x": 62.5,
+        "y": 32.6
+      }
+    },
+    "puz62": {
+      "puzName": "puz62",
+      "slug": "half_mile_grid",
+      "displayName": "Half Mile Grid",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727412968910,
+      "mapPos": {
+        "x": 35.49346923828125,
+        "y": 27.355194091796875
+      }
+    },
+    "puz110": {
+      "puzName": "puz110",
+      "slug": "name_the_instrument",
+      "displayName": "Name the instrument",
+      "hasAnswer": true,
+      "answer": "WATERPHONE",
+      "isNew": true,
+      "unlockTime": 1727413010498,
+      "solveTime": 1727471063768,
+      "sequenceId": "name",
+      "constellationEdges": [
+        "puz280"
+      ],
+      "mapPos": {
+        "x": 51.8,
+        "y": 31
+      }
+    },
+    "puz200": {
+      "puzName": "puz200",
+      "slug": "color",
+      "displayName": "Color",
+      "hasAnswer": true,
+      "answer": "FACADE",
+      "isNew": true,
+      "unlockTime": 1727436755619,
+      "solveTime": 1727438165431,
+      "sequenceId": "color",
+      "constellationEdges": [
+        "puz165"
+      ],
+      "mapPos": {
+        "x": 19,
+        "y": 2
+      }
+    },
+    "puz80": {
+      "puzName": "puz80",
+      "slug": "festive_greek_numbers",
+      "displayName": "Festive Greek numbers",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727469372105,
+      "sequenceId": "greek",
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 75,
+        "y": 38
+      }
+    },
+    "puz27": {
+      "puzName": "puz27",
+      "slug": "2837539a",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "BIONIC",
+      "isNew": true,
+      "unlockTime": 1727469407073,
+      "solveTime": 1727469495506,
+      "mapPos": {
+        "x": 12.97149658203125,
+        "y": 33.815765380859375
+      },
+      "untitledPuzzleIndex": 0
+    },
+    "puz164": {
+      "puzName": "puz164",
+      "slug": "dont_overthink_it",
+      "displayName": "don’t overthink it",
+      "hasAnswer": true,
+      "answer": "ANTICAPITALIST",
+      "isNew": true,
+      "unlockTime": 1727471075778,
+      "solveTime": 1727471098525,
+      "mapPos": {
+        "x": 39.2974853515625,
+        "y": 33.115386962890625
+      }
+    },
+    "puz5": {
+      "puzName": "puz5",
+      "slug": "oooooo",
+      "displayName": "oooooo",
+      "hasAnswer": true,
+      "answer": "VACUOUS",
+      "isNew": true,
+      "unlockTime": 1727471116752,
+      "solveTime": 1727552573761,
+      "mapPos": {
+        "x": 11.968994140625,
+        "y": 18.775177001953125
+      }
+    },
+    "puz85": {
+      "puzName": "puz85",
+      "slug": "time",
+      "displayName": "Time",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727474319711,
+      "mapPos": {
+        "x": 39.12506103515625,
+        "y": 39.130401611328125
+      }
+    },
+    "puz329": {
+      "puzName": "puz329",
+      "slug": "well_well_well",
+      "displayName": "Well, Well, Well",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727549791727,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 13.714599609375,
+        "y": 30.391693115234375
+      }
+    },
+    "puz227": {
+      "puzName": "puz227",
+      "slug": "name_the_polyhedron",
+      "displayName": "Name the polyhedron",
+      "hasAnswer": true,
+      "answer": "ELONGATED GYROBIFASTIGIUM",
+      "isNew": true,
+      "unlockTime": 1727552802359,
+      "solveTime": 1727553599160,
+      "sequenceId": "name",
+      "constellationEdges": [
+        "puz190"
+      ],
+      "mapPos": {
+        "x": 52,
+        "y": 23
+      }
+    },
+    "puz33": {
+      "puzName": "puz33",
+      "slug": "3f4df52f",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "CANTATA",
+      "isNew": true,
+      "unlockTime": 1727555504644,
+      "solveTime": 1727556011205,
+      "rarity": "rare",
+      "mapPos": {
+        "x": 13.46588134765625,
+        "y": 18.9971923828125
+      },
+      "untitledPuzzleIndex": 1
+    },
+    "puz317": {
+      "puzName": "puz317",
+      "slug": "first_letters_of_words",
+      "displayName": "FIRST LETTERS OF WORDS",
+      "hasAnswer": true,
+      "answer": "FLOW",
+      "isNew": true,
+      "unlockTime": 1727555517132,
+      "solveTime": 1727555530460,
+      "sequenceId": "title",
+      "constellationEdges": [
+        "puz318"
+      ],
+      "mapPos": {
+        "x": 3.5,
+        "y": 45.5
+      }
+    },
+    "puz318": {
+      "puzName": "puz318",
+      "slug": "great_now_take_the_last_letters",
+      "displayName": "GREAT NOW TAKE THE LAST LETTERS",
+      "hasAnswer": true,
+      "answer": "TWEETS",
+      "isNew": true,
+      "unlockTime": 1727555558560,
+      "solveTime": 1727555569157,
+      "sequenceId": "title",
+      "constellationEdges": [
+        "puz7",
+        "puz9"
+      ],
+      "mapPos": {
+        "x": 4.5,
+        "y": 44
+      }
+    },
+    "puz10": {
+      "puzName": "puz10",
+      "slug": "obligatory_wordle_puzzle",
+      "displayName": "Obligatory Wordle Puzzle",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727555585850,
+      "mapPos": {
+        "x": 11.69586181640625,
+        "y": 2.09503173828125
+      }
+    },
+    "puz19": {
+      "puzName": "puz19",
+      "slug": "c59601e8",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "DRAWING",
+      "isNew": true,
+      "unlockTime": 1727556041785,
+      "solveTime": 1727610474339,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 81.695556640625,
+        "y": 46.781158447265625
+      },
+      "untitledPuzzleIndex": 2
+    },
+    "puz265": {
+      "puzName": "puz265",
+      "slug": "470904ae",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "MYOBLAST",
+      "isNew": true,
+      "unlockTime": 1727558167347,
+      "solveTime": 1727558593055,
+      "sequenceId": "espresso",
+      "mapPos": {
+        "x": 36.9,
+        "y": 35.3
+      },
+      "untitledPuzzleIndex": 3
+    },
+    "find_lions": {
+      "puzName": "find_lions",
+      "slug": "find_ten_lions",
+      "displayName": "Ten Lions",
+      "isNew": true,
+      "unlockTime": 1727609800476,
+      "solveTime": 1727609840765,
+      "isStory": true,
+      "isFindCelestial": true,
+      "mapPos": {
+        "x": 93.9239501953125,
+        "y": 45.4864501953125
+      },
+      "cutsceneImages": [
+        "stelle",
+        "stelle-thinking",
+        "lions"
+      ],
+      "noCannedHints": true
+    },
+    "ten_lions": {
+      "puzName": "ten_lions",
+      "slug": "ten_lions",
+      "displayName": "Ten Lions",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727609840766,
+      "isCelestial": true,
+      "rarity": "legendary",
+      "mapPos": {
+        "x": 97,
+        "y": 5
+      },
+      "noCannedHints": true
+    },
+    "puz312": {
+      "puzName": "puz312",
+      "slug": "use_enumerations_converted_alpha",
+      "displayName": "USE ENUMERATIONS CONVERTED ALPHABETICALLY FOR SOLUTION",
+      "hasAnswer": true,
+      "answer": "CLINCH",
+      "isNew": true,
+      "unlockTime": 1727609889776,
+      "solveTime": 1727609962655,
+      "sequenceId": "title",
+      "constellationEdges": [
+        "puz319"
+      ],
+      "mapPos": {
+        "x": 7,
+        "y": 33
+      }
+    },
+    "puz297": {
+      "puzName": "puz297",
+      "slug": "layers",
+      "displayName": "Layers",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727609896821,
+      "mapPos": {
+        "x": 37.97760009765625,
+        "y": 8.873748779296875
+      }
+    },
+    "puz68": {
+      "puzName": "puz68",
+      "slug": "extremely_medium_puzzle",
+      "displayName": "Extremely Medium Puzzle",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727609903929,
+      "sequenceId": "difficulty",
+      "constellationEdges": [
+        "puz73"
+      ],
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 42,
+        "y": 16
+      }
+    },
+    "puz209": {
+      "puzName": "puz209",
+      "slug": "4eae8092",
+      "displayName": "",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727641838820,
+      "mapPos": {
+        "x": 33.85009765625,
+        "y": 0.556182861328125
+      },
+      "untitledPuzzleIndex": 4
+    },
+    "puz236": {
+      "puzName": "puz236",
+      "slug": "weight",
+      "displayName": "Weight",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727641849892,
+      "mapPos": {
+        "x": 58.73565673828125,
+        "y": 39.740753173828125
+      }
+    },
+    "puz65": {
+      "puzName": "puz65",
+      "slug": "constant_greek_numbers",
+      "displayName": "Constant Greek numbers",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727673714638,
+      "sequenceId": "greek",
+      "constellationEdges": [
+        "puz80"
+      ],
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 73.5,
+        "y": 42
+      }
+    },
+    "puz286": {
+      "puzName": "puz286",
+      "slug": "five_by_five_d8751e2c",
+      "displayName": "Five-By-Five",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727700708553,
+      "sequenceId": "five",
+      "constellationEdges": [
+        "puz288",
+        "puz287"
+      ],
+      "mapPos": {
+        "x": 64,
+        "y": 29
+      }
+    },
+    "puz61": {
+      "puzName": "puz61",
+      "slug": "mini_cryptic",
+      "displayName": "Mini Cryptic",
+      "hasAnswer": true,
+      "answer": "OPEN",
+      "isNew": true,
+      "unlockTime": 1727700718168,
+      "solveTime": 1727713316324,
+      "rarity": "rare",
+      "mapPos": {
+        "x": 69.31304931640625,
+        "y": 34.130859375
+      }
+    }
+  },
+  "huntStartTime": 1726871280000,
+  "huntEndTime": 1727735280000,
+  "hopeSnapshot": {
+    "hope": 33.09422222222227,
+    "timestamp": 1727716975869
+  },
+  "cutsceneChoices": {},
+  "lockedSolutions": {}
+}

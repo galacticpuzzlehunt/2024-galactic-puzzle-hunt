@@ -1,0 +1,4870 @@
+{
+  "displayName": "P Squad",
+  "puzzles": {
+    "intro": {
+      "puzName": "intro",
+      "slug": "a_night_under_the_stars",
+      "displayName": "A Night Under The Stars",
+      "isNew": true,
+      "unlockTime": 1726826851268,
+      "solveTime": 1726871495136,
+      "isStory": true,
+      "mapPos": {
+        "x": 86.65771484375,
+        "y": 23.6358642578125
+      },
+      "cutsceneImages": [
+        "intro.svg",
+        "intro-ok.svg",
+        "blank",
+        "starry-sky",
+        "blank-sky",
+        "falling-star",
+        "falling-stelle",
+        "stelle-collapsed",
+        "stelle",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "puz309": {
+      "puzName": "puz309",
+      "slug": "whats_the_answer",
+      "displayName": "What’s the answer?",
+      "hasAnswer": true,
+      "answer": "ANGLE",
+      "isNew": true,
+      "unlockTime": 1726871551156,
+      "solveTime": 1726922497680,
+      "sequenceId": "whats",
+      "constellationEdges": [
+        "puz310"
+      ],
+      "mapPos": {
+        "x": 25.5,
+        "y": 39
+      }
+    },
+    "first-wish": {
+      "puzName": "first-wish",
+      "slug": "a_fallen_star",
+      "displayName": "A Fallen Star",
+      "isNew": true,
+      "unlockTime": 1726871551158,
+      "solveTime": 1726871627975,
+      "isStory": true,
+      "mapPos": {
+        "x": 76.165771484375,
+        "y": 36.048126220703125
+      },
+      "cutsceneImages": [
+        "stelle-thinking",
+        "stelle",
+        "stelle-happy"
+      ],
+      "noCannedHints": true
+    },
+    "puz113": {
+      "puzName": "puz113",
+      "slug": "flags",
+      "displayName": "Flags",
+      "hasAnswer": true,
+      "answer": "UNIX",
+      "isNew": true,
+      "unlockTime": 1726871928188,
+      "solveTime": 1726885845185,
+      "mapPos": {
+        "x": 75.4425048828125,
+        "y": 4.23126220703125
+      }
+    },
+    "puz315": {
+      "puzName": "puz315",
+      "slug": "its_so_sad",
+      "displayName": "It’s so sad...",
+      "hasAnswer": true,
+      "answer": "FENDS",
+      "isNew": true,
+      "unlockTime": 1726872119250,
+      "solveTime": 1726872389808,
+      "mapPos": {
+        "x": 27.93121337890625,
+        "y": 13.74969482421875
+      }
+    },
+    "puz166": {
+      "puzName": "puz166",
+      "slug": "repeat_after_me",
+      "displayName": "Repeat After Me",
+      "hasAnswer": true,
+      "answer": "CODERED",
+      "isNew": true,
+      "unlockTime": 1726872155797,
+      "solveTime": 1726876421586,
+      "mapPos": {
+        "x": 59.393310546875,
+        "y": 44.431304931640625
+      }
+    },
+    "puz259": {
+      "puzName": "puz259",
+      "slug": "espresso",
+      "displayName": "Espresso",
+      "hasAnswer": true,
+      "answer": "EMPIRE",
+      "isNew": true,
+      "unlockTime": 1726872183217,
+      "solveTime": 1726876095814,
+      "sequenceId": "espresso",
+      "constellationEdges": [
+        "puz267"
+      ],
+      "mapPos": {
+        "x": 37,
+        "y": 24
+      }
+    },
+    "first-solve": {
+      "puzName": "first-solve",
+      "slug": "a_glimmer_of_hope",
+      "displayName": "A Glimmer of Hope",
+      "isNew": true,
+      "unlockTime": 1726872389809,
+      "solveTime": 1726872480891,
+      "isStory": true,
+      "mapPos": {
+        "x": 1.129150390625,
+        "y": 9.30328369140625
+      },
+      "cutsceneImages": [
+        "stelle",
+        "stelle-happy",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "puz170": {
+      "puzName": "puz170",
+      "slug": "and_if_you_look_to_the_left",
+      "displayName": "And if you look to the left...",
+      "hasAnswer": true,
+      "answer": "HIMEJI CASTLE",
+      "isNew": true,
+      "unlockTime": 1726875041578,
+      "solveTime": 1726875347252,
+      "sequenceId": "look",
+      "mapPos": {
+        "x": 82,
+        "y": 4
+      }
+    },
+    "puz49": {
+      "puzName": "puz49",
+      "slug": "towers_i",
+      "displayName": "Towers I",
+      "hasAnswer": true,
+      "answer": "AMALGAMATE",
+      "isNew": true,
+      "unlockTime": 1726875363740,
+      "solveTime": 1726876317123,
+      "sequenceId": "towers",
+      "constellationEdges": [
+        "puz28"
+      ],
+      "mapPos": {
+        "x": 17,
+        "y": 15
+      }
+    },
+    "brighter-skies": {
+      "puzName": "brighter-skies",
+      "slug": "brighter_skies",
+      "displayName": "Brighter Skies",
+      "isNew": true,
+      "unlockTime": 1726876421587,
+      "solveTime": 1726876710849,
+      "isStory": true,
+      "mapPos": {
+        "x": 12.48016357421875,
+        "y": 25.244903564453125
+      },
+      "cutsceneImages": [
+        "stelle",
+        "stelle-happy",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "puz103": {
+      "puzName": "puz103",
+      "slug": "cc203922",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "SWIMMING",
+      "isNew": true,
+      "unlockTime": 1726876517336,
+      "solveTime": 1726877409639,
+      "mapPos": {
+        "x": 26.2359619140625,
+        "y": 30.037689208984375
+      },
+      "untitledPuzzleIndex": 0
+    },
+    "puz156": {
+      "puzName": "puz156",
+      "slug": "answer",
+      "displayName": "ANSWER",
+      "hasAnswer": true,
+      "answer": "MANFRED",
+      "isNew": true,
+      "unlockTime": 1726876525169,
+      "solveTime": 1726876991485,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 78.9703369140625,
+        "y": 44.94171142578125
+      }
+    },
+    "puz228": {
+      "puzName": "puz228",
+      "slug": "subsequently",
+      "displayName": "Subsequently",
+      "hasAnswer": true,
+      "answer": "CALORIE",
+      "isNew": true,
+      "unlockTime": 1726876539646,
+      "solveTime": 1726924560200,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 75.00152587890625,
+        "y": 47.18170166015625
+      }
+    },
+    "puz320": {
+      "puzName": "puz320",
+      "slug": "a_turn_of_phrase",
+      "displayName": "A Turn of Phrase",
+      "hasAnswer": true,
+      "answer": "TOIL",
+      "isNew": true,
+      "unlockTime": 1726876544960,
+      "solveTime": 1726940284079,
+      "rarity": "rare",
+      "mapPos": {
+        "x": 91.68548583984375,
+        "y": 4.3487548828125
+      }
+    },
+    "puz126": {
+      "puzName": "puz126",
+      "slug": "50_50_823cc7a0",
+      "displayName": "50/50",
+      "hasAnswer": true,
+      "answer": "ONE",
+      "isNew": true,
+      "unlockTime": 1726878071967,
+      "solveTime": 1726925154299,
+      "sequenceId": "fifty",
+      "constellationEdges": [
+        "puz186"
+      ],
+      "mapPos": {
+        "x": 48,
+        "y": 35.3
+      }
+    },
+    "puz110": {
+      "puzName": "puz110",
+      "slug": "name_the_instrument",
+      "displayName": "Name the instrument",
+      "hasAnswer": true,
+      "answer": "WATERPHONE",
+      "isNew": true,
+      "unlockTime": 1726878077092,
+      "solveTime": 1726878751737,
+      "sequenceId": "name",
+      "constellationEdges": [
+        "puz280"
+      ],
+      "mapPos": {
+        "x": 51.8,
+        "y": 31
+      }
+    },
+    "puz199": {
+      "puzName": "puz199",
+      "slug": "fdc12c7a",
+      "displayName": "ᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇ",
+      "hasAnswer": true,
+      "answer": "BATMAN",
+      "isNew": true,
+      "unlockTime": 1726878834077,
+      "solveTime": 1726879507867,
+      "sequenceId": "na",
+      "constellationEdges": [
+        "puz204"
+      ],
+      "mapPos": {
+        "x": 82,
+        "y": 22
+      }
+    },
+    "puz28": {
+      "puzName": "puz28",
+      "slug": "towers_ii",
+      "displayName": "Towers II",
+      "hasAnswer": true,
+      "answer": "ABRACADABRA",
+      "isNew": true,
+      "unlockTime": 1726878849890,
+      "solveTime": 1726885751266,
+      "sequenceId": "towers",
+      "constellationEdges": [
+        "puz25"
+      ],
+      "mapPos": {
+        "x": 18,
+        "y": 12
+      }
+    },
+    "puz204": {
+      "puzName": "puz204",
+      "slug": "b8e9b4e7",
+      "displayName": "ᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇᓇ 2",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1726879564400,
+      "sequenceId": "na",
+      "rarity": "rare",
+      "mapPos": {
+        "x": 83,
+        "y": 18
+      }
+    },
+    "puz34": {
+      "puzName": "puz34",
+      "slug": "bf3f2314",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "OPERATOR",
+      "isNew": true,
+      "unlockTime": 1726885419203,
+      "solveTime": 1727022357571,
+      "mapPos": {
+        "x": 15.33050537109375,
+        "y": 8.051300048828125
+      },
+      "untitledPuzzleIndex": 1
+    },
+    "puz268": {
+      "puzName": "puz268",
+      "slug": "necklace",
+      "displayName": "Necklace",
+      "hasAnswer": true,
+      "answer": "ORIENTAL PEARL TOWER",
+      "isNew": true,
+      "unlockTime": 1726885869887,
+      "solveTime": 1726925052899,
+      "sequenceId": "necklace",
+      "constellationEdges": [
+        "puz272"
+      ],
+      "mapPos": {
+        "x": 86,
+        "y": 46
+      }
+    },
+    "puz40": {
+      "puzName": "puz40",
+      "slug": "blank_squares_83464965",
+      "displayName": "Blank Squares",
+      "hasAnswer": true,
+      "answer": "LIGHT",
+      "isNew": true,
+      "unlockTime": 1726886475008,
+      "solveTime": 1726925341281,
+      "sequenceId": "blank",
+      "constellationEdges": [
+        "puz78"
+      ],
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 5.4,
+        "y": 8
+      }
+    },
+    "puz232": {
+      "puzName": "puz232",
+      "slug": "mobel",
+      "displayName": "Möbel",
+      "hasAnswer": true,
+      "answer": "BANK",
+      "isNew": true,
+      "unlockTime": 1726922633683,
+      "solveTime": 1726923656788,
+      "sequenceId": "sweden",
+      "constellationEdges": [
+        "puz235"
+      ],
+      "mapPos": {
+        "x": 92,
+        "y": 41
+      }
+    },
+    "puz3": {
+      "puzName": "puz3",
+      "slug": "10c8f196",
+      "displayName": "",
+      "hasAnswer": true,
+      "answerNormalization": "uppercase_letters_or_symbols_only",
+      "answer": "`",
+      "isNew": true,
+      "unlockTime": 1726923682477,
+      "solveTime": 1726923849027,
+      "mapPos": {
+        "x": 1.7059326171875,
+        "y": 16.49322509765625
+      },
+      "untitledPuzzleIndex": 2
+    },
+    "puz135": {
+      "puzName": "puz135",
+      "slug": "a_sudoku_with_only_8_hidden",
+      "displayName": "A Sudoku With Only 8 Hidden Digits!?",
+      "hasAnswer": true,
+      "answer": "ZODIAC",
+      "isNew": true,
+      "unlockTime": 1726923855234,
+      "solveTime": 1726926715664,
+      "mapPos": {
+        "x": 67.4835205078125,
+        "y": 37.290191650390625
+      }
+    },
+    "puz91": {
+      "puzName": "puz91",
+      "slug": "81e1ed46",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "DYSON",
+      "isNew": true,
+      "unlockTime": 1726924578985,
+      "solveTime": 1727110727165,
+      "rarity": "rare",
+      "mapPos": {
+        "x": 45.428466796875,
+        "y": 30.646514892578125
+      },
+      "untitledPuzzleIndex": 3
+    },
+    "puz317": {
+      "puzName": "puz317",
+      "slug": "first_letters_of_words",
+      "displayName": "FIRST LETTERS OF WORDS",
+      "hasAnswer": true,
+      "answer": "FLOW",
+      "isNew": true,
+      "unlockTime": 1726925113304,
+      "solveTime": 1726925122778,
+      "sequenceId": "title",
+      "constellationEdges": [
+        "puz318"
+      ],
+      "mapPos": {
+        "x": 3.5,
+        "y": 45.5
+      }
+    },
+    "puz318": {
+      "puzName": "puz318",
+      "slug": "great_now_take_the_last_letters",
+      "displayName": "GREAT NOW TAKE THE LAST LETTERS",
+      "hasAnswer": true,
+      "answer": "TWEETS",
+      "isNew": true,
+      "unlockTime": 1726925127344,
+      "solveTime": 1726925137535,
+      "sequenceId": "title",
+      "constellationEdges": [
+        "puz7",
+        "puz9"
+      ],
+      "mapPos": {
+        "x": 4.5,
+        "y": 44
+      }
+    },
+    "puz104": {
+      "puzName": "puz104",
+      "slug": "8effef7c",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "LODGE",
+      "isNew": true,
+      "unlockTime": 1726925179354,
+      "solveTime": 1727005412551,
+      "rarity": "rare",
+      "mapPos": {
+        "x": 60.5377197265625,
+        "y": 2.288055419921875
+      },
+      "untitledPuzzleIndex": 4
+    },
+    "puz227": {
+      "puzName": "puz227",
+      "slug": "name_the_polyhedron",
+      "displayName": "Name the polyhedron",
+      "hasAnswer": true,
+      "answer": "ELONGATED GYROBIFASTIGIUM",
+      "isNew": true,
+      "unlockTime": 1726925343759,
+      "solveTime": 1726925874564,
+      "sequenceId": "name",
+      "constellationEdges": [
+        "puz190"
+      ],
+      "mapPos": {
+        "x": 52,
+        "y": 23
+      }
+    },
+    "puz246": {
+      "puzName": "puz246",
+      "slug": "generational_gifts",
+      "displayName": "Generational Gifts",
+      "hasAnswer": true,
+      "answer": "EBONY",
+      "isNew": true,
+      "unlockTime": 1726925956222,
+      "solveTime": 1726942676920,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 98.7548828125,
+        "y": 45.246124267578125
+      }
+    },
+    "puz164": {
+      "puzName": "puz164",
+      "slug": "dont_overthink_it",
+      "displayName": "don’t overthink it",
+      "hasAnswer": true,
+      "answer": "ANTICAPITALIST",
+      "isNew": true,
+      "unlockTime": 1726926210604,
+      "solveTime": 1726934069799,
+      "mapPos": {
+        "x": 39.2974853515625,
+        "y": 33.115386962890625
+      }
+    },
+    "puz200": {
+      "puzName": "puz200",
+      "slug": "color",
+      "displayName": "Color",
+      "hasAnswer": true,
+      "answer": "FACADE",
+      "isNew": true,
+      "unlockTime": 1726926582716,
+      "solveTime": 1726926635791,
+      "sequenceId": "color",
+      "constellationEdges": [
+        "puz165"
+      ],
+      "mapPos": {
+        "x": 19,
+        "y": 2
+      }
+    },
+    "puz252": {
+      "puzName": "puz252",
+      "slug": "needle_in_a_haystack",
+      "displayName": "Needle in a Haystack",
+      "hasAnswer": true,
+      "answer": "SENTENCE",
+      "isNew": true,
+      "unlockTime": 1726926730256,
+      "solveTime": 1726927436391,
+      "mapPos": {
+        "x": 0.76446533203125,
+        "y": 34.149932861328125
+      }
+    },
+    "puz93": {
+      "puzName": "puz93",
+      "slug": "78d3fa9d",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "TRAIL",
+      "isNew": true,
+      "unlockTime": 1726927460339,
+      "solveTime": 1726933304411,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 67.1600341796875,
+        "y": 29.584503173828125
+      },
+      "untitledPuzzleIndex": 5
+    },
+    "puz55": {
+      "puzName": "puz55",
+      "slug": "d5b404e5",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "BACKMASKING",
+      "isNew": true,
+      "unlockTime": 1726927693903,
+      "solveTime": 1726934004135,
+      "rarity": "rare",
+      "mapPos": {
+        "x": 5.23223876953125,
+        "y": 25.634002685546875
+      },
+      "untitledPuzzleIndex": 6
+    },
+    "puz43": {
+      "puzName": "puz43",
+      "slug": "1_3_puzzle",
+      "displayName": "1/3 Puzzle",
+      "hasAnswer": true,
+      "answer": "PU",
+      "isNew": true,
+      "unlockTime": 1726934074465,
+      "solveTime": 1726944258788,
+      "sequenceId": "three",
+      "constellationEdges": [
+        "puz44"
+      ],
+      "mapPos": {
+        "x": 94.6,
+        "y": 29
+      }
+    },
+    "puz72": {
+      "puzName": "puz72",
+      "slug": "painting_e633d04d",
+      "displayName": "Painting",
+      "hasAnswer": true,
+      "answer": "GALLERIES",
+      "isNew": true,
+      "unlockTime": 1726934434443,
+      "solveTime": 1726934586853,
+      "sequenceId": "painting",
+      "constellationEdges": [
+        "puz84"
+      ],
+      "mapPos": {
+        "x": 86,
+        "y": 1
+      }
+    },
+    "find_pom_pom": {
+      "puzName": "find_pom_pom",
+      "slug": "find_pom_pom_and_mop_mop",
+      "displayName": "Pom Pom and Mop Mop",
+      "isNew": true,
+      "unlockTime": 1726935253119,
+      "solveTime": 1726935311972,
+      "isStory": true,
+      "isFindCelestial": true,
+      "mapPos": {
+        "x": 68.86444091796875,
+        "y": 39.572906494140625
+      },
+      "cutsceneImages": [
+        "goddog",
+        "fallengoddog",
+        "pompom_mopmop",
+        "pom_pom",
+        "mop_mop",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "pom_pom": {
+      "puzName": "pom_pom",
+      "slug": "pom_pom_and_mop_mop",
+      "displayName": "Pom Pom and Mop Mop",
+      "hasAnswer": true,
+      "answer": "GAR",
+      "isNew": true,
+      "unlockTime": 1726935311973,
+      "solveTime": 1727065313513,
+      "isCelestial": true,
+      "rarity": "legendary",
+      "mapPos": {
+        "x": 90,
+        "y": 32
+      },
+      "noCannedHints": true
+    },
+    "puz84": {
+      "puzName": "puz84",
+      "slug": "painting_5db4453d",
+      "displayName": "Painting",
+      "hasAnswer": true,
+      "answer": "COLOR",
+      "isNew": true,
+      "unlockTime": 1726940429219,
+      "solveTime": 1726941208216,
+      "sequenceId": "painting",
+      "constellationEdges": [
+        "puz92",
+        "puz95"
+      ],
+      "mapPos": {
+        "x": 87,
+        "y": 5
+      }
+    },
+    "puz81": {
+      "puzName": "puz81",
+      "slug": "eth_rodwhistm",
+      "displayName": "Eth Rodwhistm",
+      "hasAnswer": true,
+      "answer": "EASTERN",
+      "isNew": true,
+      "unlockTime": 1726941316952,
+      "solveTime": 1726945221861,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 44.69451904296875,
+        "y": 39.9017333984375
+      }
+    },
+    "puz108": {
+      "puzName": "puz108",
+      "slug": "cro_ssw_ord",
+      "displayName": "CRO/SSW/ORD",
+      "hasAnswer": true,
+      "answer": "PEASANTRY",
+      "isNew": true,
+      "unlockTime": 1726942712912,
+      "solveTime": 1726943067914,
+      "sequenceId": "crossword",
+      "constellationEdges": [
+        "puz298"
+      ],
+      "mapPos": {
+        "x": 33,
+        "y": 16
+      }
+    },
+    "puz90": {
+      "puzName": "puz90",
+      "slug": "blank_spaces",
+      "displayName": "Blank Spaces",
+      "hasAnswer": true,
+      "answer": "HIGHWAY",
+      "isNew": true,
+      "unlockTime": 1726942733864,
+      "solveTime": 1726944663785,
+      "sequenceId": "blank",
+      "mapPos": {
+        "x": 7.4,
+        "y": 5
+      }
+    },
+    "puz194": {
+      "puzName": "puz194",
+      "slug": "grade_2_haptics",
+      "displayName": "Grade 2 Haptics",
+      "hasAnswer": true,
+      "answer": "BLACK",
+      "isNew": true,
+      "unlockTime": 1726943088671,
+      "solveTime": 1726998472362,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 15.52581787109375,
+        "y": 21.135711669921875
+      }
+    },
+    "puz59": {
+      "puzName": "puz59",
+      "slug": "fill_in_the_blanks",
+      "displayName": "Fill In The Blanks",
+      "hasAnswer": true,
+      "answer": "FLAM",
+      "isNew": true,
+      "unlockTime": 1726943099172,
+      "solveTime": 1726944222679,
+      "mapPos": {
+        "x": 38.95721435546875,
+        "y": 11.138153076171875
+      }
+    },
+    "puz31": {
+      "puzName": "puz31",
+      "slug": "117d2fd7",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "ELATION",
+      "isNew": true,
+      "unlockTime": 1726944275728,
+      "solveTime": 1726946317593,
+      "mapPos": {
+        "x": 58.2427978515625,
+        "y": 36.786651611328125
+      },
+      "untitledPuzzleIndex": 7
+    },
+    "puz95": {
+      "puzName": "puz95",
+      "slug": "painting_d3816874",
+      "displayName": "Painting",
+      "hasAnswer": true,
+      "answer": "HALT",
+      "isNew": true,
+      "unlockTime": 1726945246621,
+      "solveTime": 1726997772906,
+      "sequenceId": "painting",
+      "constellationEdges": [
+        "puz98"
+      ],
+      "mapPos": {
+        "x": 86,
+        "y": 9.2
+      }
+    },
+    "puz190": {
+      "puzName": "puz190",
+      "slug": "name_the_game",
+      "displayName": "Name the game",
+      "hasAnswer": true,
+      "answerNormalization": "uppercase_letters_or_symbols_only",
+      "answer": "SUPER MARIO ODYSSEY",
+      "isNew": true,
+      "unlockTime": 1726997343656,
+      "solveTime": 1726997534882,
+      "sequenceId": "name",
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 51.6,
+        "y": 19
+      }
+    },
+    "puz222": {
+      "puzName": "puz222",
+      "slug": "50_each_50",
+      "displayName": "50/each 50",
+      "hasAnswer": true,
+      "answer": "LOREAL",
+      "isNew": true,
+      "unlockTime": 1726997540391,
+      "solveTime": 1727000751223,
+      "sequenceId": "fifty",
+      "constellationEdges": [
+        "puz223"
+      ],
+      "mapPos": {
+        "x": 49,
+        "y": 42
+      }
+    },
+    "puz175": {
+      "puzName": "puz175",
+      "slug": "clues_with_answers",
+      "displayName": "Clues with Answers",
+      "hasAnswer": true,
+      "answer": "EXPRESS DELIVERY",
+      "isNew": true,
+      "unlockTime": 1726997566583,
+      "solveTime": 1727000473517,
+      "sequenceId": "clues",
+      "constellationEdges": [
+        "puz215"
+      ],
+      "rarity": "rare",
+      "mapPos": {
+        "x": 17.5,
+        "y": 27
+      }
+    },
+    "puz279": {
+      "puzName": "puz279",
+      "slug": "actually_honestly_genuinely",
+      "displayName": "Actually, honestly, genuinely quite mean",
+      "hasAnswer": true,
+      "answer": "TINY",
+      "isNew": true,
+      "unlockTime": 1726997791303,
+      "solveTime": 1726998095214,
+      "mapPos": {
+        "x": 46.35772705078125,
+        "y": 10.74371337890625
+      }
+    },
+    "puz7": {
+      "puzName": "puz7",
+      "slug": "the_letters_with_one_time",
+      "displayName": "THE LETTERS WITH ONE-TIME APPEARANCES MAKE THE ANSWER",
+      "hasAnswer": true,
+      "answer": "LOCK",
+      "isNew": true,
+      "unlockTime": 1726998476458,
+      "solveTime": 1726998566768,
+      "sequenceId": "title",
+      "constellationEdges": [
+        "puz47"
+      ],
+      "mapPos": {
+        "x": 6,
+        "y": 44
+      }
+    },
+    "puz17": {
+      "puzName": "puz17",
+      "slug": "a_b_c_d",
+      "displayName": "A B C D",
+      "hasAnswer": true,
+      "answer": "DRYER",
+      "isNew": true,
+      "unlockTime": 1726998583222,
+      "solveTime": 1726998868848,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 75.8514404296875,
+        "y": 32.8857421875
+      }
+    },
+    "puz155": {
+      "puzName": "puz155",
+      "slug": "boundaries",
+      "displayName": "Boundaries",
+      "hasAnswer": true,
+      "answer": "NEW CASTLE",
+      "isNew": true,
+      "unlockTime": 1726998877227,
+      "solveTime": 1727110755790,
+      "mapPos": {
+        "x": 24.3804931640625,
+        "y": 35.834503173828125
+      }
+    },
+    "puz235": {
+      "puzName": "puz235",
+      "slug": "the_system",
+      "displayName": "The System",
+      "hasAnswer": true,
+      "answer": "NOVA",
+      "isNew": true,
+      "unlockTime": 1726999559909,
+      "solveTime": 1727002128057,
+      "sequenceId": "sweden",
+      "mapPos": {
+        "x": 93,
+        "y": 38
+      }
+    },
+    "puz311": {
+      "puzName": "puz311",
+      "slug": "whats_the_answer_ii",
+      "displayName": "What’s the answer? II",
+      "hasAnswer": true,
+      "answer": "MOCKERY",
+      "isNew": true,
+      "unlockTime": 1727000482536,
+      "solveTime": 1727000546805,
+      "sequenceId": "whats",
+      "mapPos": {
+        "x": 26,
+        "y": 45
+      }
+    },
+    "puz141": {
+      "puzName": "puz141",
+      "slug": "domino_effect",
+      "displayName": "Domino Effect",
+      "hasAnswer": true,
+      "answer": "GRID",
+      "isNew": true,
+      "unlockTime": 1727000758279,
+      "solveTime": 1727003632602,
+      "sequenceId": "domino",
+      "constellationEdges": [
+        "puz132"
+      ],
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 73,
+        "y": 8
+      }
+    },
+    "puz225": {
+      "puzName": "puz225",
+      "slug": "50_50_df51fdaa",
+      "displayName": "50/50",
+      "hasAnswer": true,
+      "answer": "SNAIL",
+      "isNew": true,
+      "unlockTime": 1727001087754,
+      "solveTime": 1727011448830,
+      "sequenceId": "fifty",
+      "constellationEdges": [
+        "puz233"
+      ],
+      "mapPos": {
+        "x": 47,
+        "y": 47
+      }
+    },
+    "puz1": {
+      "puzName": "puz1",
+      "slug": "a_puzzle",
+      "displayName": "A Puzzle",
+      "hasAnswer": true,
+      "answer": "AMPERE",
+      "isNew": true,
+      "unlockTime": 1727002406399,
+      "solveTime": 1727007942463,
+      "sequenceId": "apuzzle",
+      "constellationEdges": [
+        "puz273"
+      ],
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 71,
+        "y": 27
+      }
+    },
+    "puz223": {
+      "puzName": "puz223",
+      "slug": "50_50_b6545cb7",
+      "displayName": "50/50",
+      "hasAnswer": true,
+      "answer": "EAGLES",
+      "isNew": true,
+      "unlockTime": 1727003029325,
+      "solveTime": 1727006164069,
+      "sequenceId": "fifty",
+      "constellationEdges": [
+        "puz225"
+      ],
+      "mapPos": {
+        "x": 48.3,
+        "y": 46
+      }
+    },
+    "puz92": {
+      "puzName": "puz92",
+      "slug": "painting_ab4f54f8",
+      "displayName": "Painting",
+      "hasAnswer": true,
+      "answer": "CHEAP",
+      "isNew": true,
+      "unlockTime": 1727003653671,
+      "solveTime": 1727003911907,
+      "sequenceId": "painting",
+      "constellationEdges": [
+        "puz99"
+      ],
+      "mapPos": {
+        "x": 87.8,
+        "y": 7
+      }
+    },
+    "puz106": {
+      "puzName": "puz106",
+      "slug": "ignore_the_wugs",
+      "displayName": "Ignore the wugs",
+      "hasAnswer": true,
+      "answer": "CHILD",
+      "isNew": true,
+      "unlockTime": 1727003926964,
+      "solveTime": 1727006336976,
+      "mapPos": {
+        "x": 87.83721923828125,
+        "y": 25.048065185546875
+      }
+    },
+    "puz319": {
+      "puzName": "puz319",
+      "slug": "quiz_time_this_jacked_up_title",
+      "displayName": "QUIZ TIME! THIS JACKED UP TITLE ISN’T HAVING IT ALL BECAUSE WE ARE MISSING WHAT?",
+      "hasAnswer": true,
+      "answer": "FOXY",
+      "isNew": true,
+      "unlockTime": 1727007532646,
+      "solveTime": 1727007652737,
+      "sequenceId": "title",
+      "mapPos": {
+        "x": 7.4,
+        "y": 29
+      }
+    },
+    "puz168": {
+      "puzName": "puz168",
+      "slug": "and_if_you_look_to_the_right",
+      "displayName": "And if you look to the right...",
+      "hasAnswer": true,
+      "answer": "MOUNT RAINIER",
+      "isNew": true,
+      "unlockTime": 1727007965621,
+      "solveTime": 1727013077822,
+      "sequenceId": "look",
+      "constellationEdges": [
+        "puz170"
+      ],
+      "mapPos": {
+        "x": 79,
+        "y": 2
+      }
+    },
+    "puz285": {
+      "puzName": "puz285",
+      "slug": "five_by_five_dbf69e59",
+      "displayName": "Five-By-Five",
+      "hasAnswer": true,
+      "answer": "LANAI",
+      "isNew": true,
+      "unlockTime": 1727008357916,
+      "solveTime": 1727024478732,
+      "sequenceId": "five",
+      "constellationEdges": [
+        "puz286"
+      ],
+      "mapPos": {
+        "x": 62.5,
+        "y": 32.6
+      }
+    },
+    "puz96": {
+      "puzName": "puz96",
+      "slug": "bc5d66a1",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "AREA",
+      "isNew": true,
+      "unlockTime": 1727008763939,
+      "solveTime": 1727016519265,
+      "rarity": "rare",
+      "mapPos": {
+        "x": 44.4061279296875,
+        "y": 28.299713134765625
+      },
+      "untitledPuzzleIndex": 8
+    },
+    "find_farmer": {
+      "puzName": "find_farmer",
+      "slug": "find_funny_farmer",
+      "displayName": "Funny Farmer",
+      "isNew": true,
+      "unlockTime": 1727011457672,
+      "solveTime": 1727011866073,
+      "isStory": true,
+      "isFindCelestial": true,
+      "mapPos": {
+        "x": 10.72845458984375,
+        "y": 16.481781005859375
+      },
+      "cutsceneImages": [
+        "stelle-happy",
+        "stelle-thinking",
+        "farmer"
+      ],
+      "noCannedHints": true
+    },
+    "farmer": {
+      "puzName": "farmer",
+      "slug": "funny_farmer",
+      "displayName": "Funny Farmer",
+      "hasAnswer": true,
+      "answer": "COOP",
+      "isNew": true,
+      "unlockTime": 1727011866074,
+      "solveTime": 1727714269014,
+      "isCelestial": true,
+      "rarity": "legendary",
+      "mapPos": {
+        "x": 25,
+        "y": 13
+      },
+      "noCannedHints": true
+    },
+    "puz105_custom_771": {
+      "puzName": "puz105_custom_771",
+      "slug": "custom_puzzle_771",
+      "displayName": "Waiver and Release of Liability for Trial by Combat",
+      "hasAnswer": true,
+      "answer": "DISARMAMENTTREATY",
+      "isNew": true,
+      "unlockTime": 1727021290768,
+      "solveTime": 1727209627111,
+      "customPuzzleData": {
+        "srcTeamId": "771"
+      }
+    },
+    "puz53": {
+      "puzName": "puz53",
+      "slug": "obligatory_connections_puzzle",
+      "displayName": "Obligatory Connections Puzzle",
+      "hasAnswer": true,
+      "answer": "SYZYGY",
+      "isNew": true,
+      "unlockTime": 1727021618478,
+      "solveTime": 1727024163404,
+      "mapPos": {
+        "x": 33.02459716796875,
+        "y": 32.315826416015625
+      },
+      "hasMultipleAnswers": true
+    },
+    "puz21": {
+      "puzName": "puz21",
+      "slug": "i_had_a_united_states_television",
+      "displayName": "I HAD A UNITED STATES TELEVISION",
+      "hasAnswer": true,
+      "answer": "UNDERSCORE",
+      "isNew": true,
+      "unlockTime": 1727022424271,
+      "solveTime": 1727022856336,
+      "sequenceId": "jfk",
+      "constellationEdges": [
+        "puz171"
+      ],
+      "mapPos": {
+        "x": 78,
+        "y": 36
+      }
+    },
+    "puz313": {
+      "puzName": "puz313",
+      "slug": "the_hope_pool",
+      "displayName": "The Hope Pool",
+      "isNew": true,
+      "unlockTime": 1727022889701,
+      "solveTime": 1727023273976,
+      "mapPos": {
+        "x": 76.49078369140625,
+        "y": 31.137847900390625
+      },
+      "noCannedHints": true
+    },
+    "puz69": {
+      "puzName": "puz69",
+      "slug": "f3f9420a",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "PROBLEM",
+      "isNew": true,
+      "unlockTime": 1727024231874,
+      "solveTime": 1727347598262,
+      "rarity": "epic",
+      "mapPos": {
+        "x": 82.7728271484375,
+        "y": 31.78253173828125
+      },
+      "untitledPuzzleIndex": 9
+    },
+    "puz105_custom_715": {
+      "puzName": "puz105_custom_715",
+      "slug": "custom_puzzle_715",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "DEEP",
+      "isNew": true,
+      "unlockTime": 1727024529228,
+      "solveTime": 1727211474144,
+      "customPuzzleData": {
+        "srcTeamId": "715"
+      },
+      "untitledPuzzleIndex": 10
+    },
+    "puz105_custom_257": {
+      "puzName": "puz105_custom_257",
+      "slug": "custom_puzzle_257",
+      "displayName": "The Creed",
+      "hasAnswer": true,
+      "answer": "TOWER",
+      "isNew": true,
+      "unlockTime": 1727025235281,
+      "solveTime": 1727205681030,
+      "customPuzzleData": {
+        "srcTeamId": "257"
+      }
+    },
+    "puz295": {
+      "puzName": "puz295",
+      "slug": "jigsaw",
+      "displayName": "Jigsaw",
+      "hasAnswer": true,
+      "answer": "GAPS",
+      "isNew": true,
+      "unlockTime": 1727025657691,
+      "solveTime": 1727102652796,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 50.84686279296875,
+        "y": 43.923187255859375
+      }
+    },
+    "puz142": {
+      "puzName": "puz142",
+      "slug": "spuejq",
+      "displayName": "spueȷq",
+      "hasAnswer": true,
+      "answer": "DYSON",
+      "isNew": true,
+      "unlockTime": 1727032690834,
+      "solveTime": 1727033437065,
+      "mapPos": {
+        "x": 48.50006103515625,
+        "y": 14.91546630859375
+      }
+    },
+    "puz197": {
+      "puzName": "puz197",
+      "slug": "3d0295a5",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "OVERLAP",
+      "isNew": true,
+      "unlockTime": 1727037669410,
+      "solveTime": 1727038245900,
+      "mapPos": {
+        "x": 39.79339599609375,
+        "y": 23.7213134765625
+      },
+      "untitledPuzzleIndex": 10
+    },
+    "puz94": {
+      "puzName": "puz94",
+      "slug": "1a91dc59",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "MOVEMENT",
+      "isNew": true,
+      "unlockTime": 1727038259315,
+      "solveTime": 1727101806576,
+      "rarity": "rare",
+      "mapPos": {
+        "x": 95.513916015625,
+        "y": 43.631744384765625
+      },
+      "untitledPuzzleIndex": 11
+    },
+    "puz286": {
+      "puzName": "puz286",
+      "slug": "five_by_five_d8751e2c",
+      "displayName": "Five-By-Five",
+      "hasAnswer": true,
+      "answer": "PILED",
+      "isNew": true,
+      "unlockTime": 1727090297167,
+      "solveTime": 1727103125590,
+      "sequenceId": "five",
+      "constellationEdges": [
+        "puz288",
+        "puz287"
+      ],
+      "mapPos": {
+        "x": 64,
+        "y": 29
+      }
+    },
+    "puz273": {
+      "puzName": "puz273",
+      "slug": "a_diagramless",
+      "displayName": "A Diagramless",
+      "hasAnswer": true,
+      "answer": "ATTIC",
+      "isNew": true,
+      "unlockTime": 1727097061162,
+      "solveTime": 1727100349381,
+      "sequenceId": "apuzzle",
+      "rarity": "rare",
+      "mapPos": {
+        "x": 72,
+        "y": 24
+      }
+    },
+    "puz304": {
+      "puzName": "puz304",
+      "slug": "33acc994",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "EGG",
+      "isNew": true,
+      "unlockTime": 1727102683132,
+      "solveTime": 1727104743696,
+      "mapPos": {
+        "x": 28.12042236328125,
+        "y": 6.30035400390625
+      },
+      "untitledPuzzleIndex": 12
+    },
+    "puz51": {
+      "puzName": "puz51",
+      "slug": "turn_look",
+      "displayName": "Turn. Look.",
+      "hasAnswer": true,
+      "answer": "FLASH",
+      "isNew": true,
+      "unlockTime": 1727103164267,
+      "solveTime": 1727104099725,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 35.6109619140625,
+        "y": 1.42364501953125
+      }
+    },
+    "puz241": {
+      "puzName": "puz241",
+      "slug": "51072d5a",
+      "displayName": "□□□□□□",
+      "hasAnswer": true,
+      "answer": "ACCENT",
+      "isNew": true,
+      "unlockTime": 1727104107944,
+      "solveTime": 1727104415188,
+      "mapPos": {
+        "x": 73.85101318359375,
+        "y": 26.4068603515625
+      }
+    },
+    "puz215": {
+      "puzName": "puz215",
+      "slug": "clues_with_answers_ii",
+      "displayName": "Clues with Answers II",
+      "hasAnswer": true,
+      "answer": "REPAIR",
+      "isNew": true,
+      "unlockTime": 1727104425889,
+      "solveTime": 1727105141431,
+      "sequenceId": "clues",
+      "constellationEdges": [
+        "puz226"
+      ],
+      "mapPos": {
+        "x": 18.5,
+        "y": 30.5
+      }
+    },
+    "puz312": {
+      "puzName": "puz312",
+      "slug": "use_enumerations_converted_alpha",
+      "displayName": "USE ENUMERATIONS CONVERTED ALPHABETICALLY FOR SOLUTION",
+      "hasAnswer": true,
+      "answer": "CLINCH",
+      "isNew": true,
+      "unlockTime": 1727105156466,
+      "solveTime": 1727105216120,
+      "sequenceId": "title",
+      "constellationEdges": [
+        "puz319"
+      ],
+      "mapPos": {
+        "x": 7,
+        "y": 33
+      }
+    },
+    "puz47": {
+      "puzName": "puz47",
+      "slug": "press_letters",
+      "displayName": "PRESS LETTERS, READ UNTOUCHING, GET TERM. EFFECT: ANSWER DETECTED.",
+      "hasAnswer": true,
+      "answer": "PLACEMENT",
+      "isNew": true,
+      "unlockTime": 1727105222990,
+      "solveTime": 1727107090991,
+      "sequenceId": "title",
+      "constellationEdges": [
+        "puz312"
+      ],
+      "mapPos": {
+        "x": 6.5,
+        "y": 39
+      }
+    },
+    "puz145": {
+      "puzName": "puz145",
+      "slug": "hope",
+      "displayName": "Hope",
+      "hasAnswer": true,
+      "answer": "HOPE",
+      "isNew": true,
+      "unlockTime": 1727106994387,
+      "solveTime": 1727107002225,
+      "mapPos": {
+        "x": 11.75079345703125,
+        "y": 14.968109130859375
+      }
+    },
+    "puz10": {
+      "puzName": "puz10",
+      "slug": "obligatory_wordle_puzzle",
+      "displayName": "Obligatory Wordle Puzzle",
+      "hasAnswer": true,
+      "answer": "TEENY",
+      "isNew": true,
+      "unlockTime": 1727107097442,
+      "solveTime": 1727107255785,
+      "mapPos": {
+        "x": 11.69586181640625,
+        "y": 2.09503173828125
+      }
+    },
+    "puz44": {
+      "puzName": "puz44",
+      "slug": "2_3_puzzle",
+      "displayName": "2/3 Puzzle",
+      "hasAnswer": true,
+      "answer": "ONUS",
+      "isNew": true,
+      "unlockTime": 1727107262275,
+      "solveTime": 1727107426285,
+      "sequenceId": "three",
+      "constellationEdges": [
+        "puz45"
+      ],
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 93.8,
+        "y": 24
+      }
+    },
+    "puz219": {
+      "puzName": "puz219",
+      "slug": "karaoke",
+      "displayName": "Karaoke",
+      "hasAnswer": true,
+      "answerNormalization": "uppercase_letters_or_symbols_only",
+      "answer": "歌枠",
+      "isNew": true,
+      "unlockTime": 1727107442655,
+      "solveTime": 1727107689770,
+      "mapPos": {
+        "x": 38.99078369140625,
+        "y": 1.535797119140625
+      }
+    },
+    "puz25": {
+      "puzName": "puz25",
+      "slug": "towers_iii",
+      "displayName": "Towers III",
+      "hasAnswer": true,
+      "answer": "MIDTERM",
+      "isNew": true,
+      "unlockTime": 1727107709557,
+      "solveTime": 1727111201652,
+      "sequenceId": "towers",
+      "mapPos": {
+        "x": 19.3,
+        "y": 13
+      }
+    },
+    "puz65": {
+      "puzName": "puz65",
+      "slug": "constant_greek_numbers",
+      "displayName": "Constant Greek numbers",
+      "hasAnswer": true,
+      "answer": "OLYMPICS",
+      "isNew": true,
+      "unlockTime": 1727108573061,
+      "solveTime": 1727108900654,
+      "sequenceId": "greek",
+      "constellationEdges": [
+        "puz80"
+      ],
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 73.5,
+        "y": 42
+      }
+    },
+    "puz186": {
+      "puzName": "puz186",
+      "slug": "50_50_2",
+      "displayName": "50/50 2",
+      "hasAnswer": true,
+      "answer": "DIGITAL LOVE",
+      "isNew": true,
+      "unlockTime": 1727108911445,
+      "solveTime": 1727111519274,
+      "sequenceId": "fifty",
+      "constellationEdges": [
+        "puz205",
+        "puz222"
+      ],
+      "mapPos": {
+        "x": 49,
+        "y": 37
+      }
+    },
+    "puz22": {
+      "puzName": "puz22",
+      "slug": "6fa87a4b",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "REACTION",
+      "isNew": true,
+      "unlockTime": 1727109318031,
+      "solveTime": 1727112104306,
+      "rarity": "rare",
+      "mapPos": {
+        "x": 12.80670166015625,
+        "y": 29.6112060546875
+      },
+      "untitledPuzzleIndex": 13
+    },
+    "puz8": {
+      "puzName": "puz8",
+      "slug": "xxcxxxxxx",
+      "displayName": "XXCXXXXXX",
+      "hasAnswer": true,
+      "answer": "EXCELLENT",
+      "isNew": true,
+      "unlockTime": 1727110826795,
+      "solveTime": 1727111651163,
+      "mapPos": {
+        "x": 59.87548828125,
+        "y": 4.39605712890625
+      }
+    },
+    "puz86": {
+      "puzName": "puz86",
+      "slug": "b4e58ab3",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "PHOTON",
+      "isNew": true,
+      "unlockTime": 1727111544572,
+      "solveTime": 1727113079231,
+      "mapPos": {
+        "x": 2.4139404296875,
+        "y": 42.19818115234375
+      },
+      "untitledPuzzleIndex": 14
+    },
+    "puz64": {
+      "puzName": "puz64",
+      "slug": "ancient_greek_numbers",
+      "displayName": "Ancient Greek numbers",
+      "hasAnswer": true,
+      "answer": "PHOENIX",
+      "isNew": true,
+      "unlockTime": 1727111552466,
+      "solveTime": 1727111756573,
+      "sequenceId": "greek",
+      "constellationEdges": [
+        "puz65"
+      ],
+      "mapPos": {
+        "x": 72,
+        "y": 39
+      }
+    },
+    "puz38": {
+      "puzName": "puz38",
+      "slug": "lele",
+      "displayName": "LELE!",
+      "hasAnswer": true,
+      "answer": "FUJI",
+      "isNew": true,
+      "unlockTime": 1727111767746,
+      "solveTime": 1727113926303,
+      "mapPos": {
+        "x": 83.27789306640625,
+        "y": 48.55804443359375
+      }
+    },
+    "find_rock_lobster": {
+      "puzName": "find_rock_lobster",
+      "slug": "find_rock_lobster",
+      "displayName": "Rock Lobster",
+      "isNew": true,
+      "unlockTime": 1727112131443,
+      "solveTime": 1727112162453,
+      "isStory": true,
+      "isFindCelestial": true,
+      "mapPos": {
+        "x": 37.176513671875,
+        "y": 4.811859130859375
+      },
+      "cutsceneImages": [
+        "stelle-happy",
+        "rock_lobster",
+        "stelle",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "rock_lobster": {
+      "puzName": "rock_lobster",
+      "slug": "rock_lobster",
+      "displayName": "Rock Lobster",
+      "hasAnswer": true,
+      "answer": "IRIS",
+      "isNew": true,
+      "unlockTime": 1727112162454,
+      "solveTime": 1727711749590,
+      "isCelestial": true,
+      "rarity": "legendary",
+      "mapPos": {
+        "x": 69,
+        "y": 8
+      },
+      "noCannedHints": true
+    },
+    "puz45": {
+      "puzName": "puz45",
+      "slug": "3_3_puzzle",
+      "displayName": "3/3 Puzzle",
+      "hasAnswer": true,
+      "answer": "DERIVE",
+      "isNew": true,
+      "unlockTime": 1727113090274,
+      "solveTime": 1727114665476,
+      "sequenceId": "three",
+      "constellationEdges": [
+        "puz46"
+      ],
+      "rarity": "rare",
+      "mapPos": {
+        "x": 95,
+        "y": 19.8
+      }
+    },
+    "puz30": {
+      "puzName": "puz30",
+      "slug": "shortest_path",
+      "displayName": "Shortest Path",
+      "hasAnswer": true,
+      "answer": "KOOL-AID MAN",
+      "isNew": true,
+      "unlockTime": 1727113953224,
+      "solveTime": 1727114054159,
+      "mapPos": {
+        "x": 39.30511474609375,
+        "y": 26.9866943359375
+      }
+    },
+    "puz82": {
+      "puzName": "puz82",
+      "slug": "af47cd28",
+      "displayName": "读。听。",
+      "hasAnswer": true,
+      "answer": "CODE",
+      "isNew": true,
+      "unlockTime": 1727114071054,
+      "solveTime": 1727114328040,
+      "mapPos": {
+        "x": 74.70245361328125,
+        "y": 2.457427978515625
+      }
+    },
+    "puz78": {
+      "puzName": "puz78",
+      "slug": "blank_squares_2a8fcca1",
+      "displayName": "Blank Squares",
+      "hasAnswer": true,
+      "answer": "GLORY",
+      "isNew": true,
+      "unlockTime": 1727114352412,
+      "solveTime": 1727118442312,
+      "sequenceId": "blank",
+      "constellationEdges": [
+        "puz90",
+        "puz75"
+      ],
+      "mapPos": {
+        "x": 7,
+        "y": 10
+      }
+    },
+    "puz9": {
+      "puzName": "puz9",
+      "slug": "the_numbers_that_are_in",
+      "displayName": "THE NUMBERS THAT ARE IN THE LOST TV SHOW YOU INDEX BY",
+      "hasAnswer": true,
+      "answer": "NEARLY",
+      "isNew": true,
+      "unlockTime": 1727114594952,
+      "solveTime": 1727114780392,
+      "sequenceId": "title",
+      "constellationEdges": [
+        "puz47"
+      ],
+      "mapPos": {
+        "x": 5.3,
+        "y": 40.5
+      }
+    },
+    "puz128": {
+      "puzName": "puz128",
+      "slug": "funny_number_conundrum",
+      "displayName": "Funny Number Conundrum",
+      "hasAnswer": true,
+      "answer": "BLAZING SADDLES",
+      "isNew": true,
+      "unlockTime": 1727114688771,
+      "solveTime": 1727115619992,
+      "mapPos": {
+        "x": 4.4952392578125,
+        "y": 30.393218994140625
+      }
+    },
+    "puz287": {
+      "puzName": "puz287",
+      "slug": "five_by_five_6f517862",
+      "displayName": "Five-By-Five",
+      "hasAnswer": true,
+      "answer": "WHERE",
+      "isNew": true,
+      "unlockTime": 1727114800434,
+      "solveTime": 1727115099725,
+      "sequenceId": "five",
+      "constellationEdges": [
+        "puz289",
+        "puz290"
+      ],
+      "mapPos": {
+        "x": 65.2,
+        "y": 30
+      }
+    },
+    "puz105_custom_408": {
+      "puzName": "puz105_custom_408",
+      "slug": "custom_puzzle_408",
+      "displayName": "Role Model",
+      "hasAnswer": true,
+      "answer": "GENERALKNOWLEDGE",
+      "isNew": true,
+      "unlockTime": 1727115125385,
+      "solveTime": 1727152658427,
+      "rarity": "rare",
+      "customPuzzleData": {
+        "srcTeamId": "408"
+      }
+    },
+    "puz143": {
+      "puzName": "puz143",
+      "slug": "zoomer_jumbles",
+      "displayName": "Zoomer Jumbles",
+      "hasAnswer": true,
+      "answer": "BESTIE",
+      "isNew": true,
+      "unlockTime": 1727115139114,
+      "solveTime": 1727115595671,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 93.33648681640625,
+        "y": 4.169464111328125
+      }
+    },
+    "puz230": {
+      "puzName": "puz230",
+      "slug": "friendship_ended",
+      "displayName": "Friendship Ended",
+      "hasAnswer": true,
+      "answer": "SAID",
+      "isNew": true,
+      "unlockTime": 1727115155128,
+      "solveTime": 1727115290061,
+      "mapPos": {
+        "x": 69.66705322265625,
+        "y": 41.876983642578125
+      }
+    },
+    "puz13": {
+      "puzName": "puz13",
+      "slug": "never_will_i_ever",
+      "displayName": "Never Will I Ever",
+      "hasAnswer": true,
+      "answer": "YOUTUBER",
+      "isNew": true,
+      "unlockTime": 1727115652051,
+      "solveTime": 1727115705782,
+      "mapPos": {
+        "x": 7.550048828125,
+        "y": 42.789459228515625
+      }
+    },
+    "puz67": {
+      "puzName": "puz67",
+      "slug": "extremely_easy_puzzle",
+      "displayName": "Extremely Easy Puzzle",
+      "hasAnswer": true,
+      "answer": "ANSWER",
+      "isNew": true,
+      "unlockTime": 1727115724653,
+      "solveTime": 1727119059406,
+      "sequenceId": "difficulty",
+      "constellationEdges": [
+        "puz68"
+      ],
+      "mapPos": {
+        "x": 40.3,
+        "y": 14
+      }
+    },
+    "puz265": {
+      "puzName": "puz265",
+      "slug": "470904ae",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "MYOBLAST",
+      "isNew": true,
+      "unlockTime": 1727118450635,
+      "solveTime": 1727140644784,
+      "sequenceId": "espresso",
+      "mapPos": {
+        "x": 36.9,
+        "y": 35.3
+      },
+      "untitledPuzzleIndex": 15
+    },
+    "puz105_custom_160": {
+      "puzName": "puz105_custom_160",
+      "slug": "custom_puzzle_160",
+      "displayName": "50-50",
+      "hasAnswer": true,
+      "answer": "SHOHEIOHTANI",
+      "isNew": true,
+      "unlockTime": 1727119067463,
+      "solveTime": 1727140960593,
+      "customPuzzleData": {
+        "srcTeamId": "160"
+      }
+    },
+    "puz298": {
+      "puzName": "puz298",
+      "slug": "c_r_o_s_s_w_o_r_d",
+      "displayName": "C/R/O/S/S/W/O/R/D",
+      "hasAnswer": true,
+      "answer": "EDUCATION",
+      "isNew": true,
+      "unlockTime": 1727119123874,
+      "solveTime": 1727139878651,
+      "sequenceId": "crossword",
+      "constellationEdges": [
+        "puz302"
+      ],
+      "mapPos": {
+        "x": 34,
+        "y": 13
+      }
+    },
+    "puz272": {
+      "puzName": "puz272",
+      "slug": "necklace_ii",
+      "displayName": "Necklace II",
+      "hasAnswer": true,
+      "answer": "CRUISES",
+      "isNew": true,
+      "unlockTime": 1727119407777,
+      "solveTime": 1727121431658,
+      "sequenceId": "necklace",
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 88,
+        "y": 45
+      }
+    },
+    "puz136": {
+      "puzName": "puz136",
+      "slug": "dont_google_it",
+      "displayName": "Don’t Google it",
+      "hasAnswer": true,
+      "answerNormalization": "uppercase_letters_or_symbols_only",
+      "answer": "2",
+      "isNew": true,
+      "unlockTime": 1727121680837,
+      "solveTime": 1727121709688,
+      "sequenceId": "google",
+      "constellationEdges": [
+        "puz177"
+      ],
+      "mapPos": {
+        "x": 62,
+        "y": 8
+      }
+    },
+    "puz62": {
+      "puzName": "puz62",
+      "slug": "half_mile_grid",
+      "displayName": "Half Mile Grid",
+      "hasAnswer": true,
+      "answer": "ELSTON",
+      "isNew": true,
+      "unlockTime": 1727121747286,
+      "solveTime": 1727149515413,
+      "mapPos": {
+        "x": 35.49346923828125,
+        "y": 27.355194091796875
+      }
+    },
+    "puz267": {
+      "puzName": "puz267",
+      "slug": "espresso_double_shot_version",
+      "displayName": "Espresso (Double Shot Version)",
+      "hasAnswer": true,
+      "answer": "SPICED",
+      "isNew": true,
+      "unlockTime": 1727140171526,
+      "solveTime": 1727142322018,
+      "sequenceId": "espresso",
+      "constellationEdges": [
+        "puz265"
+      ],
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 37.2,
+        "y": 30
+      }
+    },
+    "puz105_custom_654": {
+      "puzName": "puz105_custom_654",
+      "slug": "custom_puzzle_654",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "AREA",
+      "isNew": true,
+      "unlockTime": 1727142683067,
+      "solveTime": 1727149713859,
+      "customPuzzleData": {
+        "srcTeamId": "654"
+      },
+      "untitledPuzzleIndex": 16
+    },
+    "puz280": {
+      "puzName": "puz280",
+      "slug": "name_the_country",
+      "displayName": "Name the country",
+      "hasAnswer": true,
+      "answer": "GEORGIA",
+      "isNew": true,
+      "unlockTime": 1727149734540,
+      "solveTime": 1727149808465,
+      "sequenceId": "name",
+      "constellationEdges": [
+        "puz227"
+      ],
+      "mapPos": {
+        "x": 51,
+        "y": 27
+      }
+    },
+    "puz165": {
+      "puzName": "puz165",
+      "slug": "colors",
+      "displayName": "Colors",
+      "hasAnswer": true,
+      "answer": "VISION",
+      "isNew": true,
+      "unlockTime": 1727149742881,
+      "solveTime": 1727166363730,
+      "sequenceId": "color",
+      "constellationEdges": [
+        "puz140"
+      ],
+      "mapPos": {
+        "x": 21,
+        "y": 4
+      }
+    },
+    "puz105_custom_599": {
+      "puzName": "puz105_custom_599",
+      "slug": "custom_puzzle_599",
+      "displayName": "A Good Star",
+      "hasAnswer": true,
+      "answer": "JOSHGROBAN",
+      "isNew": true,
+      "unlockTime": 1727149819991,
+      "solveTime": 1727155327164,
+      "customPuzzleData": {
+        "srcTeamId": "599"
+      }
+    },
+    "puz29": {
+      "puzName": "puz29",
+      "slug": "abnc",
+      "displayName": "AВΝС",
+      "hasAnswer": true,
+      "answer": "AVENUES",
+      "isNew": true,
+      "unlockTime": 1727152703291,
+      "solveTime": 1727177232169,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 99.1424560546875,
+        "y": 28.910064697265625
+      }
+    },
+    "puz101": {
+      "puzName": "puz101",
+      "slug": "genre",
+      "displayName": "Genre (4,3,4)",
+      "hasAnswer": true,
+      "answer": "DRUM AND BASS",
+      "isNew": true,
+      "unlockTime": 1727155332378,
+      "solveTime": 1727155426925,
+      "mapPos": {
+        "x": 76.54571533203125,
+        "y": 0.540924072265625
+      }
+    },
+    "puz177": {
+      "puzName": "puz177",
+      "slug": "dont_google_it_2",
+      "displayName": "Don’t Google it 2",
+      "hasAnswer": true,
+      "answerNormalization": "uppercase_letters_or_symbols_only",
+      "answer": "1",
+      "isNew": true,
+      "unlockTime": 1727155436531,
+      "solveTime": 1727155450717,
+      "sequenceId": "google",
+      "mapPos": {
+        "x": 65,
+        "y": 7
+      }
+    },
+    "puz132": {
+      "puzName": "puz132",
+      "slug": "make_3x5",
+      "displayName": "Make 3×5",
+      "hasAnswer": true,
+      "answer": "TULIP",
+      "isNew": true,
+      "unlockTime": 1727155476644,
+      "solveTime": 1727163149380,
+      "sequenceId": "domino",
+      "rarity": "rare",
+      "mapPos": {
+        "x": 72,
+        "y": 4
+      }
+    },
+    "puz46": {
+      "puzName": "puz46",
+      "slug": "1_2_metapuzzle",
+      "displayName": "1/2 Metapuzzle",
+      "hasAnswer": true,
+      "answer": "PONDER",
+      "isNew": true,
+      "unlockTime": 1727162495904,
+      "solveTime": 1727167060824,
+      "isMeta": true,
+      "sequenceId": "three",
+      "constellationEdges": [
+        "puz43",
+        "puz248"
+      ],
+      "mapPos": {
+        "x": 96.1,
+        "y": 23.8
+      }
+    },
+    "puz192": {
+      "puzName": "puz192",
+      "slug": "berried_treasure",
+      "displayName": "berried treasure",
+      "hasAnswer": true,
+      "answer": "WORMS",
+      "isNew": true,
+      "unlockTime": 1727163526733,
+      "solveTime": 1727169292872,
+      "rarity": "epic",
+      "mapPos": {
+        "x": 0.84991455078125,
+        "y": 4.479217529296875
+      }
+    },
+    "find_kid": {
+      "puzName": "find_kid",
+      "slug": "find_kid",
+      "displayName": "Kid",
+      "isNew": true,
+      "unlockTime": 1727166459022,
+      "solveTime": 1727166482931,
+      "isStory": true,
+      "isFindCelestial": true,
+      "mapPos": {
+        "x": 31.77032470703125,
+        "y": 12.924957275390625
+      },
+      "cutsceneImages": [
+        "stelle-happy",
+        "kid",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "blocks": {
+      "puzName": "blocks",
+      "slug": "kid",
+      "displayName": "Kid",
+      "hasAnswer": true,
+      "answer": "BUB",
+      "isNew": true,
+      "unlockTime": 1727166482932,
+      "solveTime": 1727715256312,
+      "isCelestial": true,
+      "rarity": "legendary",
+      "mapPos": {
+        "x": 79,
+        "y": 16
+      },
+      "noCannedHints": true
+    },
+    "puz171": {
+      "puzName": "puz171",
+      "slug": "bro_seas_teas_as_so_so",
+      "displayName": "BRO SEAS TEAS AS SO SO",
+      "hasAnswer": true,
+      "answer": "POLONIUM",
+      "isNew": true,
+      "unlockTime": 1727166598061,
+      "solveTime": 1727166709047,
+      "sequenceId": "jfk",
+      "mapPos": {
+        "x": 79,
+        "y": 31
+      }
+    },
+    "puz250": {
+      "puzName": "puz250",
+      "slug": "path",
+      "displayName": "Path",
+      "hasAnswer": true,
+      "answer": "AMOGUS",
+      "isNew": true,
+      "unlockTime": 1727167014054,
+      "solveTime": 1727177233285,
+      "sequenceId": "wikipedia",
+      "constellationEdges": [
+        "puz117"
+      ],
+      "mapPos": {
+        "x": 32,
+        "y": 24
+      }
+    },
+    "puz238": {
+      "puzName": "puz238",
+      "slug": "codes",
+      "displayName": "Codes",
+      "hasAnswer": true,
+      "answer": "SWITCH",
+      "isNew": true,
+      "unlockTime": 1727167074504,
+      "solveTime": 1727207135019,
+      "rarity": "rare",
+      "mapPos": {
+        "x": 75.32958984375,
+        "y": 16.631317138671875
+      }
+    },
+    "puz288": {
+      "puzName": "puz288",
+      "slug": "five_by_five_8af4468d",
+      "displayName": "Five-By-Five",
+      "hasAnswer": true,
+      "answer": "NESTS",
+      "isNew": true,
+      "unlockTime": 1727167619405,
+      "solveTime": 1727167827476,
+      "sequenceId": "five",
+      "mapPos": {
+        "x": 63.5,
+        "y": 23
+      }
+    },
+    "puz205": {
+      "puzName": "puz205",
+      "slug": "100_0",
+      "displayName": "100/0",
+      "hasAnswer": true,
+      "answer": "FOREHEADS",
+      "isNew": true,
+      "unlockTime": 1727169334581,
+      "solveTime": 1727169412805,
+      "sequenceId": "fifty",
+      "mapPos": {
+        "x": 50,
+        "y": 35
+      }
+    },
+    "puz89": {
+      "puzName": "puz89",
+      "slug": "a_b_c",
+      "displayName": "A+B=C",
+      "hasAnswer": true,
+      "answer": "BACK",
+      "isNew": true,
+      "unlockTime": 1727169683115,
+      "solveTime": 1727208079589,
+      "mapPos": {
+        "x": 44.79522705078125,
+        "y": 37.0269775390625
+      }
+    },
+    "puz254": {
+      "puzName": "puz254",
+      "slug": "self_reference",
+      "displayName": "Self-reference",
+      "hasAnswer": true,
+      "answer": "ZERO",
+      "isNew": true,
+      "unlockTime": 1727169701562,
+      "solveTime": 1727177245507,
+      "mapPos": {
+        "x": 66.4947509765625,
+        "y": 16.8914794921875
+      }
+    },
+    "puz77": {
+      "puzName": "puz77",
+      "slug": "i_know_how_to_see_them",
+      "displayName": "I know how to see them backwards",
+      "hasAnswer": true,
+      "answer": "SOLOS",
+      "isNew": true,
+      "unlockTime": 1727177255944,
+      "solveTime": 1727209971172,
+      "mapPos": {
+        "x": 59.47265625,
+        "y": 47.595977783203125
+      }
+    },
+    "puz151": {
+      "puzName": "puz151",
+      "slug": "wp_alphabetsoup",
+      "displayName": "https://en.wikipedia.org/wiki/WP:ALPHABETSOUP",
+      "hasAnswer": true,
+      "answer": "VANDALISM",
+      "isNew": true,
+      "unlockTime": 1727177293533,
+      "solveTime": 1727192847669,
+      "sequenceId": "wikipedia",
+      "mapPos": {
+        "x": 29,
+        "y": 25
+      }
+    },
+    "puz248": {
+      "puzName": "puz248",
+      "slug": "2_2_metapuzzle",
+      "displayName": "2/2 Metapuzzle",
+      "hasAnswer": true,
+      "answer": "USER",
+      "isNew": true,
+      "unlockTime": 1727177320334,
+      "solveTime": 1727178381793,
+      "isMeta": true,
+      "sequenceId": "three",
+      "mapPos": {
+        "x": 97.1,
+        "y": 25.2
+      }
+    },
+    "puz99": {
+      "puzName": "puz99",
+      "slug": "painting_919f62ee",
+      "displayName": "Painting",
+      "hasAnswer": true,
+      "answer": "SIGNAL",
+      "isNew": true,
+      "unlockTime": 1727177341585,
+      "solveTime": 1727209118301,
+      "sequenceId": "painting",
+      "constellationEdges": [
+        "puz100"
+      ],
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 88.4,
+        "y": 10.4
+      }
+    },
+    "puz289": {
+      "puzName": "puz289",
+      "slug": "five_by_five_4838924c",
+      "displayName": "Five-By-Five",
+      "hasAnswer": true,
+      "answer": "BOARD",
+      "isNew": true,
+      "unlockTime": 1727178429764,
+      "solveTime": 1727180752400,
+      "sequenceId": "five",
+      "mapPos": {
+        "x": 65.8,
+        "y": 25.6
+      }
+    },
+    "puz296": {
+      "puzName": "puz296",
+      "slug": "long_words",
+      "displayName": "Long Words",
+      "hasAnswer": true,
+      "answer": "APPLICABLE",
+      "isNew": true,
+      "unlockTime": 1727181887012,
+      "solveTime": 1727185316424,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 38.8641357421875,
+        "y": 37.041473388671875
+      }
+    },
+    "puz146": {
+      "puzName": "puz146",
+      "slug": "despair",
+      "displayName": "Despair",
+      "hasAnswer": true,
+      "answer": "DESPISED",
+      "isNew": true,
+      "unlockTime": 1727185378089,
+      "solveTime": 1727203204329,
+      "sequenceId": "despair",
+      "constellationEdges": [
+        "puz189"
+      ],
+      "mapPos": {
+        "x": 33,
+        "y": 46
+      }
+    },
+    "puz233": {
+      "puzName": "puz233",
+      "slug": "50_50_puzzle",
+      "displayName": "50-50 puzzle",
+      "hasAnswer": true,
+      "answerNormalization": "uppercase_letters_only",
+      "answer": "SO-SO",
+      "isNew": true,
+      "unlockTime": 1727190461306,
+      "solveTime": 1727193618471,
+      "sequenceId": "fifty",
+      "mapPos": {
+        "x": 46,
+        "y": 43
+      }
+    },
+    "puz76": {
+      "puzName": "puz76",
+      "slug": "blank_squares_c9719dea",
+      "displayName": "Blank Squares",
+      "hasAnswer": true,
+      "answer": "ORIENT",
+      "isNew": true,
+      "unlockTime": 1727192856560,
+      "solveTime": 1727208241649,
+      "sequenceId": "blank",
+      "mapPos": {
+        "x": 7.5,
+        "y": 17
+      }
+    },
+    "puz157": {
+      "puzName": "puz157",
+      "slug": "clues",
+      "displayName": "Clues",
+      "hasAnswer": true,
+      "answer": "CHAIN",
+      "isNew": true,
+      "unlockTime": 1727202543759,
+      "solveTime": 1727211497711,
+      "mapPos": {
+        "x": 83.2794189453125,
+        "y": 38.941192626953125
+      }
+    },
+    "puz231": {
+      "puzName": "puz231",
+      "slug": "free_hint",
+      "displayName": "Free Hint",
+      "hasAnswer": true,
+      "answer": "WATERMELON",
+      "isNew": true,
+      "unlockTime": 1727202717425,
+      "solveTime": 1727203178128,
+      "sequenceId": "hint",
+      "constellationEdges": [
+        "puz266"
+      ],
+      "mapPos": {
+        "x": 3,
+        "y": 21
+      }
+    },
+    "puz83": {
+      "puzName": "puz83",
+      "slug": "japanese_folding",
+      "displayName": "japaNese FoLding",
+      "hasAnswer": true,
+      "answer": "PIER",
+      "isNew": true,
+      "unlockTime": 1727203204328,
+      "solveTime": 1727208391430,
+      "mapPos": {
+        "x": 99.2462158203125,
+        "y": 43.8995361328125
+      }
+    },
+    "puz36": {
+      "puzName": "puz36",
+      "slug": "sums",
+      "displayName": "Sums",
+      "hasAnswer": true,
+      "answer": "VECTORS",
+      "isNew": true,
+      "unlockTime": 1727207159732,
+      "solveTime": 1727258821892,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 59.2041015625,
+        "y": 18.183135986328125
+      }
+    },
+    "puz281": {
+      "puzName": "puz281",
+      "slug": "81394e8f",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "MODPACK",
+      "isNew": true,
+      "unlockTime": 1727208420920,
+      "solveTime": 1727265713806,
+      "mapPos": {
+        "x": 23.30474853515625,
+        "y": 27.16064453125
+      },
+      "untitledPuzzleIndex": 17,
+      "hasMultipleAnswers": true
+    },
+    "puz290": {
+      "puzName": "puz290",
+      "slug": "five_by_five_7925bcb2",
+      "displayName": "Five-By-Five",
+      "hasAnswer": true,
+      "answer": "OVATE",
+      "isNew": true,
+      "unlockTime": 1727208435591,
+      "solveTime": 1727209263267,
+      "sequenceId": "five",
+      "constellationEdges": [
+        "puz291"
+      ],
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 66.1,
+        "y": 35
+      }
+    },
+    "puz203": {
+      "puzName": "puz203",
+      "slug": "regulations",
+      "displayName": "Regulations",
+      "hasAnswer": true,
+      "answer": "DUA LIPA",
+      "isNew": true,
+      "unlockTime": 1727208631520,
+      "solveTime": 1727208698784,
+      "mapPos": {
+        "x": 28.76739501953125,
+        "y": 42.646026611328125
+      }
+    },
+    "puz117": {
+      "puzName": "puz117",
+      "slug": "todays_featured_topics",
+      "displayName": "Today’s featured topics",
+      "hasAnswer": true,
+      "answer": "WONDERLAND",
+      "isNew": true,
+      "unlockTime": 1727208764174,
+      "solveTime": 1727213028685,
+      "sequenceId": "wikipedia",
+      "constellationEdges": [
+        "puz123",
+        "puz151"
+      ],
+      "mapPos": {
+        "x": 30.4,
+        "y": 26
+      }
+    },
+    "puz293": {
+      "puzName": "puz293",
+      "slug": "five_by_five_6941fb3e",
+      "displayName": "Five-By-Five",
+      "hasAnswer": true,
+      "answer": "SARGE",
+      "isNew": true,
+      "unlockTime": 1727209273640,
+      "solveTime": 1727209585557,
+      "sequenceId": "five",
+      "constellationEdges": [
+        "puz294"
+      ],
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 64.2,
+        "y": 39
+      }
+    },
+    "puz226": {
+      "puzName": "puz226",
+      "slug": "clues_with_answers_iii",
+      "displayName": "Clues with Answers III",
+      "hasAnswer": true,
+      "answer": "FINISHING",
+      "isNew": true,
+      "unlockTime": 1727210008647,
+      "solveTime": 1727265206870,
+      "sequenceId": "clues",
+      "constellationEdges": [
+        "puz245",
+        "puz176"
+      ],
+      "mapPos": {
+        "x": 19.5,
+        "y": 30
+      }
+    },
+    "puz80": {
+      "puzName": "puz80",
+      "slug": "festive_greek_numbers",
+      "displayName": "Festive Greek numbers",
+      "hasAnswer": true,
+      "answer": "DOGPILE",
+      "isNew": true,
+      "unlockTime": 1727211535001,
+      "solveTime": 1727215199681,
+      "sequenceId": "greek",
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 75,
+        "y": 38
+      }
+    },
+    "puz291": {
+      "puzName": "puz291",
+      "slug": "five_by_five_4a08351a",
+      "displayName": "Five-By-Five",
+      "hasAnswer": true,
+      "answer": "FINED",
+      "isNew": true,
+      "unlockTime": 1727211561239,
+      "solveTime": 1727252491303,
+      "sequenceId": "five",
+      "constellationEdges": [
+        "puz292",
+        "puz293"
+      ],
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 65.2,
+        "y": 37
+      }
+    },
+    "puz98": {
+      "puzName": "puz98",
+      "slug": "painting_6eb996ec",
+      "displayName": "Painting",
+      "hasAnswer": true,
+      "answer": "MATRIX",
+      "isNew": true,
+      "unlockTime": 1727211566449,
+      "solveTime": 1727297158146,
+      "sequenceId": "painting",
+      "constellationEdges": [
+        "puz99"
+      ],
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 87.1,
+        "y": 11.4
+      }
+    },
+    "puz54": {
+      "puzName": "puz54",
+      "slug": "strong_greek_numbers",
+      "displayName": "Strong Greek numbers",
+      "hasAnswer": true,
+      "answer": "COMPLEX",
+      "isNew": true,
+      "unlockTime": 1727211570143,
+      "solveTime": 1727213304751,
+      "sequenceId": "greek",
+      "constellationEdges": [
+        "puz64"
+      ],
+      "mapPos": {
+        "x": 71,
+        "y": 44
+      }
+    },
+    "puz37": {
+      "puzName": "puz37",
+      "slug": "8bc03312",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "TAKING SHAPE",
+      "isNew": true,
+      "unlockTime": 1727211574419,
+      "solveTime": 1727258339349,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 58.42437744140625,
+        "y": 42.93670654296875
+      },
+      "untitledPuzzleIndex": 18
+    },
+    "puz105_custom_45": {
+      "puzName": "puz105_custom_45",
+      "slug": "custom_puzzle_45",
+      "displayName": "Leading Re-bus",
+      "hasAnswer": true,
+      "answer": "WIBBLEWOBBLE",
+      "isNew": true,
+      "unlockTime": 1727211578302,
+      "solveTime": 1727215681278,
+      "customPuzzleData": {
+        "srcTeamId": "45"
+      }
+    },
+    "puz179": {
+      "puzName": "puz179",
+      "slug": "many_clues_with_answers",
+      "displayName": "Many Clues with Answers",
+      "hasAnswer": true,
+      "answer": "SURPLUS",
+      "isNew": true,
+      "unlockTime": 1727211583796,
+      "solveTime": 1727214042726,
+      "sequenceId": "clues",
+      "rarity": "rare",
+      "mapPos": {
+        "x": 20.7,
+        "y": 39
+      }
+    },
+    "puz26": {
+      "puzName": "puz26",
+      "slug": "owo",
+      "displayName": "owo",
+      "hasAnswer": true,
+      "answer": "AVOW",
+      "isNew": true,
+      "unlockTime": 1727211591058,
+      "solveTime": 1727215580167,
+      "mapPos": {
+        "x": 57.34405517578125,
+        "y": 18.47076416015625
+      }
+    },
+    "puz221": {
+      "puzName": "puz221",
+      "slug": "468a6325",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "LOANWORD",
+      "isNew": true,
+      "unlockTime": 1727213348832,
+      "solveTime": 1727240853356,
+      "mapPos": {
+        "x": 81.640625,
+        "y": 40.069580078125
+      },
+      "untitledPuzzleIndex": 19
+    },
+    "find_lions": {
+      "puzName": "find_lions",
+      "slug": "find_ten_lions",
+      "displayName": "Ten Lions",
+      "isNew": true,
+      "unlockTime": 1727216487144,
+      "solveTime": 1727251940303,
+      "isStory": true,
+      "isFindCelestial": true,
+      "mapPos": {
+        "x": 93.9239501953125,
+        "y": 45.4864501953125
+      },
+      "cutsceneImages": [
+        "stelle",
+        "stelle-thinking",
+        "lions"
+      ],
+      "noCannedHints": true
+    },
+    "puz196": {
+      "puzName": "puz196",
+      "slug": "clues_with_a_number_of_answers",
+      "displayName": "Clues with a Number of Answers",
+      "hasAnswer": true,
+      "answer": "MERGES",
+      "isNew": true,
+      "unlockTime": 1727234628447,
+      "solveTime": 1727348219889,
+      "sequenceId": "clues",
+      "constellationEdges": [
+        "puz206"
+      ],
+      "mapPos": {
+        "x": 22,
+        "y": 33
+      }
+    },
+    "puz109": {
+      "puzName": "puz109",
+      "slug": "blank_squares_iv",
+      "displayName": "Blank Squares IV",
+      "hasAnswer": true,
+      "answer": "NEGATIVE",
+      "isNew": true,
+      "unlockTime": 1727235309507,
+      "solveTime": 1727255013392,
+      "sequenceId": "blank",
+      "mapPos": {
+        "x": 9.1,
+        "y": 16
+      }
+    },
+    "puz24": {
+      "puzName": "puz24",
+      "slug": "a25492d3",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "JAIL",
+      "isNew": true,
+      "unlockTime": 1727240855524,
+      "solveTime": 1727258625204,
+      "mapPos": {
+        "x": 47.67608642578125,
+        "y": 22.662353515625
+      },
+      "untitledPuzzleIndex": 20
+    },
+    "puz294": {
+      "puzName": "puz294",
+      "slug": "three_by_three",
+      "displayName": "Three-By-Three",
+      "hasAnswer": true,
+      "answer": "THE FINAL COUNTDOWN",
+      "isNew": true,
+      "unlockTime": 1727240868397,
+      "solveTime": 1727258227760,
+      "isMeta": true,
+      "sequenceId": "five",
+      "rarity": "legendary",
+      "mapPos": {
+        "x": 63.7,
+        "y": 44
+      }
+    },
+    "puz189": {
+      "puzName": "puz189",
+      "slug": "desesperacion",
+      "displayName": "Desesperación",
+      "hasAnswer": true,
+      "answer": "DESTRESSED",
+      "isNew": true,
+      "unlockTime": 1727251828527,
+      "solveTime": 1727258485175,
+      "sequenceId": "despair",
+      "mapPos": {
+        "x": 34,
+        "y": 41
+      }
+    },
+    "ten_lions": {
+      "puzName": "ten_lions",
+      "slug": "ten_lions",
+      "displayName": "Ten Lions",
+      "hasAnswer": true,
+      "answer": "DIVEST",
+      "isNew": true,
+      "unlockTime": 1727251940304,
+      "solveTime": 1727326931968,
+      "isCelestial": true,
+      "rarity": "legendary",
+      "mapPos": {
+        "x": 97,
+        "y": 5
+      },
+      "noCannedHints": true
+    },
+    "puz310": {
+      "puzName": "puz310",
+      "slug": "whats_the_answer_iii",
+      "displayName": "What’s the answer? III",
+      "hasAnswer": true,
+      "answer": "FABULOUS",
+      "isNew": true,
+      "unlockTime": 1727252522772,
+      "solveTime": 1727254274796,
+      "sequenceId": "whats",
+      "constellationEdges": [
+        "puz311"
+      ],
+      "mapPos": {
+        "x": 26.5,
+        "y": 41
+      }
+    },
+    "puz68": {
+      "puzName": "puz68",
+      "slug": "extremely_medium_puzzle",
+      "displayName": "Extremely Medium Puzzle",
+      "hasAnswer": true,
+      "answer": "DOUBLESPEAK",
+      "isNew": true,
+      "unlockTime": 1727254282179,
+      "solveTime": 1727254670303,
+      "sequenceId": "difficulty",
+      "constellationEdges": [
+        "puz73"
+      ],
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 42,
+        "y": 16
+      }
+    },
+    "puz124": {
+      "puzName": "puz124",
+      "slug": "countries",
+      "displayName": "Countries (4)",
+      "hasAnswer": true,
+      "answer": "STAN",
+      "isNew": true,
+      "unlockTime": 1727255933732,
+      "solveTime": 1727256119402,
+      "mapPos": {
+        "x": 94.16351318359375,
+        "y": 42.12646484375
+      }
+    },
+    "puz212": {
+      "puzName": "puz212",
+      "slug": "fix_this_url_to_solve_the_puzzle",
+      "displayName": "Find the Answer",
+      "hasAnswer": true,
+      "answer": "OBSCURED",
+      "isNew": true,
+      "unlockTime": 1727256152265,
+      "solveTime": 1727256187017,
+      "sequenceId": "find",
+      "constellationEdges": [
+        "puz214"
+      ],
+      "mapPos": {
+        "x": 49,
+        "y": 4
+      }
+    },
+    "puz75": {
+      "puzName": "puz75",
+      "slug": "blank_squares_7e96140b",
+      "displayName": "Blank Squares",
+      "hasAnswer": true,
+      "answer": "SCALED",
+      "isNew": true,
+      "unlockTime": 1727258347567,
+      "solveTime": 1727260047061,
+      "sequenceId": "blank",
+      "constellationEdges": [
+        "puz76",
+        "puz109"
+      ],
+      "mapPos": {
+        "x": 8,
+        "y": 14
+      }
+    },
+    "puz150": {
+      "puzName": "puz150",
+      "slug": "dopaminae",
+      "displayName": "dopaminæ",
+      "hasAnswer": true,
+      "answer": "I WAKE UP",
+      "isNew": true,
+      "unlockTime": 1727258485174,
+      "solveTime": 1727274864269,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 0.677490234375,
+        "y": 13.234710693359375
+      }
+    },
+    "puz327": {
+      "puzName": "puz327",
+      "slug": "find_the_answer_vii",
+      "displayName": "Find the Answer VII",
+      "hasAnswer": true,
+      "answer": "REALTIME",
+      "isNew": true,
+      "unlockTime": 1727258833471,
+      "solveTime": 1727258849891,
+      "sequenceId": "find",
+      "constellationEdges": [
+        "puz328"
+      ],
+      "mapPos": {
+        "x": 55.6,
+        "y": 7
+      }
+    },
+    "puz330": {
+      "puzName": "puz330",
+      "slug": "find_the_answer_v",
+      "displayName": "Find the Answer V",
+      "hasAnswer": true,
+      "answer": "SNATCHED",
+      "isNew": true,
+      "unlockTime": 1727258863172,
+      "solveTime": 1727258897243,
+      "sequenceId": "find",
+      "constellationEdges": [
+        "puz326"
+      ],
+      "mapPos": {
+        "x": 54.4,
+        "y": 10.9
+      }
+    },
+    "puz176": {
+      "puzName": "puz176",
+      "slug": "other_clues_with_answers",
+      "displayName": "Other Clues with Answers",
+      "hasAnswer": true,
+      "answer": "THOMAS EDISON",
+      "isNew": true,
+      "unlockTime": 1727258899601,
+      "solveTime": 1727261743529,
+      "sequenceId": "clues",
+      "constellationEdges": [
+        "puz179"
+      ],
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 20,
+        "y": 34
+      }
+    },
+    "puz105_custom_43": {
+      "puzName": "puz105_custom_43",
+      "slug": "custom_puzzle_43",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "AVOCADO",
+      "isNew": true,
+      "unlockTime": 1727258904703,
+      "solveTime": 1727258958231,
+      "customPuzzleData": {
+        "srcTeamId": "43"
+      },
+      "untitledPuzzleIndex": 21
+    },
+    "puz105_custom_777": {
+      "puzName": "puz105_custom_777",
+      "slug": "custom_puzzle_777",
+      "displayName": "It's All Sorts of Thematic!",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727258908871,
+      "rarity": "uncommon",
+      "customPuzzleData": {
+        "srcTeamId": "777"
+      }
+    },
+    "puz297": {
+      "puzName": "puz297",
+      "slug": "layers",
+      "displayName": "Layers",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727258987293,
+      "mapPos": {
+        "x": 37.97760009765625,
+        "y": 8.873748779296875
+      }
+    },
+    "puz125": {
+      "puzName": "puz125",
+      "slug": "vortex_manipulator",
+      "displayName": "Vortex Manipulator",
+      "hasAnswer": true,
+      "answer": "JACK",
+      "isNew": true,
+      "unlockTime": 1727260070237,
+      "solveTime": 1727273663466,
+      "mapPos": {
+        "x": 46.15631103515625,
+        "y": 0.45166015625
+      }
+    },
+    "puz302": {
+      "puzName": "puz302",
+      "slug": "c_ro_ssw_or_d",
+      "displayName": "C/RO/SSW/OR/D",
+      "hasAnswer": true,
+      "answer": "LAYPERSON",
+      "isNew": true,
+      "unlockTime": 1727260134055,
+      "solveTime": 1727271384680,
+      "sequenceId": "crossword",
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 35.4,
+        "y": 14
+      }
+    },
+    "puz123": {
+      "puzName": "puz123",
+      "slug": "list_of_really_really_really",
+      "displayName": "List of really, really, really stupid article ideas",
+      "hasAnswer": true,
+      "answer": "FLOWCHART",
+      "isNew": true,
+      "unlockTime": 1727260372493,
+      "solveTime": 1727261170849,
+      "sequenceId": "wikipedia",
+      "mapPos": {
+        "x": 31.2,
+        "y": 31
+      }
+    },
+    "puz105_custom_133": {
+      "puzName": "puz105_custom_133",
+      "slug": "custom_puzzle_133",
+      "displayName": "One Lion",
+      "hasAnswer": true,
+      "answer": "LEONIDS",
+      "isNew": true,
+      "unlockTime": 1727261179451,
+      "solveTime": 1727287376207,
+      "customPuzzleData": {
+        "srcTeamId": "133"
+      }
+    },
+    "puz214": {
+      "puzName": "puz214",
+      "slug": "find_the_answer_ii",
+      "displayName": "Find the Answer II",
+      "hasAnswer": true,
+      "answer": "OVERHEAD",
+      "isNew": true,
+      "unlockTime": 1727265737047,
+      "solveTime": 1727270671560,
+      "sequenceId": "find",
+      "constellationEdges": [
+        "puz324"
+      ],
+      "mapPos": {
+        "x": 50.5,
+        "y": 8
+      }
+    },
+    "puz105_custom_24": {
+      "puzName": "puz105_custom_24",
+      "slug": "custom_puzzle_24",
+      "displayName": "Singles Staying Inside",
+      "hasAnswer": true,
+      "answer": "E",
+      "isNew": true,
+      "unlockTime": 1727266000582,
+      "solveTime": 1727273832118,
+      "customPuzzleData": {
+        "srcTeamId": "24"
+      }
+    },
+    "puz224": {
+      "puzName": "puz224",
+      "slug": "three_words_long",
+      "displayName": "Three Words Long",
+      "hasAnswer": true,
+      "answer": "NINETEEN LETTERS LONG",
+      "isNew": true,
+      "unlockTime": 1727270780098,
+      "solveTime": 1727270804740,
+      "mapPos": {
+        "x": 10.13946533203125,
+        "y": 2.4017333984375
+      }
+    },
+    "puz19": {
+      "puzName": "puz19",
+      "slug": "c59601e8",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "DRAWING",
+      "isNew": true,
+      "unlockTime": 1727271391725,
+      "solveTime": 1727276551155,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 81.695556640625,
+        "y": 46.781158447265625
+      },
+      "untitledPuzzleIndex": 22
+    },
+    "puz266": {
+      "puzName": "puz266",
+      "slug": "nonfree_hint",
+      "displayName": "Nonfree hint",
+      "hasAnswer": true,
+      "answer": "GUIDANCE",
+      "isNew": true,
+      "unlockTime": 1727273167821,
+      "solveTime": 1727278023952,
+      "sequenceId": "hint",
+      "mapPos": {
+        "x": 2,
+        "y": 27
+      },
+      "areHintsDisabledUntilAllCannedHintsFound": true
+    },
+    "puz185": {
+      "puzName": "puz185",
+      "slug": "clues_without_answers",
+      "displayName": "Clues Without Answers",
+      "hasAnswer": true,
+      "answer": "OUTLIERS",
+      "isNew": true,
+      "unlockTime": 1727273218294,
+      "solveTime": 1727278770743,
+      "sequenceId": "clues",
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 22,
+        "y": 26
+      }
+    },
+    "puz105_custom_737": {
+      "puzName": "puz105_custom_737",
+      "slug": "custom_puzzle_737",
+      "displayName": "In the Name of the Law",
+      "hasAnswer": true,
+      "answer": "REGULATORY",
+      "isNew": true,
+      "unlockTime": 1727273850768,
+      "solveTime": 1727274480637,
+      "customPuzzleData": {
+        "srcTeamId": "737"
+      }
+    },
+    "puz211": {
+      "puzName": "puz211",
+      "slug": "3466ec19",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "NO",
+      "isNew": true,
+      "unlockTime": 1727274488797,
+      "solveTime": 1727274540834,
+      "mapPos": {
+        "x": 10.97412109375,
+        "y": 24.01885986328125
+      },
+      "untitledPuzzleIndex": 23
+    },
+    "puz220": {
+      "puzName": "puz220",
+      "slug": "what_is_that",
+      "displayName": "What is that?",
+      "hasAnswer": true,
+      "answer": "VASISTAS",
+      "isNew": true,
+      "unlockTime": 1727274937405,
+      "solveTime": 1727275073048,
+      "mapPos": {
+        "x": 2.4444580078125,
+        "y": 36.499786376953125
+      }
+    },
+    "puz326": {
+      "puzName": "puz326",
+      "slug": "find_the_answer_vi",
+      "displayName": "Find the Answer VI",
+      "hasAnswer": true,
+      "answer": "LAST WORD",
+      "isNew": true,
+      "unlockTime": 1727275095772,
+      "solveTime": 1727275145114,
+      "sequenceId": "find",
+      "constellationEdges": [
+        "puz327"
+      ],
+      "mapPos": {
+        "x": 55.2,
+        "y": 10
+      }
+    },
+    "puz114": {
+      "puzName": "puz114",
+      "slug": "6feaa304",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "CODER",
+      "isNew": true,
+      "unlockTime": 1727275653738,
+      "solveTime": 1727276011182,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 9.86785888671875,
+        "y": 6.30950927734375
+      },
+      "untitledPuzzleIndex": 24
+    },
+    "puz324": {
+      "puzName": "puz324",
+      "slug": "find_the_answer_iii",
+      "displayName": "Find the Answer III",
+      "hasAnswer": true,
+      "answer": "PRESENCE",
+      "isNew": true,
+      "unlockTime": 1727276048032,
+      "solveTime": 1727276264477,
+      "sequenceId": "find",
+      "constellationEdges": [
+        "puz325"
+      ],
+      "mapPos": {
+        "x": 51.9,
+        "y": 10.4
+      }
+    },
+    "puz325": {
+      "puzName": "puz325",
+      "slug": "find_the_answer_iv",
+      "displayName": "Find the Answer IV",
+      "hasAnswer": true,
+      "answer": "FAIR PLAY",
+      "isNew": true,
+      "unlockTime": 1727276294414,
+      "solveTime": 1727276317013,
+      "sequenceId": "find",
+      "constellationEdges": [
+        "puz330"
+      ],
+      "mapPos": {
+        "x": 53.4,
+        "y": 11
+      }
+    },
+    "puz100": {
+      "puzName": "puz100",
+      "slug": "painting_meta",
+      "displayName": "Painting (Meta)",
+      "hasAnswer": true,
+      "answer": "RASTER MASTER",
+      "isNew": true,
+      "unlockTime": 1727276300615,
+      "solveTime": 1727360093587,
+      "isMeta": true,
+      "sequenceId": "painting",
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 89.9,
+        "y": 11.7
+      }
+    },
+    "puz172": {
+      "puzName": "puz172",
+      "slug": "e69142ad",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "DECADE",
+      "isNew": true,
+      "unlockTime": 1727276305019,
+      "solveTime": 1727278534864,
+      "mapPos": {
+        "x": 97.15576171875,
+        "y": 33.71429443359375
+      },
+      "untitledPuzzleIndex": 25,
+      "hasMultipleAnswers": true
+    },
+    "puz301": {
+      "puzName": "puz301",
+      "slug": "fight_or_flight",
+      "displayName": "Fight or Flight",
+      "hasAnswer": true,
+      "answer": "COOKIE",
+      "isNew": true,
+      "unlockTime": 1727276342705,
+      "solveTime": 1727277057624,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 14.16015625,
+        "y": 39.2974853515625
+      }
+    },
+    "puz105_custom_576": {
+      "puzName": "puz105_custom_576",
+      "slug": "custom_puzzle_576",
+      "displayName": "50%50",
+      "hasAnswer": true,
+      "answer": "STARLING",
+      "isNew": true,
+      "unlockTime": 1727276347130,
+      "solveTime": 1727288257096,
+      "customPuzzleData": {
+        "srcTeamId": "576"
+      }
+    },
+    "puz206": {
+      "puzName": "puz206",
+      "slug": "clues_with_answers_some_number",
+      "displayName": "Clues with Answers... some Number",
+      "hasAnswer": true,
+      "answer": "DOODLERS",
+      "isNew": true,
+      "unlockTime": 1727276350788,
+      "solveTime": 1727284737303,
+      "sequenceId": "clues",
+      "constellationEdges": [
+        "puz179"
+      ],
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 21.7,
+        "y": 37
+      }
+    },
+    "find_olive": {
+      "puzName": "find_olive",
+      "slug": "find_olive",
+      "displayName": "Olive",
+      "isNew": true,
+      "unlockTime": 1727277069287,
+      "solveTime": 1727277106949,
+      "isStory": true,
+      "isFindCelestial": true,
+      "mapPos": {
+        "x": 84.3597412109375,
+        "y": 38.8671875
+      },
+      "cutsceneImages": [
+        "stelle-happy",
+        "olive",
+        "stelle-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "olive": {
+      "puzName": "olive",
+      "slug": "olive",
+      "displayName": "Olive",
+      "hasAnswer": true,
+      "answer": "LIME",
+      "isNew": true,
+      "unlockTime": 1727277106950,
+      "solveTime": 1727541038624,
+      "isCelestial": true,
+      "rarity": "legendary",
+      "mapPos": {
+        "x": 42,
+        "y": 33
+      },
+      "noCannedHints": true
+    },
+    "puz14": {
+      "puzName": "puz14",
+      "slug": "number_list",
+      "displayName": "Number List",
+      "hasAnswer": true,
+      "answer": "CABBAGE",
+      "isNew": true,
+      "unlockTime": 1727277517394,
+      "solveTime": 1727277999550,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 13.08135986328125,
+        "y": 23.59466552734375
+      }
+    },
+    "puz105_custom_436": {
+      "puzName": "puz105_custom_436",
+      "slug": "custom_puzzle_436",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "BILL",
+      "isNew": true,
+      "unlockTime": 1727278032800,
+      "solveTime": 1727287842331,
+      "rarity": "uncommon",
+      "customPuzzleData": {
+        "srcTeamId": "436"
+      },
+      "untitledPuzzleIndex": 26
+    },
+    "puz328": {
+      "puzName": "puz328",
+      "slug": "find_the_answer_viii",
+      "displayName": "Find the Answer VIII",
+      "hasAnswer": true,
+      "answer": "OVERCOME",
+      "isNew": true,
+      "unlockTime": 1727278054725,
+      "solveTime": 1727278130231,
+      "isMeta": true,
+      "sequenceId": "find",
+      "mapPos": {
+        "x": 55.3,
+        "y": 5
+      }
+    },
+    "puz292": {
+      "puzName": "puz292",
+      "slug": "five_by_five_f590b294",
+      "displayName": "Five-By-Five",
+      "hasAnswer": true,
+      "answer": "CANOE",
+      "isNew": true,
+      "unlockTime": 1727278778907,
+      "solveTime": 1727278848634,
+      "sequenceId": "five",
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 66,
+        "y": 42
+      }
+    },
+    "puz73": {
+      "puzName": "puz73",
+      "slug": "extremely_hard_puzzle",
+      "displayName": "Extremely Hard Puzzle",
+      "hasAnswer": true,
+      "answer": "COOS",
+      "isNew": true,
+      "unlockTime": 1727278869159,
+      "solveTime": 1727289044104,
+      "sequenceId": "difficulty",
+      "constellationEdges": [
+        "puz74"
+      ],
+      "rarity": "rare",
+      "mapPos": {
+        "x": 44,
+        "y": 13
+      }
+    },
+    "puz245": {
+      "puzName": "puz245",
+      "slug": "clues_with_answers_v",
+      "displayName": "Clues with Answers V",
+      "hasAnswer": true,
+      "answer": "ERRATICALLY",
+      "isNew": true,
+      "unlockTime": 1727278904771,
+      "solveTime": 1727292875203,
+      "sequenceId": "clues",
+      "constellationEdges": [
+        "puz185",
+        "puz196"
+      ],
+      "rarity": "rare",
+      "mapPos": {
+        "x": 21,
+        "y": 30
+      }
+    },
+    "puz140": {
+      "puzName": "puz140",
+      "slug": "wow_a_top_quality_puzzle",
+      "displayName": "Wow, a Top Quality Puzzle",
+      "hasAnswer": true,
+      "answer": "LUCRE",
+      "isNew": true,
+      "unlockTime": 1727284770088,
+      "solveTime": 1727297586287,
+      "sequenceId": "color",
+      "rarity": "legendary",
+      "mapPos": {
+        "x": 22,
+        "y": 1
+      }
+    },
+    "puz183": {
+      "puzName": "puz183",
+      "slug": "data_visualization",
+      "displayName": "Data visualization",
+      "hasAnswer": true,
+      "answer": "GAIN",
+      "isNew": true,
+      "unlockTime": 1727288508369,
+      "solveTime": 1727288758402,
+      "mapPos": {
+        "x": 15.18402099609375,
+        "y": 11.8438720703125
+      }
+    },
+    "puz74": {
+      "puzName": "puz74",
+      "slug": "extremely_meta_puzzle",
+      "displayName": "Extremely Meta Puzzle",
+      "hasAnswer": true,
+      "answer": "COUSCOUS",
+      "isNew": true,
+      "unlockTime": 1727289052773,
+      "solveTime": 1727289765864,
+      "isMeta": true,
+      "sequenceId": "difficulty",
+      "rarity": "legendary",
+      "mapPos": {
+        "x": 43,
+        "y": 9
+      }
+    },
+    "puz105_custom_642": {
+      "puzName": "puz105_custom_642",
+      "slug": "custom_puzzle_642",
+      "displayName": "Party Games",
+      "hasAnswer": true,
+      "answer": "SUPERSTAR",
+      "isNew": true,
+      "unlockTime": 1727289798810,
+      "solveTime": 1727303876186,
+      "rarity": "uncommon",
+      "customPuzzleData": {
+        "srcTeamId": "642"
+      }
+    },
+    "puz105_custom_487": {
+      "puzName": "puz105_custom_487",
+      "slug": "custom_puzzle_487",
+      "displayName": "Galactic Puzzle",
+      "hasAnswer": true,
+      "answer": "COSMIC",
+      "isNew": true,
+      "unlockTime": 1727289803404,
+      "solveTime": 1727291064344,
+      "rarity": "uncommon",
+      "customPuzzleData": {
+        "srcTeamId": "487"
+      }
+    },
+    "puz213": {
+      "puzName": "puz213",
+      "slug": "territories",
+      "displayName": "Territories",
+      "hasAnswer": true,
+      "answer": "IQALUIT",
+      "isNew": true,
+      "unlockTime": 1727291093564,
+      "solveTime": 1727291139256,
+      "mapPos": {
+        "x": 31.25,
+        "y": 45.196533203125
+      }
+    },
+    "puz97": {
+      "puzName": "puz97",
+      "slug": "morse_code",
+      "displayName": "Morse Code",
+      "hasAnswer": true,
+      "answerNormalization": "uppercase_letters_or_symbols_only",
+      "answer": "34",
+      "isNew": true,
+      "unlockTime": 1727291099223,
+      "solveTime": 1727298837160,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 57.33184814453125,
+        "y": 8.43658447265625
+      }
+    },
+    "puz105_custom_217": {
+      "puzName": "puz105_custom_217",
+      "slug": "custom_puzzle_217",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "HORIZON",
+      "isNew": true,
+      "unlockTime": 1727292281144,
+      "solveTime": 1727292323814,
+      "customPuzzleData": {
+        "srcTeamId": "217"
+      },
+      "untitledPuzzleIndex": 27
+    },
+    "puz105_custom_12": {
+      "puzName": "puz105_custom_12",
+      "slug": "custom_puzzle_12",
+      "displayName": "Extremely Elementary Puzzle",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727297212338,
+      "customPuzzleData": {
+        "srcTeamId": "12"
+      }
+    },
+    "puz274": {
+      "puzName": "puz274",
+      "slug": "md5",
+      "displayName": "md5...?.....?.?....?.......?....",
+      "hasAnswer": true,
+      "answer": "DECAF",
+      "isNew": true,
+      "unlockTime": 1727297626557,
+      "solveTime": 1727631370654,
+      "mapPos": {
+        "x": 75.4425048828125,
+        "y": 23.2879638671875
+      }
+    },
+    "puz60": {
+      "puzName": "puz60",
+      "slug": "grid",
+      "displayName": "Grid",
+      "hasAnswer": true,
+      "answer": "BIGRAM",
+      "isNew": true,
+      "unlockTime": 1727297681350,
+      "solveTime": 1727298018206,
+      "mapPos": {
+        "x": 76.7913818359375,
+        "y": 36.0870361328125
+      }
+    },
+    "puz105_custom_456": {
+      "puzName": "puz105_custom_456",
+      "slug": "custom_puzzle_456",
+      "displayName": "Across The Sky",
+      "hasAnswer": true,
+      "answer": "HALLEYSCOMET",
+      "isNew": true,
+      "unlockTime": 1727298025576,
+      "solveTime": 1727298637774,
+      "customPuzzleData": {
+        "srcTeamId": "456"
+      }
+    },
+    "puz105_custom_712": {
+      "puzName": "puz105_custom_712",
+      "slug": "custom_puzzle_712",
+      "displayName": "What's the answer? LIV",
+      "hasAnswer": true,
+      "answer": "ABRAHAM",
+      "isNew": true,
+      "unlockTime": 1727298842817,
+      "solveTime": 1727318428341,
+      "customPuzzleData": {
+        "srcTeamId": "712"
+      }
+    },
+    "puz236": {
+      "puzName": "puz236",
+      "slug": "weight",
+      "displayName": "Weight",
+      "hasAnswer": true,
+      "answer": "LARGELY",
+      "isNew": true,
+      "unlockTime": 1727298982348,
+      "solveTime": 1727304435759,
+      "mapPos": {
+        "x": 58.73565673828125,
+        "y": 39.740753173828125
+      }
+    },
+    "puz308": {
+      "puzName": "puz308",
+      "slug": "697618a9",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "DRAGON",
+      "isNew": true,
+      "unlockTime": 1727303182781,
+      "solveTime": 1727358591997,
+      "rarity": "rare",
+      "mapPos": {
+        "x": 58.82720947265625,
+        "y": 27.3101806640625
+      },
+      "untitledPuzzleIndex": 28
+    },
+    "puz105_custom_380": {
+      "puzName": "puz105_custom_380",
+      "slug": "custom_puzzle_380",
+      "displayName": "Placeholder Puzzle",
+      "hasAnswer": true,
+      "answer": "GIBBERISH",
+      "isNew": true,
+      "unlockTime": 1727303209276,
+      "solveTime": 1727665070318,
+      "customPuzzleData": {
+        "srcTeamId": "380"
+      }
+    },
+    "puz15": {
+      "puzName": "puz15",
+      "slug": "knowledge_evaluation",
+      "displayName": "Knowledge Evaluation",
+      "hasAnswer": true,
+      "answer": "TALLY",
+      "isNew": true,
+      "unlockTime": 1727303273490,
+      "solveTime": 1727347946445,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 13.04931640625,
+        "y": 19.107818603515625
+      }
+    },
+    "puz105_custom_296": {
+      "puzName": "puz105_custom_296",
+      "slug": "custom_puzzle_296",
+      "displayName": "Unnamed Puzzle",
+      "hasAnswer": true,
+      "answer": "RETITLE",
+      "isNew": true,
+      "unlockTime": 1727303954756,
+      "solveTime": 1727304231563,
+      "customPuzzleData": {
+        "srcTeamId": "296"
+      }
+    },
+    "puz209": {
+      "puzName": "puz209",
+      "slug": "4eae8092",
+      "displayName": "",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727304258287,
+      "mapPos": {
+        "x": 33.85009765625,
+        "y": 0.556182861328125
+      },
+      "untitledPuzzleIndex": 29
+    },
+    "puz173": {
+      "puzName": "puz173",
+      "slug": "scramble_for_the_stars_ii",
+      "displayName": "Scramble for the Stars II",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727304459906,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 68.402099609375,
+        "y": 46.9818115234375
+      },
+      "isScrambleSequel": true
+    },
+    "puz169": {
+      "puzName": "puz169",
+      "slug": "quadruple_crossword",
+      "displayName": "Quadruple Crossword",
+      "hasAnswer": true,
+      "answer": "SPIN",
+      "isNew": true,
+      "unlockTime": 1727305566386,
+      "solveTime": 1727340631706,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 37.1551513671875,
+        "y": 47.356414794921875
+      }
+    },
+    "puz105_custom_406": {
+      "puzName": "puz105_custom_406",
+      "slug": "custom_puzzle_406",
+      "displayName": "👽50",
+      "hasAnswer": true,
+      "answer": "SAUCERY",
+      "isNew": true,
+      "unlockTime": 1727326989129,
+      "solveTime": 1727422615220,
+      "customPuzzleData": {
+        "srcTeamId": "406"
+      }
+    },
+    "puz105_custom_275": {
+      "puzName": "puz105_custom_275",
+      "slug": "custom_puzzle_275",
+      "displayName": "一道好题",
+      "hasAnswer": true,
+      "answer": "REDHERRING",
+      "isNew": true,
+      "unlockTime": 1727327021381,
+      "solveTime": 1727340666238,
+      "customPuzzleData": {
+        "srcTeamId": "275"
+      }
+    },
+    "puz12": {
+      "puzName": "puz12",
+      "slug": "competitive_homework",
+      "displayName": "Competitive Homework",
+      "hasAnswer": true,
+      "answer": "PEN",
+      "isNew": true,
+      "unlockTime": 1727340634983,
+      "solveTime": 1727352146688,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 15.8538818359375,
+        "y": 0.41656494140625
+      }
+    },
+    "puz105_custom_394": {
+      "puzName": "puz105_custom_394",
+      "slug": "custom_puzzle_394",
+      "displayName": "OKI! WRITE CENTRED LETTERS, CAPEESH?? TNX",
+      "hasAnswer": true,
+      "answer": "KITTEN",
+      "isNew": true,
+      "unlockTime": 1727340710491,
+      "solveTime": 1727340738595,
+      "customPuzzleData": {
+        "srcTeamId": "394"
+      }
+    },
+    "puz253": {
+      "puzName": "puz253",
+      "slug": "a_day_at_the_park",
+      "displayName": "A Day at the Park",
+      "hasAnswer": true,
+      "answer": "DARLING",
+      "isNew": true,
+      "unlockTime": 1727340772488,
+      "solveTime": 1727345905151,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 92.095947265625,
+        "y": 24.19586181640625
+      }
+    },
+    "puz159": {
+      "puzName": "puz159",
+      "slug": "d1e953ab",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "MONETIZE",
+      "isNew": true,
+      "unlockTime": 1727347958408,
+      "solveTime": 1727381624171,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 80.4595947265625,
+        "y": 45.1995849609375
+      },
+      "untitledPuzzleIndex": 30
+    },
+    "puz152": {
+      "puzName": "puz152",
+      "slug": "bacon_bits",
+      "displayName": "Bacon Bits",
+      "hasAnswer": true,
+      "answer": "SNL",
+      "isNew": true,
+      "unlockTime": 1727347963355,
+      "solveTime": 1727351239550,
+      "mapPos": {
+        "x": 80.76324462890625,
+        "y": 36.7095947265625
+      },
+      "hasMultipleAnswers": true
+    },
+    "puz116": {
+      "puzName": "puz116",
+      "slug": "temple_parabola",
+      "displayName": "Temple Parabola",
+      "hasAnswer": true,
+      "answer": "COURTHOUSE",
+      "isNew": true,
+      "unlockTime": 1727348857368,
+      "solveTime": 1727351239348,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 26.96685791015625,
+        "y": 25.960540771484375
+      }
+    },
+    "puz85": {
+      "puzName": "puz85",
+      "slug": "time",
+      "displayName": "Time",
+      "hasAnswer": true,
+      "answer": "SOIL",
+      "isNew": true,
+      "unlockTime": 1727351968697,
+      "solveTime": 1727361307637,
+      "mapPos": {
+        "x": 39.12506103515625,
+        "y": 39.130401611328125
+      }
+    },
+    "puz105_custom_357": {
+      "puzName": "puz105_custom_357",
+      "slug": "custom_puzzle_357",
+      "displayName": "Not Without Precedent",
+      "hasAnswer": true,
+      "answer": "PEARLS",
+      "isNew": true,
+      "unlockTime": 1727352024281,
+      "solveTime": 1727400134168,
+      "customPuzzleData": {
+        "srcTeamId": "357"
+      }
+    },
+    "puz247": {
+      "puzName": "puz247",
+      "slug": "matchups",
+      "displayName": "Matchups",
+      "hasAnswer": true,
+      "answer": "CHART",
+      "isNew": true,
+      "unlockTime": 1727352053671,
+      "solveTime": 1727380131485,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 44.09027099609375,
+        "y": 43.502044677734375
+      }
+    },
+    "puz111": {
+      "puzName": "puz111",
+      "slug": "angkor_what",
+      "displayName": "Angkor What",
+      "hasAnswer": true,
+      "answer": "WAT",
+      "isNew": true,
+      "unlockTime": 1727352435561,
+      "solveTime": 1727352460342,
+      "mapPos": {
+        "x": 28.485107421875,
+        "y": 8.745574951171875
+      }
+    },
+    "find_big_branch": {
+      "puzName": "find_big_branch",
+      "slug": "find_big_branch",
+      "displayName": "Big Branch",
+      "isNew": true,
+      "unlockTime": 1727352467115,
+      "solveTime": 1727352486573,
+      "isStory": true,
+      "isFindCelestial": true,
+      "mapPos": {
+        "x": 73.9776611328125,
+        "y": 18.4417724609375
+      },
+      "cutsceneImages": [
+        "stelle-happy",
+        "big_branch",
+        "stelle"
+      ],
+      "noCannedHints": true
+    },
+    "branch": {
+      "puzName": "branch",
+      "slug": "big_branch",
+      "displayName": "Big Branch",
+      "hasAnswer": true,
+      "answer": "BOWLER",
+      "isNew": true,
+      "unlockTime": 1727352486574,
+      "solveTime": 1727609668613,
+      "isCelestial": true,
+      "rarity": "legendary",
+      "mapPos": {
+        "x": 55,
+        "y": 33
+      },
+      "noCannedHints": true
+    },
+    "puz105_custom_445": {
+      "puzName": "puz105_custom_445",
+      "slug": "custom_puzzle_445",
+      "displayName": "Milky Way Trailblazers",
+      "hasAnswer": true,
+      "answer": "DOZEN",
+      "isNew": true,
+      "unlockTime": 1727358651922,
+      "solveTime": 1727424974243,
+      "customPuzzleData": {
+        "srcTeamId": "445"
+      }
+    },
+    "puz105_custom_663": {
+      "puzName": "puz105_custom_663",
+      "slug": "custom_puzzle_663",
+      "displayName": "Extreme Anagrams",
+      "hasAnswer": true,
+      "answer": "HALLEYSCOMET",
+      "isNew": true,
+      "unlockTime": 1727358658107,
+      "solveTime": 1727379528444,
+      "customPuzzleData": {
+        "srcTeamId": "663"
+      }
+    },
+    "puz105_custom_415": {
+      "puzName": "puz105_custom_415",
+      "slug": "custom_puzzle_415",
+      "displayName": "What's this herCip?",
+      "hasAnswer": true,
+      "answer": "FAIRPLAY",
+      "isNew": true,
+      "unlockTime": 1727358663677,
+      "solveTime": 1727358729659,
+      "customPuzzleData": {
+        "srcTeamId": "415"
+      }
+    },
+    "puz105_custom_617": {
+      "puzName": "puz105_custom_617",
+      "slug": "custom_puzzle_617",
+      "displayName": "C/ROS/SWORD",
+      "hasAnswer": true,
+      "answer": "TURNTABLE",
+      "isNew": true,
+      "unlockTime": 1727358772410,
+      "solveTime": 1727664741200,
+      "customPuzzleData": {
+        "srcTeamId": "617"
+      }
+    },
+    "puz41": {
+      "puzName": "puz41",
+      "slug": "high_precision",
+      "displayName": "High Precision",
+      "hasAnswer": true,
+      "answer": "PAIGE",
+      "isNew": true,
+      "unlockTime": 1727360132466,
+      "solveTime": 1727425358493,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 61.8011474609375,
+        "y": 49.964141845703125
+      }
+    },
+    "puz105_custom_714": {
+      "puzName": "puz105_custom_714",
+      "slug": "custom_puzzle_714",
+      "displayName": "Speedrunning a trip to IKEA",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727360139141,
+      "rarity": "uncommon",
+      "customPuzzleData": {
+        "srcTeamId": "714"
+      }
+    },
+    "puz122": {
+      "puzName": "puz122",
+      "slug": "three_clues",
+      "displayName": "Three clues",
+      "hasAnswer": true,
+      "answer": "BYPASS",
+      "isNew": true,
+      "unlockTime": 1727376626951,
+      "solveTime": 1727376668003,
+      "mapPos": {
+        "x": 58.96148681640625,
+        "y": 47.422027587890625
+      }
+    },
+    "puz105_custom_172": {
+      "puzName": "puz105_custom_172",
+      "slug": "custom_puzzle_172",
+      "displayName": "Find the Answer IX",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727379576932,
+      "customPuzzleData": {
+        "srcTeamId": "172"
+      }
+    },
+    "puz264": {
+      "puzName": "puz264",
+      "slug": "hopeless",
+      "displayName": "Hopeless",
+      "isNew": true,
+      "unlockTime": 1727379605849,
+      "solveTime": 1727429358898,
+      "mapPos": {
+        "x": 64.51568603515625,
+        "y": 47.786712646484375
+      }
+    },
+    "puz306": {
+      "puzName": "puz306",
+      "slug": "44f0618d",
+      "displayName": "",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727379660613,
+      "mapPos": {
+        "x": 49.822998046875,
+        "y": 18.82171630859375
+      },
+      "untitledPuzzleIndex": 31
+    },
+    "puz105_custom_82": {
+      "puzName": "puz105_custom_82",
+      "slug": "custom_puzzle_82",
+      "displayName": "Hexadactyly",
+      "hasAnswer": true,
+      "answer": "PERMIT",
+      "isNew": true,
+      "unlockTime": 1727381172247,
+      "solveTime": 1727395586445,
+      "customPuzzleData": {
+        "srcTeamId": "82"
+      }
+    },
+    "puz39": {
+      "puzName": "puz39",
+      "slug": "ascii_art",
+      "displayName": "ASCII Art",
+      "hasAnswer": true,
+      "answer": "MIRROR",
+      "isNew": true,
+      "unlockTime": 1727381652906,
+      "solveTime": 1727406400800,
+      "mapPos": {
+        "x": 76.1932373046875,
+        "y": 26.18255615234375
+      }
+    },
+    "puz321": {
+      "puzName": "puz321",
+      "slug": "sixteen_words",
+      "displayName": "Sixteen Words",
+      "hasAnswer": true,
+      "answer": "GOLD",
+      "isNew": true,
+      "unlockTime": 1727406404407,
+      "solveTime": 1727426189574,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 59.83734130859375,
+        "y": 11.16790771484375
+      }
+    },
+    "puz112": {
+      "puzName": "puz112",
+      "slug": "redundancy",
+      "displayName": "Redundancy",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727422617934,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 30.53741455078125,
+        "y": 43.18389892578125
+      }
+    },
+    "puz5": {
+      "puzName": "puz5",
+      "slug": "oooooo",
+      "displayName": "oooooo",
+      "hasAnswer": true,
+      "answer": "VACUOUS",
+      "isNew": true,
+      "unlockTime": 1727424706206,
+      "solveTime": 1727427881145,
+      "mapPos": {
+        "x": 11.968994140625,
+        "y": 18.775177001953125
+      }
+    },
+    "puz210": {
+      "puzName": "puz210",
+      "slug": "87219065",
+      "displayName": "",
+      "hasAnswer": true,
+      "answer": "LOSS",
+      "isNew": true,
+      "unlockTime": 1727426191632,
+      "solveTime": 1727451454717,
+      "mapPos": {
+        "x": 38.4857177734375,
+        "y": 39.420318603515625
+      },
+      "untitledPuzzleIndex": 32
+    },
+    "puz329": {
+      "puzName": "puz329",
+      "slug": "well_well_well",
+      "displayName": "Well, Well, Well",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727426912842,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 13.714599609375,
+        "y": 30.391693115234375
+      }
+    },
+    "puz105_custom_218": {
+      "puzName": "puz105_custom_218",
+      "slug": "custom_puzzle_218",
+      "displayName": "Backwards Engineering",
+      "hasAnswer": true,
+      "answer": "GNIREENIGNE",
+      "isNew": true,
+      "unlockTime": 1727426926151,
+      "solveTime": 1727460838885,
+      "customPuzzleData": {
+        "srcTeamId": "218"
+      }
+    },
+    "puz276": {
+      "puzName": "puz276",
+      "slug": "forefinger",
+      "displayName": "Forefinger",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727426994148,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 91.28570556640625,
+        "y": 7.55615234375
+      }
+    },
+    "puz180": {
+      "puzName": "puz180",
+      "slug": "a_puzzle_containing_enumerations",
+      "displayName": "A Puzzle Containing Enumerations of Titles of Various Works, Which Itself Has a Title Appropriate to the Theme of the Puzzle (2024)",
+      "hasAnswer": true,
+      "answer": "COUNTING",
+      "isNew": true,
+      "unlockTime": 1727427005854,
+      "solveTime": 1727464759197,
+      "mapPos": {
+        "x": 12.60528564453125,
+        "y": 40.564727783203125
+      }
+    },
+    "puz105_custom_976": {
+      "puzName": "puz105_custom_976",
+      "slug": "custom_puzzle_976",
+      "displayName": "Around the World",
+      "hasAnswer": true,
+      "answer": "MEMORIES",
+      "isNew": true,
+      "unlockTime": 1727427414643,
+      "solveTime": 1727451403905,
+      "customPuzzleData": {
+        "srcTeamId": "976"
+      }
+    },
+    "puz105_custom_749": {
+      "puzName": "puz105_custom_749",
+      "slug": "custom_puzzle_749",
+      "displayName": "50|50",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727427896287,
+      "customPuzzleData": {
+        "srcTeamId": "749"
+      }
+    },
+    "puz23": {
+      "puzName": "puz23",
+      "slug": "nyc_subway",
+      "displayName": "NYC Subway",
+      "hasAnswer": true,
+      "answer": "GRAND SLAM",
+      "isNew": true,
+      "unlockTime": 1727450974246,
+      "solveTime": 1727464087903,
+      "mapPos": {
+        "x": 30.1910400390625,
+        "y": 15.5609130859375
+      }
+    },
+    "puz105_custom_748": {
+      "puzName": "puz105_custom_748",
+      "slug": "custom_puzzle_748",
+      "displayName": "Alien Changes",
+      "hasAnswer": true,
+      "answer": "WARCRIME",
+      "isNew": true,
+      "unlockTime": 1727460869131,
+      "solveTime": 1727542382814,
+      "customPuzzleData": {
+        "srcTeamId": "748"
+      }
+    },
+    "puz105_custom_18": {
+      "puzName": "puz105_custom_18",
+      "slug": "custom_puzzle_18",
+      "displayName": "In terms of number of letters",
+      "hasAnswer": true,
+      "answer": "AND",
+      "isNew": true,
+      "unlockTime": 1727464807876,
+      "solveTime": 1727464823912,
+      "customPuzzleData": {
+        "srcTeamId": "18"
+      }
+    },
+    "puz105_custom_595": {
+      "puzName": "puz105_custom_595",
+      "slug": "custom_puzzle_595",
+      "displayName": "5050",
+      "hasAnswer": true,
+      "answer": "GAUSS",
+      "isNew": true,
+      "unlockTime": 1727464849129,
+      "solveTime": 1727528159636,
+      "customPuzzleData": {
+        "srcTeamId": "595"
+      }
+    },
+    "puz42": {
+      "puzName": "puz42",
+      "slug": "11x11_crossword",
+      "displayName": "11×11 Crossword",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727464984565,
+      "rarity": "rare",
+      "mapPos": {
+        "x": 61.95526123046875,
+        "y": 40.906524658203125
+      }
+    },
+    "puz105_custom_367": {
+      "puzName": "puz105_custom_367",
+      "slug": "custom_puzzle_367",
+      "displayName": "Hungarian-Risotto diagram",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727465004582,
+      "customPuzzleData": {
+        "srcTeamId": "367"
+      }
+    },
+    "puz283": {
+      "puzName": "puz283",
+      "slug": "maze",
+      "displayName": "Maze",
+      "hasAnswer": true,
+      "answer": "MINOTAUR",
+      "isNew": true,
+      "unlockTime": 1727466239769,
+      "solveTime": 1727541783485,
+      "mapPos": {
+        "x": 49.85809326171875,
+        "y": 44.855499267578125
+      }
+    },
+    "puz105_custom_490": {
+      "puzName": "puz105_custom_490",
+      "slug": "custom_puzzle_490",
+      "displayName": "Oh, What a Night",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727541367401,
+      "customPuzzleData": {
+        "srcTeamId": "490"
+      }
+    },
+    "puz105_custom_25": {
+      "puzName": "puz105_custom_25",
+      "slug": "custom_puzzle_25",
+      "displayName": "AB = C",
+      "hasAnswer": true,
+      "answer": "ORDERLY",
+      "isNew": true,
+      "unlockTime": 1727541376652,
+      "solveTime": 1727665208417,
+      "customPuzzleData": {
+        "srcTeamId": "25"
+      }
+    },
+    "puz105_custom_615": {
+      "puzName": "puz105_custom_615",
+      "slug": "custom_puzzle_615",
+      "displayName": "↖Find the Answer",
+      "hasAnswer": true,
+      "answer": "STAR",
+      "isNew": true,
+      "unlockTime": 1727541792787,
+      "solveTime": 1727664010060,
+      "customPuzzleData": {
+        "srcTeamId": "615"
+      }
+    },
+    "puz322": {
+      "puzName": "puz322",
+      "slug": "riddling",
+      "displayName": "riddling",
+      "hasAnswer": true,
+      "answer": "ORAN BERRY",
+      "isNew": true,
+      "unlockTime": 1727541806372,
+      "solveTime": 1727569763581,
+      "mapPos": {
+        "x": 81.79168701171875,
+        "y": 33.368682861328125
+      },
+      "areHintsDisabledUntilAllCannedHintsFound": true
+    },
+    "puz105_custom_269": {
+      "puzName": "puz105_custom_269",
+      "slug": "custom_puzzle_269",
+      "displayName": "50🏃❤️",
+      "hasAnswer": true,
+      "answer": "TEARS",
+      "isNew": true,
+      "unlockTime": 1727569356151,
+      "solveTime": 1727630893890,
+      "customPuzzleData": {
+        "srcTeamId": "269"
+      }
+    },
+    "puz105_custom_291": {
+      "puzName": "puz105_custom_291",
+      "slug": "custom_puzzle_291",
+      "displayName": "Optional Puzzle",
+      "hasAnswer": true,
+      "answer": "FRANKSINATRA",
+      "isNew": true,
+      "unlockTime": 1727569875875,
+      "solveTime": 1727632786235,
+      "customPuzzleData": {
+        "srcTeamId": "291"
+      }
+    },
+    "puz229": {
+      "puzName": "puz229",
+      "slug": "nations",
+      "displayName": "Nations",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727609728480,
+      "rarity": "uncommon",
+      "mapPos": {
+        "x": 12.6922607421875,
+        "y": 7.48138427734375
+      }
+    },
+    "puz66": {
+      "puzName": "puz66",
+      "slug": "rotten_puzzle",
+      "displayName": "Rotten Puzzle",
+      "hasAnswer": true,
+      "answer": "GROSS",
+      "isNew": true,
+      "unlockTime": 1727630898211,
+      "solveTime": 1727630942357,
+      "mapPos": {
+        "x": 61.968994140625,
+        "y": 20.642852783203125
+      }
+    },
+    "puz105_custom_555": {
+      "puzName": "puz105_custom_555",
+      "slug": "custom_puzzle_555",
+      "displayName": "Clues with Cryptic Answers",
+      "hasAnswer": true,
+      "answer": "ENIGMATIC",
+      "isNew": true,
+      "unlockTime": 1727630946207,
+      "solveTime": 1727631216961,
+      "rarity": "uncommon",
+      "customPuzzleData": {
+        "srcTeamId": "555"
+      }
+    },
+    "puz105_custom_792": {
+      "puzName": "puz105_custom_792",
+      "slug": "custom_puzzle_792",
+      "displayName": "False Soap",
+      "hasAnswer": true,
+      "answer": "LYES",
+      "isNew": true,
+      "unlockTime": 1727631670335,
+      "solveTime": 1727661881906,
+      "customPuzzleData": {
+        "srcTeamId": "792"
+      }
+    },
+    "puz105_custom_470": {
+      "puzName": "puz105_custom_470",
+      "slug": "custom_puzzle_470",
+      "displayName": "1025|1025",
+      "hasAnswer": true,
+      "answer": "AIPOM",
+      "isNew": true,
+      "unlockTime": 1727661449229,
+      "solveTime": 1727663872735,
+      "customPuzzleData": {
+        "srcTeamId": "470"
+      },
+      "hasMultipleAnswers": true
+    },
+    "puz105_custom_47": {
+      "puzName": "puz105_custom_47",
+      "slug": "custom_puzzle_47",
+      "displayName": "Freebie",
+      "hasAnswer": true,
+      "answer": "CELESTIAL",
+      "isNew": true,
+      "unlockTime": 1727663537589,
+      "solveTime": 1727665645822,
+      "customPuzzleData": {
+        "srcTeamId": "47"
+      }
+    },
+    "puz105_custom_186": {
+      "puzName": "puz105_custom_186",
+      "slug": "custom_puzzle_186",
+      "displayName": "A Controllable Word Puzzle with a 3 Letter Answer",
+      "hasAnswer": true,
+      "answer": "AIR",
+      "isNew": true,
+      "unlockTime": 1727663584857,
+      "solveTime": 1727665145604,
+      "customPuzzleData": {
+        "srcTeamId": "186"
+      }
+    },
+    "puz105_custom_181": {
+      "puzName": "puz105_custom_181",
+      "slug": "custom_puzzle_181",
+      "displayName": "AWESOME LIFE",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727663911139,
+      "customPuzzleData": {
+        "srcTeamId": "181"
+      }
+    },
+    "puz105_custom_73": {
+      "puzName": "puz105_custom_73",
+      "slug": "custom_puzzle_73",
+      "displayName": "🄿 🅄 🅉 🅉 🄻 🄴",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727665088600,
+      "customPuzzleData": {
+        "srcTeamId": "73"
+      }
+    },
+    "puz2": {
+      "puzName": "puz2",
+      "slug": "a5de5c6e",
+      "displayName": "",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727665234822,
+      "mapPos": {
+        "x": 67.2698974609375,
+        "y": 24.78179931640625
+      },
+      "untitledPuzzleIndex": 33
+    },
+    "puz120": {
+      "puzName": "puz120",
+      "slug": "bubble_wrap_puzzle",
+      "displayName": "Bubble Wrap Puzzle",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727665244476,
+      "mapPos": {
+        "x": 93.59588623046875,
+        "y": 11.731719970703125
+      }
+    },
+    "puz4": {
+      "puzName": "puz4",
+      "slug": "speech_of_the_officials",
+      "displayName": "Speech of the Officials",
+      "hasAnswer": true,
+      "answer": "MISSING",
+      "isNew": true,
+      "unlockTime": 1727665656061,
+      "solveTime": 1727666004547,
+      "mapPos": {
+        "x": 33.7005615234375,
+        "y": 32.66754150390625
+      }
+    },
+    "puz105_custom_97": {
+      "puzName": "puz105_custom_97",
+      "slug": "custom_puzzle_97",
+      "displayName": "Dust to Dust",
+      "hasAnswer": true,
+      "answer": "CONDOR",
+      "isNew": true,
+      "unlockTime": 1727666011905,
+      "solveTime": 1727666150191,
+      "customPuzzleData": {
+        "srcTeamId": "97"
+      }
+    },
+    "puz20": {
+      "puzName": "puz20",
+      "slug": "surrounded",
+      "displayName": "Surrounded",
+      "hasAnswer": true,
+      "answer": "THUG",
+      "isNew": true,
+      "unlockTime": 1727666153773,
+      "solveTime": 1727714661668,
+      "mapPos": {
+        "x": 73.93951416015625,
+        "y": 32.0556640625
+      }
+    },
+    "puz105_custom_343": {
+      "puzName": "puz105_custom_343",
+      "slug": "custom_puzzle_343",
+      "displayName": "Scatterbrain",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727666288412,
+      "rarity": "uncommon",
+      "customPuzzleData": {
+        "srcTeamId": "343"
+      }
+    },
+    "puz105_custom_610": {
+      "puzName": "puz105_custom_610",
+      "slug": "custom_puzzle_610",
+      "displayName": "Atomic Diplomacy",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727666337617,
+      "customPuzzleData": {
+        "srcTeamId": "610"
+      }
+    },
+    "puz105_custom_354": {
+      "puzName": "puz105_custom_354",
+      "slug": "custom_puzzle_354",
+      "displayName": "一道孬题",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727705978571,
+      "customPuzzleData": {
+        "srcTeamId": "354"
+      }
+    },
+    "puz105_custom_210": {
+      "puzName": "puz105_custom_210",
+      "slug": "custom_puzzle_210",
+      "displayName": "Four-By-Four",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727711777950,
+      "rarity": "uncommon",
+      "customPuzzleData": {
+        "srcTeamId": "210"
+      }
+    },
+    "puz105_custom_359": {
+      "puzName": "puz105_custom_359",
+      "slug": "custom_puzzle_359",
+      "displayName": "A Necklace of Stars",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727714610671,
+      "rarity": "uncommon",
+      "customPuzzleData": {
+        "srcTeamId": "359"
+      }
+    },
+    "gather_celestials": {
+      "puzName": "gather_celestials",
+      "slug": "a_celestial_gathering",
+      "displayName": "A Celestial Gathering",
+      "isNew": true,
+      "unlockTime": 1727715256313,
+      "solveTime": 1727715381127,
+      "isStory": true,
+      "mapPos": {
+        "x": 98.7152099609375,
+        "y": 31.946563720703125
+      },
+      "cutsceneImages": [
+        "stelle-happy",
+        "stelle-thinking",
+        "stelle",
+        "big_branch",
+        "lions",
+        "olive",
+        "rock_lobster",
+        "farmer",
+        "pom_pom",
+        "mop_mop",
+        "kid"
+      ],
+      "noCannedHints": true
+    },
+    "night_of_the_celestials": {
+      "puzName": "night_of_the_celestials",
+      "slug": "night_of_the_celestials",
+      "displayName": "Night of the Celestials",
+      "hasAnswer": true,
+      "answer": "STAR POWER VACUUM",
+      "isNew": true,
+      "unlockTime": 1727715381128,
+      "solveTime": 1727733689994,
+      "isBigMeta": true,
+      "rarity": "legendary",
+      "mapPos": {
+        "x": 35.4522705078125,
+        "y": 47.623443603515625
+      },
+      "noCannedHints": true
+    },
+    "puz105_custom_35": {
+      "puzName": "puz105_custom_35",
+      "slug": "custom_puzzle_35",
+      "displayName": "2x2",
+      "hasAnswer": true,
+      "isNew": true,
+      "unlockTime": 1727715929242,
+      "customPuzzleData": {
+        "srcTeamId": "35"
+      }
+    },
+    "the_end": {
+      "puzName": "the_end",
+      "slug": "the_end",
+      "displayName": "The End",
+      "isNew": true,
+      "unlockTime": 1727733689995,
+      "solveTime": 1727733743734,
+      "isStory": true,
+      "isFinalCutscene": true,
+      "mapPos": {
+        "x": 9.417724609375,
+        "y": 0.482177734375
+      },
+      "cutsceneImages": [
+        "kid",
+        "big_branch",
+        "olive",
+        "pompom_mopmop",
+        "farmer",
+        "lions",
+        "rock_lobster",
+        "stelle",
+        "stelle-happy",
+        "stelle-thinking",
+        "starry-sky",
+        "moonick"
+      ],
+      "noCannedHints": true
+    }
+  },
+  "huntStartTime": 1726871280000,
+  "huntEndTime": 1727735280000,
+  "hopeSnapshot": {
+    "hope": 1016,
+    "timestamp": 1727733785558
+  },
+  "finishedData": {
+    "numSolveCountPuzzles": 279,
+    "numCustomPuzzles": 132
+  },
+  "cutsceneChoices": {},
+  "lockedSolutions": {}
+}

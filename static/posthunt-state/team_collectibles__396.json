@@ -1,0 +1,41 @@
+{
+  "collectibles": {
+    "map": {
+      "name": "map",
+      "nounPrefix": "a",
+      "icon": "🗺️",
+      "num": 1,
+      "timestamp": 1726900654894
+    },
+    "rock": {
+      "name": "rock",
+      "nounPrefix": "a",
+      "icon": "🪨",
+      "num": 1,
+      "timestamp": 1726962411305
+    },
+    "spider": {
+      "name": "spider",
+      "nounPrefix": "a",
+      "icon": "🕷️",
+      "num": 1,
+      "timestamp": 1726965770697
+    },
+    "dust": {
+      "name": "dust",
+      "nounPrefix": "",
+      "icon": "💨",
+      "isHiddenFromTeamName": true,
+      "num": 63245,
+      "timestamp": 1726985569507
+    },
+    "apologems": {
+      "name": "apologems",
+      "nounPrefix": "",
+      "icon": "💎",
+      "isHiddenFromTeamName": true,
+      "num": 100,
+      "timestamp": 1727218431212
+    }
+  }
+}
