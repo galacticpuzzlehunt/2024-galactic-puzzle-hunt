@@ -1,0 +1,602 @@
+
+
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="format-detection" content="telephone=no">
+    <title>Galactic Puzzle Hunt</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, interactive-widget=resizes-content">
+    <meta name="darkreader-lock">
+    <meta property="og:title" content="Galactic Puzzle Hunt 2024">
+    <meta property="og:description" content="Join us on a camping trip to watch the stars. Register now!">
+    <meta property="og:image" content="https://2024.galacticpuzzlehunt.com/static/images/banner.png">
+    <meta property="twitter:card" content="summary_large_image">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,400;0,700;1,400&family=Piazzolla:ital,opsz,wght@0,8..30,100..900;1,8..30,100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Emoji&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/skeleton.css">
+    <link rel="stylesheet" href="/static/css/base.css">
+    <link rel="stylesheet" href="/static/css/puzzlejs.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <script src="https://colorjs.io/dist/color.global.js"></script>
+    <script src="/static/js/jquery.formset.js"></script>
+    <script src="/static/js/tray.js"></script>
+    <script src="/static/js/time.js"></script>
+    <script src="/static/js/copyjack.js"></script>
+    <link rel="icon" href="/static/images/favicon.ico" sizes="32x32">
+    <link rel="icon" href="/static/images/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/static/images/apple-touch-icon.png">
+    <link rel="manifest" href="/static/manifest.webmanifest">
+    
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y1N52VY61R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y1N52VY61R', {cookie_flags: 'secure;samesite=none'});
+</script>
+
+</head>
+<body>
+    <nav id="slide-nav">
+        <div id="slide-nav-contents">
+            
+                
+                
+                    <div id="nav-team-name"></div>
+                
+            
+            <div class="site-nav">
+            
+                <hr>
+                <a href="/">Home</a>
+                <a href="/about">About</a>
+                
+                <a href="/puzzles">Puzzles</a>
+                
+                <a href="/teams">Teams</a>
+                <a href="https://galacticpuzzlehunt.com/archive">Archive</a>
+            
+            </div>
+        </div>
+        <button type="button" id="menu-btn" aria-label="Open navigation" aria-controls="site-nav" aria-expanded="false">
+            <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <path d="m6.1896 9.8937c-1.5793 1.1608-3.5309 4.2328-2.2362 4.9858 1.2946 0.75299 3.3548-2.0426 2.9627-5.0514-0.75634-5.8034-8.3838-2.5491-5.1036-0.88879 3.2802 1.6603 8.2111-3.1786 8.4201-5.1807 0.20895-2.002-1.2465-3.5703-2.1046-2.302-0.85808 1.2683-1.7055 7.569 1.0125 8.3578 2.718 0.78878 7.4238-4.8112 5.3417-5.4438-2.082-0.6326-6.3568 5.5019-5.1611 8.2579 1.9954-6.3925 7.0266 5.1685 2.3904 1.6694" pathLength="50" />
+</svg>
+
+        </button>
+    </nav>
+    <script>
+        function showNotify(data) {
+            const {title, text, link} = JSON.parse(data);
+            toastr.info(text, title, {
+                timeOut: 30000, extendedTimeOut: 30000, closeButton: true,
+                onclick: () => window.open(link, '_blank'),
+            });
+        }
+        
+    </script>
+    
+<style>
+body {
+    margin: initial;
+    overflow-x: hidden;
+    scrollbar-gutter: stable both-edges;
+    width: 100%;
+    max-width: unset;
+}
+
+.top-more-actions {
+    display: none;
+}
+
+#camp {
+    background: linear-gradient(#0f89ff, 20%, #40c8ff);
+    height: 400vh;
+    position: relative;
+    color-scheme: light only;
+}
+
+.circles {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    opacity: 0.01;
+    transform-origin: bottom right;
+    scale: 2.0;
+    translate: 50% 50%;
+}
+
+#stars, #sunset {
+    height: 100%;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    opacity: 0;
+}
+
+#stars {
+    background: repeat center/contain url(/static/images/bg/stars.png);
+}
+
+#sunset {
+    background: linear-gradient(#5a66d200 0%, #9d74d9 25%, #f586b1 50%, #ff9898 75%, #e0e3ad 100%);
+    height: 133vh;
+    transform: translate(0, -33vh);
+    opacity: 1;
+}
+
+#circles1 {
+    animation: spin1 60s linear infinite;
+}
+
+#circles2 {
+    animation: spin2 60s linear infinite;
+}
+
+@keyframes spin1 {
+    from {rotate:0deg;}
+    to {rotate:-90deg;}
+}
+
+@keyframes spin2 {
+    from {rotate:90deg;}
+    to {rotate:0deg;}
+}
+
+#sun {
+    position: fixed;
+    top: calc(80% - 33vw);
+    left: calc(50% - 33vw/2);
+    width: 33vw;
+}
+
+@media screen and (max-aspect-ratio: 1) {
+    #sun {
+        top: calc(80% - 33vh);
+        left: calc(50% - 33vh/2);
+        width: 33vh;
+    }
+}
+
+#grass-container {
+    position: fixed;
+    bottom: 0;
+    left: calc(-7%);
+    height: 200px;
+}
+
+.grass {
+    position: absolute;
+}
+
+.grass-anim-1 {
+    transform-origin: bottom center;
+    animation: grass-anim-1 20s ease-in-out infinite;
+}
+.grass-anim-2 {
+    transform-origin: bottom center;
+    animation: grass-anim-2 20s ease-in-out infinite;
+}
+.grass-anim-3 {
+    transform-origin: bottom center;
+    animation: grass-anim-3 20s ease-in-out infinite;
+}
+
+@keyframes grass-anim-1 {
+    0%, 51%, 100%{transform: skewX(11deg)}
+    20%{transform: skewX(-10deg)}
+    72%{transform: skewX(-15deg)}
+}
+
+@keyframes grass-anim-2 {
+    0%, 50%, 100%{transform: skewX(10deg)}
+    20%{transform: skewX(-10deg)}
+    70%{transform: skewX(-12deg)}
+}
+
+@keyframes grass-anim-3 {
+    0%, 55%, 100%{transform: skewX(-10deg) skewY(5deg)}
+    25%{transform: skewX(10deg) skewY(-5deg)}
+    74%{transform: skewX(12deg) skewY(-5deg)}
+}
+
+#grass1 {
+    transform: translate(544px, -146px) scale(0.5) rotate(-35deg);
+}
+
+#grass2 {
+    transform: translate(47px, -100px) scale(0.35) rotate(19deg);
+}
+
+#grass3 {
+    transform: translate(-78px, -120px) scale(0.4) rotate(17deg);
+}
+
+#grass4 {
+    transform: translate(141px,-85px) scale(0.3) rotate(2deg);
+}
+
+#grass5 {
+    transform: translate(-156px, -156px) scale(0.42) rotate(34deg);
+}
+
+#grass6 {
+    transform: translate(442px, -112px) scale(0.45) rotate(-15deg);
+}
+
+#grass7 {
+    transform: translate(234px, -85px) scale(0.3) rotate(-6deg);
+}
+
+#grass8 {
+    transform: translate(321px, -95px) scale(0.33) rotate(-15deg);
+}
+
+#flowers1 {
+    transform: translate(101px, -23px) scaleY(0.5) scaleX(-0.5) rotateX(-12deg) rotateY(-11deg) rotateZ(-51deg);
+}
+
+#flowers2 {
+    transform: translate(-143px, -125px) scale(0.5) rotateX(-12deg) rotateY(-11deg) rotateZ(12deg);
+}
+
+#flowers3 {
+    transform: translate(627px, -35px) scaleX(-0.4) scaleY(0.4) rotate(-1deg);
+}
+
+#flowers4 {
+    transform: translate(407px, -80px) scale(0.3) rotate(-25deg);
+}
+
+#overlay {
+    position: absolute;
+    mix-blend-mode: overlay;
+    transform: translate(-580px, -426px) scale(.4);
+}
+
+#base {
+    transform: translate(198px, 131px) scale(1.6);
+}
+
+.blur1 {
+    filter: blur(1px);
+}
+
+.blur2 {
+    filter: blur(2px);
+}
+
+
+@media screen and (min-aspect-ratio: 1 / 4.0) { .circles { scale: 3.0; translate: 140% 50%; } }
+@media screen and (min-aspect-ratio: 2 / 4.0) { .circles { scale: 2.5; translate: 100% 50%; } }
+@media screen and (min-aspect-ratio: 3 / 4.0) { .circles { scale: 2.0; translate: 60% 60%; } }
+@media screen and (min-aspect-ratio: 4 / 4.0) { .circles { scale: 2.0; translate: 70% 60%; } }
+@media screen and (min-aspect-ratio: 4 / 3.0) { .circles { scale: 2.0; translate: 80% 60%; } }
+@media screen and (min-aspect-ratio: 4 / 2.5) { .circles { scale: 2.0; translate: 80% 60%; } }
+@media screen and (min-aspect-ratio: 4 / 2.0) { .circles { scale: 2.0; translate: 90% 60%; } }
+@media screen and (min-aspect-ratio: 4 / 1.5) { .circles { scale: 2.0; translate: 90% 60%; } }
+
+#grass-wrapper {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    transform-origin: bottom center;
+}
+
+@media screen and (min-aspect-ratio: 1 / 4.0) { #grass-wrapper { scale: 1.7; } }
+@media screen and (min-aspect-ratio: 2 / 4.0) { #grass-wrapper { scale: 1.5; } }
+@media screen and (min-aspect-ratio: 3 / 4.0) { #grass-wrapper { scale: 1.3; } }
+@media screen and (min-aspect-ratio: 4 / 4.0) { #grass-wrapper { scale: 1.2; } }
+@media screen and (min-aspect-ratio: 4 / 3.0) { #grass-wrapper { scale: 1.0; } }
+
+/* only show this if the viewport needs it */
+.scroll-down {
+    text-align: center;
+    margin-top: calc(100vw * 0.3);
+    margin-bottom: 5rem;
+    font-style: italic;
+}
+
+.bottom {
+    background-color: var(--info-bg-color);
+    padding-bottom: 10rem;
+    position: absolute;
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+.feedback, .register {
+    text-align: center;
+}
+
+.register .btn {
+    height: 4.5rem;
+    line-height: 4rem;
+    font-size: 3rem;
+    font-weight: 600;
+    text-transform: lowercase;
+}
+
+.info-row {
+    justify-content: center;
+    padding: 5rem;
+}
+
+@media screen and (max-width: 900px) {
+    .info-row {
+        flex-direction: column; align-items: center;
+        padding: 5rem 2rem 2rem;
+    }
+}
+
+.info-row h4 {
+    font-weight: 600;
+    font-size: 3rem;
+    font-style: italic;
+    text-transform: lowercase;
+    margin: 0 0 2rem;
+    border: none;
+}
+
+.info-row > div {
+    max-width: 30rem;
+}
+
+@media screen and (max-width: 900px) { .info-row > div { max-width: 45rem; } }
+
+.title-block {
+    position: fixed;
+    top: 10%;
+    right: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+#title {
+    margin: 0;
+    font-family: var(--text-font);
+    color: var(--neutral-90);
+    text-transform: lowercase;
+    font-size: 3rem;
+    font-weight: 400;
+    text-align: right;
+    letter-spacing: 0.02em;
+    word-spacing: 0.1em;
+}
+
+#subtitle {
+    margin: 0;
+    color: var(--neutral-90);
+    text-transform: lowercase;
+    font-style: italic;
+    font-size: 5rem;
+    font-weight: 500;
+    line-height: 1;
+    opacity: 0;
+    letter-spacing: 0.02em;
+    word-spacing: 0.1em;
+}
+
+.footnote {
+    font-size: 80%;
+    line-height: 1.5;
+}
+
+.feedback {
+    position: relative;
+    z-index: 10;
+
+    font-size: 1.55rem;
+    color: var(--link-text-color);
+    font-style: initial;
+    text-align: left;
+
+    width: 60rem;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: var(--btn-bg-2-color);
+    border-radius: 5px;
+
+    filter: drop-shadow(0 0 7px rgba(255, 255, 255, 0.5));
+}
+</style>
+
+<script src="https://colorjs.io/dist/color.global.js"></script>
+<script>
+const clamp = (min, value, max) => value < min ? min : value > max ? max : value;
+
+let camp, circles1, circles2, stars, sun, sunset, overlay, title, subtitle;
+let grassContainer;
+
+const sky00 = new Color("#0f89ff").range("#6e40a6");
+const sky01 = new Color("#6e40a6").range("#34378b");
+const sky10 = new Color("#40c8ff").range("#5256ff");
+const sky11 = new Color("#5256ff").range("#34378b");
+
+const sunset0 = new Color("#0f89ff00").range("#5a66d200");
+const sunset1 = new Color("#0f89ff").range("#9d74d9");
+const sunset2 = new Color("#33a8ff").range("#f586b1");
+const sunset3 = new Color("#40c8ff").range("#ff9898");
+
+const title0 = new Color("#fbfcff").range("#c5c6cd");
+
+function animate() {
+    const progress = window.scrollY / window.innerHeight;
+
+    camp.style.background = progress < 1
+        ? `linear-gradient(${sky00(progress)}, ${sky10(progress)})`
+        : progress < 2
+        ? `linear-gradient(${sky01(progress - 1)}, ${sky11(progress - 1)})`
+        : `#34378b`;
+
+    sunset.style.background = progress < 0.66
+        ? `linear-gradient(${[
+            `${sunset0(progress * 1.5)} 0%`,
+            `${sunset1(progress * 1.5)} 19%`,
+            `${sunset2(progress * 1.5)} 37%`,
+            `${sunset3(progress * 1.5)} 56%`,
+            `#e0e3ad 75%`,
+        ].join(", ")})`
+        : `linear-gradient(#5a66d200 0%, #9d74d9 19%, #f586b1 37%, #ff9898 56%, #e0e3ad 75%)`;
+    sunset.style.transform = `translate(0, ${45 * progress - 33}vh)`;
+
+    sun.style.transform = `translate(0, ${60 * progress}%)`;
+    overlay.style.opacity = clamp(0, 1 - Math.abs(progress - .6), 1);
+    stars.style.opacity = clamp(0, progress * 2 - 1, 1);
+    circles1.style.opacity = circles2.style.opacity = clamp(0, progress * 3 - 2, .3);
+
+    title.style.color = title0(clamp(0, progress / 2, 1));
+    title.style.opacity = progress > 2.5 ? clamp(0, 4 - progress, 1) : 1;
+    subtitle.style.opacity = progress > 2.5 ? clamp(0, 4 - progress, 1) : clamp(0, progress - 1.5, 1);
+
+    grassContainer.style.filter = `brightness(${clamp(0, 1 - progress / 2, 1)})`;
+}
+
+window.addEventListener("scroll", () => {
+    window.requestAnimationFrame(animate);
+});
+
+function scale() {
+    const width = window.innerWidth;
+    const height = window.innerHeight;
+
+    grassContainer.style.transform = `scale(${width / 790})`;
+
+    if (width < 500) {
+        title.innerHTML = "Galactic Puzzle<br/>Hunt 2024"
+    } else {
+        title.innerHTML = "Galactic Puzzle Hunt 2024"
+    }
+}
+
+window.addEventListener("resize", () => {
+    window.requestAnimationFrame(scale);
+});
+
+document.addEventListener("DOMContentLoaded", () => {
+    camp = document.getElementById("camp");
+    stars = document.getElementById("stars");
+    circles1 = document.getElementById("circles1");
+    circles2 = document.getElementById("circles2");
+    sun = document.getElementById("sun");
+    sunset = document.getElementById("sunset");
+    overlay = document.getElementById("overlay");
+    title = document.getElementById("title");
+    subtitle = document.getElementById("subtitle");
+    grassContainer = document.getElementById("grass-container");
+
+    window.requestAnimationFrame(scale);
+    window.requestAnimationFrame(animate);
+});
+</script>
+
+<div id="camp">
+    <img class="circles" id="circles1" src="/static/images/bg/circles.png">
+    <img class="circles" id="circles2" src="/static/images/bg/circles.png">
+    <div id="stars"></div>
+    <div id="sunset"></div>
+    <img id="sun" src="/static/images/bg/sun.svg">
+    <div class="title-block">
+        <h1 id="title">Galactic Puzzle Hunt 2024</h1>
+        <h2 id="subtitle">stargazing</h2>
+    </div>
+    <div id="grass-wrapper">
+        <div id="grass-container">
+            <div class="grass" id="flowers1">
+                <img class="grass-anim-3 blur1" src="/static/images/bg/flower.png">
+            </div>
+            <div class="grass" id="flowers2">
+                <img class="grass-anim-2 blur2" src="/static/images/bg/flowers.png">
+            </div>
+            <div class="grass" id="grass4">
+                <img class="grass-anim-2"  src="/static/images/bg/grass2.png">
+            </div>
+            <div class="grass" id="grass7">
+                <img class="grass-anim-1" src="/static/images/bg/grass3.png">
+            </div>
+            <div class="grass" id="grass2">
+                <img class="grass-anim-1"  src="/static/images/bg/grass2.png">
+            </div>
+            <div class="grass" id="grass8">
+                <img class="grass-anim-2" src="/static/images/bg/grass2.png">
+            </div>
+            <div class="grass" id="grass3">
+                <img class="grass-anim-1 blur1"  src="/static/images/bg/grass1.png">
+            </div>
+            <div class="grass" id="grass5">
+                <img class="grass-anim-1 blur2"  src="/static/images/bg/grass3.png">
+            </div>
+            <div class="grass" id="grass6">
+                <img class="grass-anim-2" src="/static/images/bg/grass1.png">
+            </div>
+            <div class="grass" id="grass1">
+                <img class="grass-anim-1 blur2"  src="/static/images/bg/grass3.png">
+            </div>
+            <div class="grass" id="base">
+                <img src="/static/images/bg/base.png">
+            </div>
+            <div id="overlay">
+                <img src="/static/images/bg/overlay.png">
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="bottom">
+    <div class="info-row">
+        <div>
+            <h4>What</h4>
+            <div class="info-desc">
+                Join us on a camping trip to watch the stars. Far from the hubbub, far from the stress, and most importantly, far from the puzzles.*
+                <br><br>
+                <div class="footnote"><sup>*</sup>Well…</div>
+            </div>
+        </div>
+        <div>
+            <h4>When</h4>
+            <div class="info-desc">
+                
+                
+                
+                The hunt began on <time datetime="2024-09-20T18:28:00-04:00" data-format="F j, Y \a\t g:i A T">September 20, 2024 at 6:28 PM EDT</time>, and ended on <time datetime="2024-09-30T18:28:00-04:00" data-format="F j, Y \a\t g:i A T">September 30, 2024 at 6:28 PM EDT</time>.
+                
+            </div>
+        </div>
+        <div>
+            <h4>Who</h4>
+            <div class="info-desc">
+                This was a puzzlehunt run by
+                ✈&#xfeff;✈&#xfeff;✈&nbsp;Galactic Trendsetters ✈&#xfeff;✈&#xfeff;✈,
+                and was a follow-up
+                to the previous <a href="https://galacticpuzzlehunt.com/archive">Galactic Puzzle Hunts</a>.
+                
+            </div>
+        </div>
+    </div>
+
+</div>
+
+    
+    <link rel="stylesheet" href="/static/game/assets/main.css">
+    <script type="module" src="/static/game/assets/main.js"></script>
+    <script>
+        window.djangoBaseUrl = "/";
+        window.isWrapupPageVisible = true;
+        
+            window.isPosthunt = true;
+        
+    </script>
+    
+</body>
+</html>
