@@ -74,10 +74,10 @@ html {
 
     --info-bg-color: var(--neutral-12);
 
-    --text-font: "Alegreya Sans", sans-serif;
-    --accent-font: "Piazzolla", serif;
-    --input-font: "Alegreya Sans", sans-serif;
-    --answer-font: monospace;
+    --text-font: "Alegreya Sans", "Noto Sans SC", "Noto Sans JP", sans-serif;
+    --accent-font: "Piazzolla", "Noto Sans SC", "Noto Sans JP", serif;
+    --input-font: "Alegreya Sans", "Noto Sans SC", "Noto Sans JP", sans-serif;
+    --answer-font: monospace, "Noto Sans SC", "Noto Sans JP";
 
     --page-background: var(--page-bg-color);
 }
